@@ -1,0 +1,1327 @@
+id_kecamatan,nama_kecamatan,nama_kabupaten,tahun,indeks_k2_komposit,indeks_sfai,indeks_akses_informasi
+0,Wundulako,Kolaka,2020,0.3804,0.3804,0.6994
+1,Kolaka,Kolaka,2020,0.3613,0.3613,0.8265
+2,Pomalaa,Kolaka,2020,0.3819,0.3819,0.5863
+3,Watubangga,Kolaka,2020,0.4544,0.4544,0.384
+4,Wolo,Kolaka,2020,0.1753,0.1753,0.2669
+5,Baula,Kolaka,2020,0.3755,0.3755,0.6578
+6,Latambaga,Kolaka,2020,0.2768,0.2768,0.6614
+7,Tanggetada,Kolaka,2020,0.4337,0.4337,0.4961
+8,Samaturu,Kolaka,2020,0.231,0.231,0.4147
+9,Toari,Kolaka,2020,0.4946,0.4946,0.3725
+10,Polinggona,Kolaka,2020,0.3464,0.3464,0.3879
+11,Iwoimendaa,Kolaka,2020,0.265,0.265,0.2316
+12,Lambuya,Konawe,2020,0.4534,0.4534,0.6654
+13,Unaaha,Konawe,2020,0.6973,0.6973,0.9992
+14,Wawotobi,Konawe,2020,0.6299,0.6299,0.7727
+15,Pondidaha,Konawe,2020,0.6315,0.6315,0.5494
+16,Sampara,Konawe,2020,0.6277,0.6277,0.8408
+17,Abuki,Konawe,2020,0.3002,0.3002,0.5353
+18,Soropia,Konawe,2020,0.6611,0.6611,0.8379
+19,Tongauna,Konawe,2020,0.5251,0.5251,0.91
+20,Latoma,Konawe,2020,0.1344,0.1344,0.1967
+21,Puriala,Konawe,2020,0.4974,0.4974,0.4845
+22,Uepai,Konawe,2020,0.3626,0.3626,0.877
+23,Wonggeduku,Konawe,2020,0.6171,0.6171,0.5598
+24,Besulutu,Konawe,2020,0.5716,0.5716,0.6214
+25,Bondoala,Konawe,2020,0.6366,0.6366,0.7697
+26,Routa,Konawe,2020,0.1278,0.1278,0.1017
+27,Anggaberi,Konawe,2020,0.315,0.315,0.7118
+28,Meluhu,Konawe,2020,0.4974,0.4974,0.6353
+29,Amonggedo,Konawe,2020,0.3694,0.3694,0.5954
+30,Asinua,Konawe,2020,0.214,0.214,0.383
+31,Konawe,Konawe,2020,0.6418,0.6418,0.8033
+32,Kapoiala,Konawe,2020,0.6249,0.6249,0.7796
+33,Lalonggasumeeto,Konawe,2020,0.5654,0.5654,0.8921
+34,Onembute,Konawe,2020,0.3535,0.3535,0.4966
+35,Padangguni,Konawe,2020,0.2424,0.2424,0.4054
+36,Morosi,Konawe,2020,0.4911,0.4911,0.6184
+37,Anggalomoare,Konawe,2020,0.6305,0.6305,0.871
+38,Wonggeduku Barat,Konawe,2020,0.5961,0.5961,0.6443
+39,Tongauna Utara,Konawe,2020,0.2745,0.2745,0.614
+40,Napabalano,Muna,2020,0.5029,0.5029,0.3268
+41,Maligano,Muna,2020,0.434,0.434,0.4539
+42,Wakorumba Selatan,Muna,2020,0.5047,0.5047,0.4196
+43,Lasalepa,Muna,2020,0.5526,0.5526,0.3229
+44,Batalaiworu,Muna,2020,0.707,0.707,0.3286
+45,Katobu,Muna,2020,0.8435,0.8435,0.3344
+46,Duruka,Muna,2020,0.7142,0.7142,0.3454
+47,Lohia,Muna,2020,0.4811,0.4811,0.3571
+48,Watopute,Muna,2020,0.4451,0.4451,0.3489
+49,Kontunaga,Muna,2020,0.5722,0.5722,0.3593
+50,Kabangka,Muna,2020,0.5517,0.5517,0.7346
+51,Kabawo,Muna,2020,0.501,0.501,0.5344
+52,Parigi,Muna,2020,0.5259,0.5259,0.5444
+53,Bone,Muna,2020,0.5334,0.5334,0.5586
+54,Tongkuno,Muna,2020,0.4247,0.4247,0.5103
+55,Pasir Putih,Muna,2020,0.5055,0.5055,0.4187
+56,Kontu Kowuna,Muna,2020,0.5272,0.5272,0.5562
+57,Marobo,Muna,2020,0.619,0.619,0.5149
+58,Tongkuno Selatan,Muna,2020,0.4757,0.4757,0.6339
+59,Pasi Kolaga,Muna,2020,0.5239,0.5239,0.4472
+60,Batukara,Muna,2020,0.4668,0.4668,0.4626
+61,Towea,Muna,2020,0.3255,0.3255,0.3745
+62,Pasarwajo,Buton,2020,0.3361,0.3361,0.558
+63,Kapontori,Buton,2020,0.3808,0.3808,0.4812
+64,Lasalimu,Buton,2020,0.4918,0.4918,0.2938
+65,Lasalimu Selatan,Buton,2020,0.4696,0.4696,0.2024
+66,Siotapina,Buton,2020,0.3206,0.3206,0.2566
+67,Wolowa,Buton,2020,0.2853,0.2853,0.3615
+68,Wabula,Buton,2020,0.3184,0.3184,0.4612
+69,Tinanggea,Konawe Selatan,2020,0.4312,0.4312,0.6065
+70,Angata,Konawe Selatan,2020,0.396,0.396,0.3827
+71,Andoolo,Konawe Selatan,2020,0.5647,0.5647,0.6593
+72,Palangga,Konawe Selatan,2020,0.4855,0.4855,0.6074
+73,Landono,Konawe Selatan,2020,0.4022,0.4022,0.608
+74,Lainea,Konawe Selatan,2020,0.3882,0.3882,0.5372
+75,Konda,Konawe Selatan,2020,0.5193,0.5193,0.8616
+76,Ranomeeto,Konawe Selatan,2020,0.5453,0.5453,0.8634
+77,Kolono,Konawe Selatan,2020,0.3804,0.3804,0.5427
+78,Moramo,Konawe Selatan,2020,0.4306,0.4306,0.532
+79,Laonti,Konawe Selatan,2020,0.1972,0.1972,0.4022
+80,Lalembuu,Konawe Selatan,2020,0.4259,0.4259,0.3756
+81,Benua,Konawe Selatan,2020,0.5457,0.5457,0.3583
+82,Palangga Selatan,Konawe Selatan,2020,0.5513,0.5513,0.5686
+83,Mowila,Konawe Selatan,2020,0.4814,0.4814,0.4788
+84,Moramo Utara,Konawe Selatan,2020,0.399,0.399,0.7573
+85,Buke,Konawe Selatan,2020,0.4777,0.4777,0.4594
+86,Wolasi,Konawe Selatan,2020,0.324,0.324,0.6806
+87,Laeya,Konawe Selatan,2020,0.4116,0.4116,0.7237
+88,Baito,Konawe Selatan,2020,0.3186,0.3186,0.5466
+89,Basala,Konawe Selatan,2020,0.5782,0.5782,0.3321
+90,Ranomeeto Barat,Konawe Selatan,2020,0.5644,0.5644,0.7939
+91,Kolono Timur,Konawe Selatan,2020,0.321,0.321,0.5194
+92,Sabulakoa,Konawe Selatan,2020,0.5523,0.5523,0.616
+93,Andoolo Barat,Konawe Selatan,2020,0.5421,0.5421,0.449
+94,Poleang,Bombana,2020,0.505,0.505,0.5125
+95,Poleang Timur,Bombana,2020,0.4621,0.4621,0.7506
+96,Rarowatu,Bombana,2020,0.4675,0.4675,0.648
+97,Rumbia,Bombana,2020,0.5051,0.5051,0.798
+98,Kabaena,Bombana,2020,0.4383,0.4383,0.6861
+99,Kabaena Timur,Bombana,2020,0.3095,0.3095,0.6753
+100,Poleang Barat,Bombana,2020,0.405,0.405,0.3978
+101,Mata Oleo,Bombana,2020,0.5338,0.5338,0.5819
+102,Rarowatu Utara,Bombana,2020,0.3948,0.3948,0.5044
+103,Poleang Utara,Bombana,2020,0.4661,0.4661,0.7056
+104,Poleang Selatan,Bombana,2020,0.5753,0.5753,0.7922
+105,Poleang Tenggara,Bombana,2020,0.3486,0.3486,0.6012
+106,Kabaena Selatan,Bombana,2020,0.3446,0.3446,0.5721
+107,Kabaena Barat,Bombana,2020,0.5248,0.5248,0.5377
+108,Kabaena Utara,Bombana,2020,0.5074,0.5074,0.5599
+109,Kabaena Tengah,Bombana,2020,0.3265,0.3265,0.7047
+110,Kep. Masaloka Raya,Bombana,2020,0.7187,0.7187,0.5155
+111,Rumbia Tengah,Bombana,2020,0.6153,0.6153,0.8037
+112,Poleang Tengah,Bombana,2020,0.6297,0.6297,0.6177
+113,Tontonunu,Bombana,2020,0.406,0.406,0.5309
+114,Lantari Jaya,Bombana,2020,0.3289,0.3289,0.3798
+115,Mata Usu,Bombana,2020,0.1935,0.1935,0.3269
+116,Wangi-Wangi,Wakatobi,2020,0.6567,0.6567,0.4492
+117,Kaledupa,Wakatobi,2020,0.5732,0.5732,0.2214
+118,Tomia,Wakatobi,2020,0.4812,0.4812,0.6351
+119,Binongko,Wakatobi,2020,0.4819,0.4819,0.3161
+120,Wangi Wangi Selatan,Wakatobi,2020,0.5064,0.5064,0.2976
+121,Kaledupa Selatan,Wakatobi,2020,0.3894,0.3894,0.269
+122,Tomia Timur,Wakatobi,2020,0.4955,0.4955,0.777
+123,Togo Binongko,Wakatobi,2020,0.4624,0.4624,0.2589
+124,Lasusua,Kolaka Utara,2020,0.2626,0.2626,0.3663
+125,Pakue,Kolaka Utara,2020,0.2939,0.2939,0.1091
+126,Batu Putih,Kolaka Utara,2020,0.2642,0.2642,0.0703
+127,Rante Angin,Kolaka Utara,2020,0.2823,0.2823,0.3864
+128,Kodeoha,Kolaka Utara,2020,0.2456,0.2456,0.194
+129,Ngapa,Kolaka Utara,2020,0.2412,0.2412,0.15
+130,Wawo,Kolaka Utara,2020,0.2062,0.2062,0.2649
+131,Lambai,Kolaka Utara,2020,0.2184,0.2184,0.3303
+132,Watunohu,Kolaka Utara,2020,0.5456,0.5456,0.1223
+133,Pakue Tengah,Kolaka Utara,2020,0.2499,0.2499,0.0895
+134,Pakue Utara,Kolaka Utara,2020,0.1583,0.1583,0.085
+135,Porehu,Kolaka Utara,2020,0.1666,0.1666,0.0608
+136,Katoi,Kolaka Utara,2020,0.2127,0.2127,0.2459
+137,Tiwu,Kolaka Utara,2020,0.4103,0.4103,0.1583
+138,Tolala,Kolaka Utara,2020,0.3499,0.3499,0.0271
+139,Asera,Konawe Utara,2020,0.0676,0.0676,0.2336
+140,Wiwirano,Konawe Utara,2020,0.2423,0.2423,0.1449
+141,Langgikima,Konawe Utara,2020,0.5956,0.5956,0.2108
+142,Molawe,Konawe Utara,2020,0.351,0.351,0.4085
+143,Lasolo,Konawe Utara,2020,0.3348,0.3348,0.466
+144,Lembo,Konawe Utara,2020,0.3433,0.3433,0.4797
+145,Sawa,Konawe Utara,2020,0.5433,0.5433,0.6289
+146,Oheo,Konawe Utara,2020,0.2631,0.2631,0.2609
+147,Andowia,Konawe Utara,2020,0.3873,0.3873,0.4697
+148,Motui,Konawe Utara,2020,0.5695,0.5695,0.6146
+149,Wawolesea,Konawe Utara,2020,0.4882,0.4882,0.4267
+150,Lasolo Kepulauan,Konawe Utara,2020,0.2793,0.2793,0.3007
+151,Landawe,Konawe Utara,2020,0.3986,0.3986,0.1937
+152,Kulisusu,Buton Utara,2020,0.6028,0.6028,0.8454
+153,Kambowa,Buton Utara,2020,0.3585,0.3585,0.4241
+154,Bonegunu,Buton Utara,2020,0.3861,0.3861,0.6455
+155,Kulisusu Barat,Buton Utara,2020,0.3083,0.3083,0.6126
+156,Kulisusu Utara,Buton Utara,2020,0.4205,0.4205,0.4888
+157,Wakorumba Utara,Buton Utara,2020,0.3607,0.3607,0.5085
+158,Tirawuta,Kolaka Timur,2020,0.3488,0.3488,0.5042
+159,Loea,Kolaka Timur,2020,0.2974,0.2974,0.4468
+160,Ladongi,Kolaka Timur,2020,0.3687,0.3687,0.416
+161,Poli Polia,Kolaka Timur,2020,0.4821,0.4821,0.386
+162,Lambandia,Kolaka Timur,2020,0.4609,0.4609,0.293
+163,Lalolae,Kolaka Timur,2020,0.591,0.591,0.5037
+164,Mowewe,Kolaka Timur,2020,0.3471,0.3471,0.5348
+165,Uluiwoi,Kolaka Timur,2020,0.252,0.252,0.4005
+166,Tinondo,Kolaka Timur,2020,0.266,0.266,0.485
+167,Aere,Kolaka Timur,2020,0.3769,0.3769,0.3791
+168,Ueesi,Kolaka Timur,2020,0.0699,0.0699,0.1765
+169,Dangia,Kolaka Timur,2020,0.4599,0.4599,0.3218
+170,Wawonii Barat,Konawe Kepulauan,2020,0.4316,0.4316,0.2541
+171,Wawonii Utara,Konawe Kepulauan,2020,0.3124,0.3124,0.2075
+172,Wawonii Timur Laut,Konawe Kepulauan,2020,0.4394,0.4394,0.1698
+173,Wawonii Timur,Konawe Kepulauan,2020,0.2462,0.2462,0.1779
+174,Wawonii Tenggara,Konawe Kepulauan,2020,0.316,0.316,0.2158
+175,Wawonii Selatan,Konawe Kepulauan,2020,0.3964,0.3964,0.2538
+176,Wawonii Tengah,Konawe Kepulauan,2020,0.4485,0.4485,0.2817
+177,Sawerigadi,Muna Barat,2020,0.4739,0.4739,0.5045
+178,Barangka,Muna Barat,2020,0.5871,0.5871,0.4342
+179,Lawa,Muna Barat,2020,0.4926,0.4926,0.4213
+180,Wadaga,Muna Barat,2020,0.3982,0.3982,0.502
+181,Tiworo Selatan,Muna Barat,2020,0.5819,0.5819,0.6979
+182,Maginti,Muna Barat,2020,0.4699,0.4699,0.7653
+183,Tiworo Tengah,Muna Barat,2020,0.5732,0.5732,0.7795
+184,Tiworo Utara,Muna Barat,2020,0.2278,0.2278,0.5043
+185,Tiworo Kepulauan,Muna Barat,2020,0.5212,0.5212,0.6421
+186,Kusambi,Muna Barat,2020,0.4682,0.4682,0.3963
+187,Napano Kusambi,Muna Barat,2020,0.3249,0.3249,0.3359
+188,Lakudo,Buton Tengah,2020,0.4584,0.4584,0.7358
+189,Mawasangka Timur,Buton Tengah,2020,0.4787,0.4787,0.795
+190,Mawasangka Tengah,Buton Tengah,2020,0.4456,0.4456,0.7136
+191,Mawasangka,Buton Tengah,2020,0.4557,0.4557,0.6846
+192,Talaga Raya,Buton Tengah,2020,0.2041,0.2041,0.4225
+193,Gu,Buton Tengah,2020,0.6362,0.6362,0.7592
+194,Sangia Wambulu,Buton Tengah,2020,0.7426,0.7426,0.8801
+195,Batauga,Buton Selatan,2020,0.4077,0.4077,0.6644
+196,Sampolawa,Buton Selatan,2020,0.429,0.429,0.6814
+197,Lapandewa,Buton Selatan,2020,0.4818,0.4818,0.4485
+198,Batu Atas,Buton Selatan,2020,0.6073,0.6073,0.094
+199,Siompu Barat,Buton Selatan,2020,0.5336,0.5336,0.4434
+200,Siompu,Buton Selatan,2020,0.566,0.566,0.5008
+201,Kadatua,Buton Selatan,2020,0.5971,0.5971,0.7962
+202,Mandonga,Kota Kendari,2020,0.7254,0.7254,0.9585
+203,Kendari,Kota Kendari,2020,0.5961,0.5961,1.0
+204,Baruga,Kota Kendari,2020,0.7667,0.7667,0.9832
+205,Poasia,Kota Kendari,2020,0.6993,0.6993,0.9878
+206,Kendari Barat,Kota Kendari,2020,0.515,0.515,1.0
+207,Abeli,Kota Kendari,2020,0.6072,0.6072,0.9758
+208,Wua-Wua,Kota Kendari,2020,0.8441,0.8441,1.0
+209,Kadia,Kota Kendari,2020,0.945,0.945,1.0
+210,Puuwatu,Kota Kendari,2020,0.7303,0.7303,0.9883
+211,Kambu,Kota Kendari,2020,0.761,0.761,0.9916
+212,Nambo,Kota Kendari,2020,0.5396,0.5396,0.9865
+213,Betoambari,Kota Bau Bau,2020,0.7685,0.7685,0.9992
+214,Wolio,Kota Bau Bau,2020,0.7203,0.7203,0.981
+215,Sorawolio,Kota Bau Bau,2020,0.4513,0.4513,0.8659
+216,Bungi,Kota Bau Bau,2020,0.5521,0.5521,0.9405
+217,Kokalukuna,Kota Bau Bau,2020,0.7912,0.7912,1.0
+218,Murhum,Kota Bau Bau,2020,0.8698,0.8698,1.0
+219,Lea-Lea,Kota Bau Bau,2020,0.6824,0.6824,0.9934
+220,Batupoaro,Kota Bau Bau,2020,0.971,0.971,1.0
+0,Wundulako,Kolaka,2025,0.3804,0.3804,0.6994
+1,Kolaka,Kolaka,2025,0.3613,0.3613,0.8265
+2,Pomalaa,Kolaka,2025,0.3819,0.3819,0.5863
+3,Watubangga,Kolaka,2025,0.4544,0.4544,0.384
+4,Wolo,Kolaka,2025,0.1753,0.1753,0.2669
+5,Baula,Kolaka,2025,0.3755,0.3755,0.6578
+6,Latambaga,Kolaka,2025,0.2768,0.2768,0.6614
+7,Tanggetada,Kolaka,2025,0.4337,0.4337,0.4961
+8,Samaturu,Kolaka,2025,0.231,0.231,0.4147
+9,Toari,Kolaka,2025,0.4946,0.4946,0.3725
+10,Polinggona,Kolaka,2025,0.3464,0.3464,0.3879
+11,Iwoimendaa,Kolaka,2025,0.265,0.265,0.2316
+12,Lambuya,Konawe,2025,0.4534,0.4534,0.6654
+13,Unaaha,Konawe,2025,0.6973,0.6973,0.9992
+14,Wawotobi,Konawe,2025,0.6299,0.6299,0.7727
+15,Pondidaha,Konawe,2025,0.6315,0.6315,0.5494
+16,Sampara,Konawe,2025,0.6277,0.6277,0.8408
+17,Abuki,Konawe,2025,0.3002,0.3002,0.5353
+18,Soropia,Konawe,2025,0.6611,0.6611,0.8379
+19,Tongauna,Konawe,2025,0.5251,0.5251,0.91
+20,Latoma,Konawe,2025,0.1344,0.1344,0.1967
+21,Puriala,Konawe,2025,0.4974,0.4974,0.4845
+22,Uepai,Konawe,2025,0.3626,0.3626,0.877
+23,Wonggeduku,Konawe,2025,0.6171,0.6171,0.5598
+24,Besulutu,Konawe,2025,0.5716,0.5716,0.6214
+25,Bondoala,Konawe,2025,0.6366,0.6366,0.7697
+26,Routa,Konawe,2025,0.1278,0.1278,0.1017
+27,Anggaberi,Konawe,2025,0.315,0.315,0.7118
+28,Meluhu,Konawe,2025,0.4974,0.4974,0.6353
+29,Amonggedo,Konawe,2025,0.3694,0.3694,0.5954
+30,Asinua,Konawe,2025,0.214,0.214,0.383
+31,Konawe,Konawe,2025,0.6418,0.6418,0.8033
+32,Kapoiala,Konawe,2025,0.6249,0.6249,0.7796
+33,Lalonggasumeeto,Konawe,2025,0.5654,0.5654,0.8921
+34,Onembute,Konawe,2025,0.3535,0.3535,0.4966
+35,Padangguni,Konawe,2025,0.2424,0.2424,0.4054
+36,Morosi,Konawe,2025,0.4911,0.4911,0.6184
+37,Anggalomoare,Konawe,2025,0.6305,0.6305,0.871
+38,Wonggeduku Barat,Konawe,2025,0.5961,0.5961,0.6443
+39,Tongauna Utara,Konawe,2025,0.2745,0.2745,0.614
+40,Napabalano,Muna,2025,0.5029,0.5029,0.3268
+41,Maligano,Muna,2025,0.434,0.434,0.4539
+42,Wakorumba Selatan,Muna,2025,0.5047,0.5047,0.4196
+43,Lasalepa,Muna,2025,0.5526,0.5526,0.3229
+44,Batalaiworu,Muna,2025,0.707,0.707,0.3286
+45,Katobu,Muna,2025,0.8435,0.8435,0.3344
+46,Duruka,Muna,2025,0.7142,0.7142,0.3454
+47,Lohia,Muna,2025,0.4811,0.4811,0.3571
+48,Watopute,Muna,2025,0.4451,0.4451,0.3489
+49,Kontunaga,Muna,2025,0.5722,0.5722,0.3593
+50,Kabangka,Muna,2025,0.5517,0.5517,0.7346
+51,Kabawo,Muna,2025,0.501,0.501,0.5344
+52,Parigi,Muna,2025,0.5259,0.5259,0.5444
+53,Bone,Muna,2025,0.5334,0.5334,0.5586
+54,Tongkuno,Muna,2025,0.4247,0.4247,0.5103
+55,Pasir Putih,Muna,2025,0.5055,0.5055,0.4187
+56,Kontu Kowuna,Muna,2025,0.5272,0.5272,0.5562
+57,Marobo,Muna,2025,0.619,0.619,0.5149
+58,Tongkuno Selatan,Muna,2025,0.4757,0.4757,0.6339
+59,Pasi Kolaga,Muna,2025,0.5239,0.5239,0.4472
+60,Batukara,Muna,2025,0.4668,0.4668,0.4626
+61,Towea,Muna,2025,0.3255,0.3255,0.3745
+62,Pasarwajo,Buton,2025,0.3361,0.3361,0.558
+63,Kapontori,Buton,2025,0.3808,0.3808,0.4812
+64,Lasalimu,Buton,2025,0.4918,0.4918,0.2938
+65,Lasalimu Selatan,Buton,2025,0.4696,0.4696,0.2024
+66,Siotapina,Buton,2025,0.3206,0.3206,0.2566
+67,Wolowa,Buton,2025,0.2853,0.2853,0.3615
+68,Wabula,Buton,2025,0.3184,0.3184,0.4612
+69,Tinanggea,Konawe Selatan,2025,0.4312,0.4312,0.6065
+70,Angata,Konawe Selatan,2025,0.396,0.396,0.3827
+71,Andoolo,Konawe Selatan,2025,0.5647,0.5647,0.6593
+72,Palangga,Konawe Selatan,2025,0.4855,0.4855,0.6074
+73,Landono,Konawe Selatan,2025,0.4022,0.4022,0.608
+74,Lainea,Konawe Selatan,2025,0.3882,0.3882,0.5372
+75,Konda,Konawe Selatan,2025,0.5193,0.5193,0.8616
+76,Ranomeeto,Konawe Selatan,2025,0.5453,0.5453,0.8634
+77,Kolono,Konawe Selatan,2025,0.3804,0.3804,0.5427
+78,Moramo,Konawe Selatan,2025,0.4306,0.4306,0.532
+79,Laonti,Konawe Selatan,2025,0.1972,0.1972,0.4022
+80,Lalembuu,Konawe Selatan,2025,0.4259,0.4259,0.3756
+81,Benua,Konawe Selatan,2025,0.5457,0.5457,0.3583
+82,Palangga Selatan,Konawe Selatan,2025,0.5513,0.5513,0.5686
+83,Mowila,Konawe Selatan,2025,0.4814,0.4814,0.4788
+84,Moramo Utara,Konawe Selatan,2025,0.399,0.399,0.7573
+85,Buke,Konawe Selatan,2025,0.4777,0.4777,0.4594
+86,Wolasi,Konawe Selatan,2025,0.324,0.324,0.6806
+87,Laeya,Konawe Selatan,2025,0.4116,0.4116,0.7237
+88,Baito,Konawe Selatan,2025,0.3186,0.3186,0.5466
+89,Basala,Konawe Selatan,2025,0.5782,0.5782,0.3321
+90,Ranomeeto Barat,Konawe Selatan,2025,0.5644,0.5644,0.7939
+91,Kolono Timur,Konawe Selatan,2025,0.321,0.321,0.5194
+92,Sabulakoa,Konawe Selatan,2025,0.5523,0.5523,0.616
+93,Andoolo Barat,Konawe Selatan,2025,0.5421,0.5421,0.449
+94,Poleang,Bombana,2025,0.505,0.505,0.5125
+95,Poleang Timur,Bombana,2025,0.4621,0.4621,0.7506
+96,Rarowatu,Bombana,2025,0.4675,0.4675,0.648
+97,Rumbia,Bombana,2025,0.5051,0.5051,0.798
+98,Kabaena,Bombana,2025,0.4383,0.4383,0.6861
+99,Kabaena Timur,Bombana,2025,0.3095,0.3095,0.6753
+100,Poleang Barat,Bombana,2025,0.405,0.405,0.3978
+101,Mata Oleo,Bombana,2025,0.5338,0.5338,0.5819
+102,Rarowatu Utara,Bombana,2025,0.3948,0.3948,0.5044
+103,Poleang Utara,Bombana,2025,0.4661,0.4661,0.7056
+104,Poleang Selatan,Bombana,2025,0.5753,0.5753,0.7922
+105,Poleang Tenggara,Bombana,2025,0.3486,0.3486,0.6012
+106,Kabaena Selatan,Bombana,2025,0.3446,0.3446,0.5721
+107,Kabaena Barat,Bombana,2025,0.5248,0.5248,0.5377
+108,Kabaena Utara,Bombana,2025,0.5074,0.5074,0.5599
+109,Kabaena Tengah,Bombana,2025,0.3265,0.3265,0.7047
+110,Kep. Masaloka Raya,Bombana,2025,0.7187,0.7187,0.5155
+111,Rumbia Tengah,Bombana,2025,0.6153,0.6153,0.8037
+112,Poleang Tengah,Bombana,2025,0.6297,0.6297,0.6177
+113,Tontonunu,Bombana,2025,0.406,0.406,0.5309
+114,Lantari Jaya,Bombana,2025,0.3289,0.3289,0.3798
+115,Mata Usu,Bombana,2025,0.1935,0.1935,0.3269
+116,Wangi-Wangi,Wakatobi,2025,0.6567,0.6567,0.4492
+117,Kaledupa,Wakatobi,2025,0.5732,0.5732,0.2214
+118,Tomia,Wakatobi,2025,0.4812,0.4812,0.6351
+119,Binongko,Wakatobi,2025,0.4819,0.4819,0.3161
+120,Wangi Wangi Selatan,Wakatobi,2025,0.5064,0.5064,0.2976
+121,Kaledupa Selatan,Wakatobi,2025,0.3894,0.3894,0.269
+122,Tomia Timur,Wakatobi,2025,0.4955,0.4955,0.777
+123,Togo Binongko,Wakatobi,2025,0.4624,0.4624,0.2589
+124,Lasusua,Kolaka Utara,2025,0.2626,0.2626,0.3663
+125,Pakue,Kolaka Utara,2025,0.2939,0.2939,0.1091
+126,Batu Putih,Kolaka Utara,2025,0.2642,0.2642,0.0703
+127,Rante Angin,Kolaka Utara,2025,0.2823,0.2823,0.3864
+128,Kodeoha,Kolaka Utara,2025,0.2456,0.2456,0.194
+129,Ngapa,Kolaka Utara,2025,0.2412,0.2412,0.15
+130,Wawo,Kolaka Utara,2025,0.2062,0.2062,0.2649
+131,Lambai,Kolaka Utara,2025,0.2184,0.2184,0.3303
+132,Watunohu,Kolaka Utara,2025,0.5456,0.5456,0.1223
+133,Pakue Tengah,Kolaka Utara,2025,0.2499,0.2499,0.0895
+134,Pakue Utara,Kolaka Utara,2025,0.1583,0.1583,0.085
+135,Porehu,Kolaka Utara,2025,0.1666,0.1666,0.0608
+136,Katoi,Kolaka Utara,2025,0.2127,0.2127,0.2459
+137,Tiwu,Kolaka Utara,2025,0.4103,0.4103,0.1583
+138,Tolala,Kolaka Utara,2025,0.3499,0.3499,0.0271
+139,Asera,Konawe Utara,2025,0.0676,0.0676,0.2336
+140,Wiwirano,Konawe Utara,2025,0.2423,0.2423,0.1449
+141,Langgikima,Konawe Utara,2025,0.5956,0.5956,0.2108
+142,Molawe,Konawe Utara,2025,0.351,0.351,0.4085
+143,Lasolo,Konawe Utara,2025,0.3348,0.3348,0.466
+144,Lembo,Konawe Utara,2025,0.3433,0.3433,0.4797
+145,Sawa,Konawe Utara,2025,0.5433,0.5433,0.6289
+146,Oheo,Konawe Utara,2025,0.2631,0.2631,0.2609
+147,Andowia,Konawe Utara,2025,0.3873,0.3873,0.4697
+148,Motui,Konawe Utara,2025,0.5695,0.5695,0.6146
+149,Wawolesea,Konawe Utara,2025,0.4882,0.4882,0.4267
+150,Lasolo Kepulauan,Konawe Utara,2025,0.2793,0.2793,0.3007
+151,Landawe,Konawe Utara,2025,0.3986,0.3986,0.1937
+152,Kulisusu,Buton Utara,2025,0.6028,0.6028,0.8454
+153,Kambowa,Buton Utara,2025,0.3585,0.3585,0.4241
+154,Bonegunu,Buton Utara,2025,0.3861,0.3861,0.6455
+155,Kulisusu Barat,Buton Utara,2025,0.3083,0.3083,0.6126
+156,Kulisusu Utara,Buton Utara,2025,0.4205,0.4205,0.4888
+157,Wakorumba Utara,Buton Utara,2025,0.3607,0.3607,0.5085
+158,Tirawuta,Kolaka Timur,2025,0.3488,0.3488,0.5042
+159,Loea,Kolaka Timur,2025,0.2974,0.2974,0.4468
+160,Ladongi,Kolaka Timur,2025,0.3687,0.3687,0.416
+161,Poli Polia,Kolaka Timur,2025,0.4821,0.4821,0.386
+162,Lambandia,Kolaka Timur,2025,0.4609,0.4609,0.293
+163,Lalolae,Kolaka Timur,2025,0.591,0.591,0.5037
+164,Mowewe,Kolaka Timur,2025,0.3471,0.3471,0.5348
+165,Uluiwoi,Kolaka Timur,2025,0.252,0.252,0.4005
+166,Tinondo,Kolaka Timur,2025,0.266,0.266,0.485
+167,Aere,Kolaka Timur,2025,0.3769,0.3769,0.3791
+168,Ueesi,Kolaka Timur,2025,0.0699,0.0699,0.1765
+169,Dangia,Kolaka Timur,2025,0.4599,0.4599,0.3218
+170,Wawonii Barat,Konawe Kepulauan,2025,0.4316,0.4316,0.2541
+171,Wawonii Utara,Konawe Kepulauan,2025,0.3124,0.3124,0.2075
+172,Wawonii Timur Laut,Konawe Kepulauan,2025,0.4394,0.4394,0.1698
+173,Wawonii Timur,Konawe Kepulauan,2025,0.2462,0.2462,0.1779
+174,Wawonii Tenggara,Konawe Kepulauan,2025,0.316,0.316,0.2158
+175,Wawonii Selatan,Konawe Kepulauan,2025,0.3964,0.3964,0.2538
+176,Wawonii Tengah,Konawe Kepulauan,2025,0.4485,0.4485,0.2817
+177,Sawerigadi,Muna Barat,2025,0.4739,0.4739,0.5045
+178,Barangka,Muna Barat,2025,0.5871,0.5871,0.4342
+179,Lawa,Muna Barat,2025,0.4926,0.4926,0.4213
+180,Wadaga,Muna Barat,2025,0.3982,0.3982,0.502
+181,Tiworo Selatan,Muna Barat,2025,0.5819,0.5819,0.6979
+182,Maginti,Muna Barat,2025,0.4699,0.4699,0.7653
+183,Tiworo Tengah,Muna Barat,2025,0.5732,0.5732,0.7795
+184,Tiworo Utara,Muna Barat,2025,0.2278,0.2278,0.5043
+185,Tiworo Kepulauan,Muna Barat,2025,0.5212,0.5212,0.6421
+186,Kusambi,Muna Barat,2025,0.4682,0.4682,0.3963
+187,Napano Kusambi,Muna Barat,2025,0.3249,0.3249,0.3359
+188,Lakudo,Buton Tengah,2025,0.4584,0.4584,0.7358
+189,Mawasangka Timur,Buton Tengah,2025,0.4787,0.4787,0.795
+190,Mawasangka Tengah,Buton Tengah,2025,0.4456,0.4456,0.7136
+191,Mawasangka,Buton Tengah,2025,0.4557,0.4557,0.6846
+192,Talaga Raya,Buton Tengah,2025,0.2041,0.2041,0.4225
+193,Gu,Buton Tengah,2025,0.6362,0.6362,0.7592
+194,Sangia Wambulu,Buton Tengah,2025,0.7426,0.7426,0.8801
+195,Batauga,Buton Selatan,2025,0.4077,0.4077,0.6644
+196,Sampolawa,Buton Selatan,2025,0.429,0.429,0.6814
+197,Lapandewa,Buton Selatan,2025,0.4818,0.4818,0.4485
+198,Batu Atas,Buton Selatan,2025,0.6073,0.6073,0.094
+199,Siompu Barat,Buton Selatan,2025,0.5336,0.5336,0.4434
+200,Siompu,Buton Selatan,2025,0.566,0.566,0.5008
+201,Kadatua,Buton Selatan,2025,0.5971,0.5971,0.7962
+202,Mandonga,Kota Kendari,2025,0.7254,0.7254,0.9585
+203,Kendari,Kota Kendari,2025,0.5961,0.5961,1.0
+204,Baruga,Kota Kendari,2025,0.7667,0.7667,0.9832
+205,Poasia,Kota Kendari,2025,0.6993,0.6993,0.9878
+206,Kendari Barat,Kota Kendari,2025,0.515,0.515,1.0
+207,Abeli,Kota Kendari,2025,0.6072,0.6072,0.9758
+208,Wua-Wua,Kota Kendari,2025,0.8441,0.8441,1.0
+209,Kadia,Kota Kendari,2025,0.945,0.945,1.0
+210,Puuwatu,Kota Kendari,2025,0.7303,0.7303,0.9883
+211,Kambu,Kota Kendari,2025,0.761,0.761,0.9916
+212,Nambo,Kota Kendari,2025,0.5396,0.5396,0.9865
+213,Betoambari,Kota Bau Bau,2025,0.7685,0.7685,0.9992
+214,Wolio,Kota Bau Bau,2025,0.7203,0.7203,0.981
+215,Sorawolio,Kota Bau Bau,2025,0.4513,0.4513,0.8659
+216,Bungi,Kota Bau Bau,2025,0.5521,0.5521,0.9405
+217,Kokalukuna,Kota Bau Bau,2025,0.7912,0.7912,1.0
+218,Murhum,Kota Bau Bau,2025,0.8698,0.8698,1.0
+219,Lea-Lea,Kota Bau Bau,2025,0.6824,0.6824,0.9934
+220,Batupoaro,Kota Bau Bau,2025,0.971,0.971,1.0
+0,Wundulako,Kolaka,2030,0.3804,0.3804,0.6994
+1,Kolaka,Kolaka,2030,0.3613,0.3613,0.8265
+2,Pomalaa,Kolaka,2030,0.3819,0.3819,0.5863
+3,Watubangga,Kolaka,2030,0.4544,0.4544,0.384
+4,Wolo,Kolaka,2030,0.1753,0.1753,0.2669
+5,Baula,Kolaka,2030,0.3755,0.3755,0.6578
+6,Latambaga,Kolaka,2030,0.2768,0.2768,0.6614
+7,Tanggetada,Kolaka,2030,0.4337,0.4337,0.4961
+8,Samaturu,Kolaka,2030,0.231,0.231,0.4147
+9,Toari,Kolaka,2030,0.4946,0.4946,0.3725
+10,Polinggona,Kolaka,2030,0.3464,0.3464,0.3879
+11,Iwoimendaa,Kolaka,2030,0.265,0.265,0.2316
+12,Lambuya,Konawe,2030,0.4534,0.4534,0.6654
+13,Unaaha,Konawe,2030,0.6973,0.6973,0.9992
+14,Wawotobi,Konawe,2030,0.6299,0.6299,0.7727
+15,Pondidaha,Konawe,2030,0.6315,0.6315,0.5494
+16,Sampara,Konawe,2030,0.6277,0.6277,0.8408
+17,Abuki,Konawe,2030,0.3002,0.3002,0.5353
+18,Soropia,Konawe,2030,0.6611,0.6611,0.8379
+19,Tongauna,Konawe,2030,0.5251,0.5251,0.91
+20,Latoma,Konawe,2030,0.1344,0.1344,0.1967
+21,Puriala,Konawe,2030,0.4974,0.4974,0.4845
+22,Uepai,Konawe,2030,0.3626,0.3626,0.877
+23,Wonggeduku,Konawe,2030,0.6171,0.6171,0.5598
+24,Besulutu,Konawe,2030,0.5716,0.5716,0.6214
+25,Bondoala,Konawe,2030,0.6366,0.6366,0.7697
+26,Routa,Konawe,2030,0.1278,0.1278,0.1017
+27,Anggaberi,Konawe,2030,0.315,0.315,0.7118
+28,Meluhu,Konawe,2030,0.4974,0.4974,0.6353
+29,Amonggedo,Konawe,2030,0.3694,0.3694,0.5954
+30,Asinua,Konawe,2030,0.214,0.214,0.383
+31,Konawe,Konawe,2030,0.6418,0.6418,0.8033
+32,Kapoiala,Konawe,2030,0.6249,0.6249,0.7796
+33,Lalonggasumeeto,Konawe,2030,0.5654,0.5654,0.8921
+34,Onembute,Konawe,2030,0.3535,0.3535,0.4966
+35,Padangguni,Konawe,2030,0.2424,0.2424,0.4054
+36,Morosi,Konawe,2030,0.4911,0.4911,0.6184
+37,Anggalomoare,Konawe,2030,0.6305,0.6305,0.871
+38,Wonggeduku Barat,Konawe,2030,0.5961,0.5961,0.6443
+39,Tongauna Utara,Konawe,2030,0.2745,0.2745,0.614
+40,Napabalano,Muna,2030,0.5029,0.5029,0.3268
+41,Maligano,Muna,2030,0.434,0.434,0.4539
+42,Wakorumba Selatan,Muna,2030,0.5047,0.5047,0.4196
+43,Lasalepa,Muna,2030,0.5526,0.5526,0.3229
+44,Batalaiworu,Muna,2030,0.707,0.707,0.3286
+45,Katobu,Muna,2030,0.8435,0.8435,0.3344
+46,Duruka,Muna,2030,0.7142,0.7142,0.3454
+47,Lohia,Muna,2030,0.4811,0.4811,0.3571
+48,Watopute,Muna,2030,0.4451,0.4451,0.3489
+49,Kontunaga,Muna,2030,0.5722,0.5722,0.3593
+50,Kabangka,Muna,2030,0.5517,0.5517,0.7346
+51,Kabawo,Muna,2030,0.501,0.501,0.5344
+52,Parigi,Muna,2030,0.5259,0.5259,0.5444
+53,Bone,Muna,2030,0.5334,0.5334,0.5586
+54,Tongkuno,Muna,2030,0.4247,0.4247,0.5103
+55,Pasir Putih,Muna,2030,0.5055,0.5055,0.4187
+56,Kontu Kowuna,Muna,2030,0.5272,0.5272,0.5562
+57,Marobo,Muna,2030,0.619,0.619,0.5149
+58,Tongkuno Selatan,Muna,2030,0.4757,0.4757,0.6339
+59,Pasi Kolaga,Muna,2030,0.5239,0.5239,0.4472
+60,Batukara,Muna,2030,0.4668,0.4668,0.4626
+61,Towea,Muna,2030,0.3255,0.3255,0.3745
+62,Pasarwajo,Buton,2030,0.3361,0.3361,0.558
+63,Kapontori,Buton,2030,0.3808,0.3808,0.4812
+64,Lasalimu,Buton,2030,0.4918,0.4918,0.2938
+65,Lasalimu Selatan,Buton,2030,0.4696,0.4696,0.2024
+66,Siotapina,Buton,2030,0.3206,0.3206,0.2566
+67,Wolowa,Buton,2030,0.2853,0.2853,0.3615
+68,Wabula,Buton,2030,0.3184,0.3184,0.4612
+69,Tinanggea,Konawe Selatan,2030,0.4312,0.4312,0.6065
+70,Angata,Konawe Selatan,2030,0.396,0.396,0.3827
+71,Andoolo,Konawe Selatan,2030,0.5647,0.5647,0.6593
+72,Palangga,Konawe Selatan,2030,0.4855,0.4855,0.6074
+73,Landono,Konawe Selatan,2030,0.4022,0.4022,0.608
+74,Lainea,Konawe Selatan,2030,0.3882,0.3882,0.5372
+75,Konda,Konawe Selatan,2030,0.5193,0.5193,0.8616
+76,Ranomeeto,Konawe Selatan,2030,0.5453,0.5453,0.8634
+77,Kolono,Konawe Selatan,2030,0.3804,0.3804,0.5427
+78,Moramo,Konawe Selatan,2030,0.4306,0.4306,0.532
+79,Laonti,Konawe Selatan,2030,0.1972,0.1972,0.4022
+80,Lalembuu,Konawe Selatan,2030,0.4259,0.4259,0.3756
+81,Benua,Konawe Selatan,2030,0.5457,0.5457,0.3583
+82,Palangga Selatan,Konawe Selatan,2030,0.5513,0.5513,0.5686
+83,Mowila,Konawe Selatan,2030,0.4814,0.4814,0.4788
+84,Moramo Utara,Konawe Selatan,2030,0.399,0.399,0.7573
+85,Buke,Konawe Selatan,2030,0.4777,0.4777,0.4594
+86,Wolasi,Konawe Selatan,2030,0.324,0.324,0.6806
+87,Laeya,Konawe Selatan,2030,0.4116,0.4116,0.7237
+88,Baito,Konawe Selatan,2030,0.3186,0.3186,0.5466
+89,Basala,Konawe Selatan,2030,0.5782,0.5782,0.3321
+90,Ranomeeto Barat,Konawe Selatan,2030,0.5644,0.5644,0.7939
+91,Kolono Timur,Konawe Selatan,2030,0.321,0.321,0.5194
+92,Sabulakoa,Konawe Selatan,2030,0.5523,0.5523,0.616
+93,Andoolo Barat,Konawe Selatan,2030,0.5421,0.5421,0.449
+94,Poleang,Bombana,2030,0.505,0.505,0.5125
+95,Poleang Timur,Bombana,2030,0.4621,0.4621,0.7506
+96,Rarowatu,Bombana,2030,0.4675,0.4675,0.648
+97,Rumbia,Bombana,2030,0.5051,0.5051,0.798
+98,Kabaena,Bombana,2030,0.4383,0.4383,0.6861
+99,Kabaena Timur,Bombana,2030,0.3095,0.3095,0.6753
+100,Poleang Barat,Bombana,2030,0.405,0.405,0.3978
+101,Mata Oleo,Bombana,2030,0.5338,0.5338,0.5819
+102,Rarowatu Utara,Bombana,2030,0.3948,0.3948,0.5044
+103,Poleang Utara,Bombana,2030,0.4661,0.4661,0.7056
+104,Poleang Selatan,Bombana,2030,0.5753,0.5753,0.7922
+105,Poleang Tenggara,Bombana,2030,0.3486,0.3486,0.6012
+106,Kabaena Selatan,Bombana,2030,0.3446,0.3446,0.5721
+107,Kabaena Barat,Bombana,2030,0.5248,0.5248,0.5377
+108,Kabaena Utara,Bombana,2030,0.5074,0.5074,0.5599
+109,Kabaena Tengah,Bombana,2030,0.3265,0.3265,0.7047
+110,Kep. Masaloka Raya,Bombana,2030,0.7187,0.7187,0.5155
+111,Rumbia Tengah,Bombana,2030,0.6153,0.6153,0.8037
+112,Poleang Tengah,Bombana,2030,0.6297,0.6297,0.6177
+113,Tontonunu,Bombana,2030,0.406,0.406,0.5309
+114,Lantari Jaya,Bombana,2030,0.3289,0.3289,0.3798
+115,Mata Usu,Bombana,2030,0.1935,0.1935,0.3269
+116,Wangi-Wangi,Wakatobi,2030,0.6567,0.6567,0.4492
+117,Kaledupa,Wakatobi,2030,0.5732,0.5732,0.2214
+118,Tomia,Wakatobi,2030,0.4812,0.4812,0.6351
+119,Binongko,Wakatobi,2030,0.4819,0.4819,0.3161
+120,Wangi Wangi Selatan,Wakatobi,2030,0.5064,0.5064,0.2976
+121,Kaledupa Selatan,Wakatobi,2030,0.3894,0.3894,0.269
+122,Tomia Timur,Wakatobi,2030,0.4955,0.4955,0.777
+123,Togo Binongko,Wakatobi,2030,0.4624,0.4624,0.2589
+124,Lasusua,Kolaka Utara,2030,0.2626,0.2626,0.3663
+125,Pakue,Kolaka Utara,2030,0.2939,0.2939,0.1091
+126,Batu Putih,Kolaka Utara,2030,0.2642,0.2642,0.0703
+127,Rante Angin,Kolaka Utara,2030,0.2823,0.2823,0.3864
+128,Kodeoha,Kolaka Utara,2030,0.2456,0.2456,0.194
+129,Ngapa,Kolaka Utara,2030,0.2412,0.2412,0.15
+130,Wawo,Kolaka Utara,2030,0.2062,0.2062,0.2649
+131,Lambai,Kolaka Utara,2030,0.2184,0.2184,0.3303
+132,Watunohu,Kolaka Utara,2030,0.5456,0.5456,0.1223
+133,Pakue Tengah,Kolaka Utara,2030,0.2499,0.2499,0.0895
+134,Pakue Utara,Kolaka Utara,2030,0.1583,0.1583,0.085
+135,Porehu,Kolaka Utara,2030,0.1666,0.1666,0.0608
+136,Katoi,Kolaka Utara,2030,0.2127,0.2127,0.2459
+137,Tiwu,Kolaka Utara,2030,0.4103,0.4103,0.1583
+138,Tolala,Kolaka Utara,2030,0.3499,0.3499,0.0271
+139,Asera,Konawe Utara,2030,0.0676,0.0676,0.2336
+140,Wiwirano,Konawe Utara,2030,0.2423,0.2423,0.1449
+141,Langgikima,Konawe Utara,2030,0.5956,0.5956,0.2108
+142,Molawe,Konawe Utara,2030,0.351,0.351,0.4085
+143,Lasolo,Konawe Utara,2030,0.3348,0.3348,0.466
+144,Lembo,Konawe Utara,2030,0.3433,0.3433,0.4797
+145,Sawa,Konawe Utara,2030,0.5433,0.5433,0.6289
+146,Oheo,Konawe Utara,2030,0.2631,0.2631,0.2609
+147,Andowia,Konawe Utara,2030,0.3873,0.3873,0.4697
+148,Motui,Konawe Utara,2030,0.5695,0.5695,0.6146
+149,Wawolesea,Konawe Utara,2030,0.4882,0.4882,0.4267
+150,Lasolo Kepulauan,Konawe Utara,2030,0.2793,0.2793,0.3007
+151,Landawe,Konawe Utara,2030,0.3986,0.3986,0.1937
+152,Kulisusu,Buton Utara,2030,0.6028,0.6028,0.8454
+153,Kambowa,Buton Utara,2030,0.3585,0.3585,0.4241
+154,Bonegunu,Buton Utara,2030,0.3861,0.3861,0.6455
+155,Kulisusu Barat,Buton Utara,2030,0.3083,0.3083,0.6126
+156,Kulisusu Utara,Buton Utara,2030,0.4205,0.4205,0.4888
+157,Wakorumba Utara,Buton Utara,2030,0.3607,0.3607,0.5085
+158,Tirawuta,Kolaka Timur,2030,0.3488,0.3488,0.5042
+159,Loea,Kolaka Timur,2030,0.2974,0.2974,0.4468
+160,Ladongi,Kolaka Timur,2030,0.3687,0.3687,0.416
+161,Poli Polia,Kolaka Timur,2030,0.4821,0.4821,0.386
+162,Lambandia,Kolaka Timur,2030,0.4609,0.4609,0.293
+163,Lalolae,Kolaka Timur,2030,0.591,0.591,0.5037
+164,Mowewe,Kolaka Timur,2030,0.3471,0.3471,0.5348
+165,Uluiwoi,Kolaka Timur,2030,0.252,0.252,0.4005
+166,Tinondo,Kolaka Timur,2030,0.266,0.266,0.485
+167,Aere,Kolaka Timur,2030,0.3769,0.3769,0.3791
+168,Ueesi,Kolaka Timur,2030,0.0699,0.0699,0.1765
+169,Dangia,Kolaka Timur,2030,0.4599,0.4599,0.3218
+170,Wawonii Barat,Konawe Kepulauan,2030,0.4316,0.4316,0.2541
+171,Wawonii Utara,Konawe Kepulauan,2030,0.3124,0.3124,0.2075
+172,Wawonii Timur Laut,Konawe Kepulauan,2030,0.4394,0.4394,0.1698
+173,Wawonii Timur,Konawe Kepulauan,2030,0.2462,0.2462,0.1779
+174,Wawonii Tenggara,Konawe Kepulauan,2030,0.316,0.316,0.2158
+175,Wawonii Selatan,Konawe Kepulauan,2030,0.3964,0.3964,0.2538
+176,Wawonii Tengah,Konawe Kepulauan,2030,0.4485,0.4485,0.2817
+177,Sawerigadi,Muna Barat,2030,0.4739,0.4739,0.5045
+178,Barangka,Muna Barat,2030,0.5871,0.5871,0.4342
+179,Lawa,Muna Barat,2030,0.4926,0.4926,0.4213
+180,Wadaga,Muna Barat,2030,0.3982,0.3982,0.502
+181,Tiworo Selatan,Muna Barat,2030,0.5819,0.5819,0.6979
+182,Maginti,Muna Barat,2030,0.4699,0.4699,0.7653
+183,Tiworo Tengah,Muna Barat,2030,0.5732,0.5732,0.7795
+184,Tiworo Utara,Muna Barat,2030,0.2278,0.2278,0.5043
+185,Tiworo Kepulauan,Muna Barat,2030,0.5212,0.5212,0.6421
+186,Kusambi,Muna Barat,2030,0.4682,0.4682,0.3963
+187,Napano Kusambi,Muna Barat,2030,0.3249,0.3249,0.3359
+188,Lakudo,Buton Tengah,2030,0.4584,0.4584,0.7358
+189,Mawasangka Timur,Buton Tengah,2030,0.4787,0.4787,0.795
+190,Mawasangka Tengah,Buton Tengah,2030,0.4456,0.4456,0.7136
+191,Mawasangka,Buton Tengah,2030,0.4557,0.4557,0.6846
+192,Talaga Raya,Buton Tengah,2030,0.2041,0.2041,0.4225
+193,Gu,Buton Tengah,2030,0.6362,0.6362,0.7592
+194,Sangia Wambulu,Buton Tengah,2030,0.7426,0.7426,0.8801
+195,Batauga,Buton Selatan,2030,0.4077,0.4077,0.6644
+196,Sampolawa,Buton Selatan,2030,0.429,0.429,0.6814
+197,Lapandewa,Buton Selatan,2030,0.4818,0.4818,0.4485
+198,Batu Atas,Buton Selatan,2030,0.6073,0.6073,0.094
+199,Siompu Barat,Buton Selatan,2030,0.5336,0.5336,0.4434
+200,Siompu,Buton Selatan,2030,0.566,0.566,0.5008
+201,Kadatua,Buton Selatan,2030,0.5971,0.5971,0.7962
+202,Mandonga,Kota Kendari,2030,0.7254,0.7254,0.9585
+203,Kendari,Kota Kendari,2030,0.5961,0.5961,1.0
+204,Baruga,Kota Kendari,2030,0.7667,0.7667,0.9832
+205,Poasia,Kota Kendari,2030,0.6993,0.6993,0.9878
+206,Kendari Barat,Kota Kendari,2030,0.515,0.515,1.0
+207,Abeli,Kota Kendari,2030,0.6072,0.6072,0.9758
+208,Wua-Wua,Kota Kendari,2030,0.8441,0.8441,1.0
+209,Kadia,Kota Kendari,2030,0.945,0.945,1.0
+210,Puuwatu,Kota Kendari,2030,0.7303,0.7303,0.9883
+211,Kambu,Kota Kendari,2030,0.761,0.761,0.9916
+212,Nambo,Kota Kendari,2030,0.5396,0.5396,0.9865
+213,Betoambari,Kota Bau Bau,2030,0.7685,0.7685,0.9992
+214,Wolio,Kota Bau Bau,2030,0.7203,0.7203,0.981
+215,Sorawolio,Kota Bau Bau,2030,0.4513,0.4513,0.8659
+216,Bungi,Kota Bau Bau,2030,0.5521,0.5521,0.9405
+217,Kokalukuna,Kota Bau Bau,2030,0.7912,0.7912,1.0
+218,Murhum,Kota Bau Bau,2030,0.8698,0.8698,1.0
+219,Lea-Lea,Kota Bau Bau,2030,0.6824,0.6824,0.9934
+220,Batupoaro,Kota Bau Bau,2030,0.971,0.971,1.0
+0,Wundulako,Kolaka,2035,0.3804,0.3804,0.6994
+1,Kolaka,Kolaka,2035,0.3613,0.3613,0.8265
+2,Pomalaa,Kolaka,2035,0.3819,0.3819,0.5863
+3,Watubangga,Kolaka,2035,0.4544,0.4544,0.384
+4,Wolo,Kolaka,2035,0.1753,0.1753,0.2669
+5,Baula,Kolaka,2035,0.3755,0.3755,0.6578
+6,Latambaga,Kolaka,2035,0.2768,0.2768,0.6614
+7,Tanggetada,Kolaka,2035,0.4337,0.4337,0.4961
+8,Samaturu,Kolaka,2035,0.231,0.231,0.4147
+9,Toari,Kolaka,2035,0.4946,0.4946,0.3725
+10,Polinggona,Kolaka,2035,0.3464,0.3464,0.3879
+11,Iwoimendaa,Kolaka,2035,0.265,0.265,0.2316
+12,Lambuya,Konawe,2035,0.4534,0.4534,0.6654
+13,Unaaha,Konawe,2035,0.6973,0.6973,0.9992
+14,Wawotobi,Konawe,2035,0.6299,0.6299,0.7727
+15,Pondidaha,Konawe,2035,0.6315,0.6315,0.5494
+16,Sampara,Konawe,2035,0.6277,0.6277,0.8408
+17,Abuki,Konawe,2035,0.3002,0.3002,0.5353
+18,Soropia,Konawe,2035,0.6611,0.6611,0.8379
+19,Tongauna,Konawe,2035,0.5251,0.5251,0.91
+20,Latoma,Konawe,2035,0.1344,0.1344,0.1967
+21,Puriala,Konawe,2035,0.4974,0.4974,0.4845
+22,Uepai,Konawe,2035,0.3626,0.3626,0.877
+23,Wonggeduku,Konawe,2035,0.6171,0.6171,0.5598
+24,Besulutu,Konawe,2035,0.5716,0.5716,0.6214
+25,Bondoala,Konawe,2035,0.6366,0.6366,0.7697
+26,Routa,Konawe,2035,0.1278,0.1278,0.1017
+27,Anggaberi,Konawe,2035,0.315,0.315,0.7118
+28,Meluhu,Konawe,2035,0.4974,0.4974,0.6353
+29,Amonggedo,Konawe,2035,0.3694,0.3694,0.5954
+30,Asinua,Konawe,2035,0.214,0.214,0.383
+31,Konawe,Konawe,2035,0.6418,0.6418,0.8033
+32,Kapoiala,Konawe,2035,0.6249,0.6249,0.7796
+33,Lalonggasumeeto,Konawe,2035,0.5654,0.5654,0.8921
+34,Onembute,Konawe,2035,0.3535,0.3535,0.4966
+35,Padangguni,Konawe,2035,0.2424,0.2424,0.4054
+36,Morosi,Konawe,2035,0.4911,0.4911,0.6184
+37,Anggalomoare,Konawe,2035,0.6305,0.6305,0.871
+38,Wonggeduku Barat,Konawe,2035,0.5961,0.5961,0.6443
+39,Tongauna Utara,Konawe,2035,0.2745,0.2745,0.614
+40,Napabalano,Muna,2035,0.5029,0.5029,0.3268
+41,Maligano,Muna,2035,0.434,0.434,0.4539
+42,Wakorumba Selatan,Muna,2035,0.5047,0.5047,0.4196
+43,Lasalepa,Muna,2035,0.5526,0.5526,0.3229
+44,Batalaiworu,Muna,2035,0.707,0.707,0.3286
+45,Katobu,Muna,2035,0.8435,0.8435,0.3344
+46,Duruka,Muna,2035,0.7142,0.7142,0.3454
+47,Lohia,Muna,2035,0.4811,0.4811,0.3571
+48,Watopute,Muna,2035,0.4451,0.4451,0.3489
+49,Kontunaga,Muna,2035,0.5722,0.5722,0.3593
+50,Kabangka,Muna,2035,0.5517,0.5517,0.7346
+51,Kabawo,Muna,2035,0.501,0.501,0.5344
+52,Parigi,Muna,2035,0.5259,0.5259,0.5444
+53,Bone,Muna,2035,0.5334,0.5334,0.5586
+54,Tongkuno,Muna,2035,0.4247,0.4247,0.5103
+55,Pasir Putih,Muna,2035,0.5055,0.5055,0.4187
+56,Kontu Kowuna,Muna,2035,0.5272,0.5272,0.5562
+57,Marobo,Muna,2035,0.619,0.619,0.5149
+58,Tongkuno Selatan,Muna,2035,0.4757,0.4757,0.6339
+59,Pasi Kolaga,Muna,2035,0.5239,0.5239,0.4472
+60,Batukara,Muna,2035,0.4668,0.4668,0.4626
+61,Towea,Muna,2035,0.3255,0.3255,0.3745
+62,Pasarwajo,Buton,2035,0.3361,0.3361,0.558
+63,Kapontori,Buton,2035,0.3808,0.3808,0.4812
+64,Lasalimu,Buton,2035,0.4918,0.4918,0.2938
+65,Lasalimu Selatan,Buton,2035,0.4696,0.4696,0.2024
+66,Siotapina,Buton,2035,0.3206,0.3206,0.2566
+67,Wolowa,Buton,2035,0.2853,0.2853,0.3615
+68,Wabula,Buton,2035,0.3184,0.3184,0.4612
+69,Tinanggea,Konawe Selatan,2035,0.4312,0.4312,0.6065
+70,Angata,Konawe Selatan,2035,0.396,0.396,0.3827
+71,Andoolo,Konawe Selatan,2035,0.5647,0.5647,0.6593
+72,Palangga,Konawe Selatan,2035,0.4855,0.4855,0.6074
+73,Landono,Konawe Selatan,2035,0.4022,0.4022,0.608
+74,Lainea,Konawe Selatan,2035,0.3882,0.3882,0.5372
+75,Konda,Konawe Selatan,2035,0.5193,0.5193,0.8616
+76,Ranomeeto,Konawe Selatan,2035,0.5453,0.5453,0.8634
+77,Kolono,Konawe Selatan,2035,0.3804,0.3804,0.5427
+78,Moramo,Konawe Selatan,2035,0.4306,0.4306,0.532
+79,Laonti,Konawe Selatan,2035,0.1972,0.1972,0.4022
+80,Lalembuu,Konawe Selatan,2035,0.4259,0.4259,0.3756
+81,Benua,Konawe Selatan,2035,0.5457,0.5457,0.3583
+82,Palangga Selatan,Konawe Selatan,2035,0.5513,0.5513,0.5686
+83,Mowila,Konawe Selatan,2035,0.4814,0.4814,0.4788
+84,Moramo Utara,Konawe Selatan,2035,0.399,0.399,0.7573
+85,Buke,Konawe Selatan,2035,0.4777,0.4777,0.4594
+86,Wolasi,Konawe Selatan,2035,0.324,0.324,0.6806
+87,Laeya,Konawe Selatan,2035,0.4116,0.4116,0.7237
+88,Baito,Konawe Selatan,2035,0.3186,0.3186,0.5466
+89,Basala,Konawe Selatan,2035,0.5782,0.5782,0.3321
+90,Ranomeeto Barat,Konawe Selatan,2035,0.5644,0.5644,0.7939
+91,Kolono Timur,Konawe Selatan,2035,0.321,0.321,0.5194
+92,Sabulakoa,Konawe Selatan,2035,0.5523,0.5523,0.616
+93,Andoolo Barat,Konawe Selatan,2035,0.5421,0.5421,0.449
+94,Poleang,Bombana,2035,0.505,0.505,0.5125
+95,Poleang Timur,Bombana,2035,0.4621,0.4621,0.7506
+96,Rarowatu,Bombana,2035,0.4675,0.4675,0.648
+97,Rumbia,Bombana,2035,0.5051,0.5051,0.798
+98,Kabaena,Bombana,2035,0.4383,0.4383,0.6861
+99,Kabaena Timur,Bombana,2035,0.3095,0.3095,0.6753
+100,Poleang Barat,Bombana,2035,0.405,0.405,0.3978
+101,Mata Oleo,Bombana,2035,0.5338,0.5338,0.5819
+102,Rarowatu Utara,Bombana,2035,0.3948,0.3948,0.5044
+103,Poleang Utara,Bombana,2035,0.4661,0.4661,0.7056
+104,Poleang Selatan,Bombana,2035,0.5753,0.5753,0.7922
+105,Poleang Tenggara,Bombana,2035,0.3486,0.3486,0.6012
+106,Kabaena Selatan,Bombana,2035,0.3446,0.3446,0.5721
+107,Kabaena Barat,Bombana,2035,0.5248,0.5248,0.5377
+108,Kabaena Utara,Bombana,2035,0.5074,0.5074,0.5599
+109,Kabaena Tengah,Bombana,2035,0.3265,0.3265,0.7047
+110,Kep. Masaloka Raya,Bombana,2035,0.7187,0.7187,0.5155
+111,Rumbia Tengah,Bombana,2035,0.6153,0.6153,0.8037
+112,Poleang Tengah,Bombana,2035,0.6297,0.6297,0.6177
+113,Tontonunu,Bombana,2035,0.406,0.406,0.5309
+114,Lantari Jaya,Bombana,2035,0.3289,0.3289,0.3798
+115,Mata Usu,Bombana,2035,0.1935,0.1935,0.3269
+116,Wangi-Wangi,Wakatobi,2035,0.6567,0.6567,0.4492
+117,Kaledupa,Wakatobi,2035,0.5732,0.5732,0.2214
+118,Tomia,Wakatobi,2035,0.4812,0.4812,0.6351
+119,Binongko,Wakatobi,2035,0.4819,0.4819,0.3161
+120,Wangi Wangi Selatan,Wakatobi,2035,0.5064,0.5064,0.2976
+121,Kaledupa Selatan,Wakatobi,2035,0.3894,0.3894,0.269
+122,Tomia Timur,Wakatobi,2035,0.4955,0.4955,0.777
+123,Togo Binongko,Wakatobi,2035,0.4624,0.4624,0.2589
+124,Lasusua,Kolaka Utara,2035,0.2626,0.2626,0.3663
+125,Pakue,Kolaka Utara,2035,0.2939,0.2939,0.1091
+126,Batu Putih,Kolaka Utara,2035,0.2642,0.2642,0.0703
+127,Rante Angin,Kolaka Utara,2035,0.2823,0.2823,0.3864
+128,Kodeoha,Kolaka Utara,2035,0.2456,0.2456,0.194
+129,Ngapa,Kolaka Utara,2035,0.2412,0.2412,0.15
+130,Wawo,Kolaka Utara,2035,0.2062,0.2062,0.2649
+131,Lambai,Kolaka Utara,2035,0.2184,0.2184,0.3303
+132,Watunohu,Kolaka Utara,2035,0.5456,0.5456,0.1223
+133,Pakue Tengah,Kolaka Utara,2035,0.2499,0.2499,0.0895
+134,Pakue Utara,Kolaka Utara,2035,0.1583,0.1583,0.085
+135,Porehu,Kolaka Utara,2035,0.1666,0.1666,0.0608
+136,Katoi,Kolaka Utara,2035,0.2127,0.2127,0.2459
+137,Tiwu,Kolaka Utara,2035,0.4103,0.4103,0.1583
+138,Tolala,Kolaka Utara,2035,0.3499,0.3499,0.0271
+139,Asera,Konawe Utara,2035,0.0676,0.0676,0.2336
+140,Wiwirano,Konawe Utara,2035,0.2423,0.2423,0.1449
+141,Langgikima,Konawe Utara,2035,0.5956,0.5956,0.2108
+142,Molawe,Konawe Utara,2035,0.351,0.351,0.4085
+143,Lasolo,Konawe Utara,2035,0.3348,0.3348,0.466
+144,Lembo,Konawe Utara,2035,0.3433,0.3433,0.4797
+145,Sawa,Konawe Utara,2035,0.5433,0.5433,0.6289
+146,Oheo,Konawe Utara,2035,0.2631,0.2631,0.2609
+147,Andowia,Konawe Utara,2035,0.3873,0.3873,0.4697
+148,Motui,Konawe Utara,2035,0.5695,0.5695,0.6146
+149,Wawolesea,Konawe Utara,2035,0.4882,0.4882,0.4267
+150,Lasolo Kepulauan,Konawe Utara,2035,0.2793,0.2793,0.3007
+151,Landawe,Konawe Utara,2035,0.3986,0.3986,0.1937
+152,Kulisusu,Buton Utara,2035,0.6028,0.6028,0.8454
+153,Kambowa,Buton Utara,2035,0.3585,0.3585,0.4241
+154,Bonegunu,Buton Utara,2035,0.3861,0.3861,0.6455
+155,Kulisusu Barat,Buton Utara,2035,0.3083,0.3083,0.6126
+156,Kulisusu Utara,Buton Utara,2035,0.4205,0.4205,0.4888
+157,Wakorumba Utara,Buton Utara,2035,0.3607,0.3607,0.5085
+158,Tirawuta,Kolaka Timur,2035,0.3488,0.3488,0.5042
+159,Loea,Kolaka Timur,2035,0.2974,0.2974,0.4468
+160,Ladongi,Kolaka Timur,2035,0.3687,0.3687,0.416
+161,Poli Polia,Kolaka Timur,2035,0.4821,0.4821,0.386
+162,Lambandia,Kolaka Timur,2035,0.4609,0.4609,0.293
+163,Lalolae,Kolaka Timur,2035,0.591,0.591,0.5037
+164,Mowewe,Kolaka Timur,2035,0.3471,0.3471,0.5348
+165,Uluiwoi,Kolaka Timur,2035,0.252,0.252,0.4005
+166,Tinondo,Kolaka Timur,2035,0.266,0.266,0.485
+167,Aere,Kolaka Timur,2035,0.3769,0.3769,0.3791
+168,Ueesi,Kolaka Timur,2035,0.0699,0.0699,0.1765
+169,Dangia,Kolaka Timur,2035,0.4599,0.4599,0.3218
+170,Wawonii Barat,Konawe Kepulauan,2035,0.4316,0.4316,0.2541
+171,Wawonii Utara,Konawe Kepulauan,2035,0.3124,0.3124,0.2075
+172,Wawonii Timur Laut,Konawe Kepulauan,2035,0.4394,0.4394,0.1698
+173,Wawonii Timur,Konawe Kepulauan,2035,0.2462,0.2462,0.1779
+174,Wawonii Tenggara,Konawe Kepulauan,2035,0.316,0.316,0.2158
+175,Wawonii Selatan,Konawe Kepulauan,2035,0.3964,0.3964,0.2538
+176,Wawonii Tengah,Konawe Kepulauan,2035,0.4485,0.4485,0.2817
+177,Sawerigadi,Muna Barat,2035,0.4739,0.4739,0.5045
+178,Barangka,Muna Barat,2035,0.5871,0.5871,0.4342
+179,Lawa,Muna Barat,2035,0.4926,0.4926,0.4213
+180,Wadaga,Muna Barat,2035,0.3982,0.3982,0.502
+181,Tiworo Selatan,Muna Barat,2035,0.5819,0.5819,0.6979
+182,Maginti,Muna Barat,2035,0.4699,0.4699,0.7653
+183,Tiworo Tengah,Muna Barat,2035,0.5732,0.5732,0.7795
+184,Tiworo Utara,Muna Barat,2035,0.2278,0.2278,0.5043
+185,Tiworo Kepulauan,Muna Barat,2035,0.5212,0.5212,0.6421
+186,Kusambi,Muna Barat,2035,0.4682,0.4682,0.3963
+187,Napano Kusambi,Muna Barat,2035,0.3249,0.3249,0.3359
+188,Lakudo,Buton Tengah,2035,0.4584,0.4584,0.7358
+189,Mawasangka Timur,Buton Tengah,2035,0.4787,0.4787,0.795
+190,Mawasangka Tengah,Buton Tengah,2035,0.4456,0.4456,0.7136
+191,Mawasangka,Buton Tengah,2035,0.4557,0.4557,0.6846
+192,Talaga Raya,Buton Tengah,2035,0.2041,0.2041,0.4225
+193,Gu,Buton Tengah,2035,0.6362,0.6362,0.7592
+194,Sangia Wambulu,Buton Tengah,2035,0.7426,0.7426,0.8801
+195,Batauga,Buton Selatan,2035,0.4077,0.4077,0.6644
+196,Sampolawa,Buton Selatan,2035,0.429,0.429,0.6814
+197,Lapandewa,Buton Selatan,2035,0.4818,0.4818,0.4485
+198,Batu Atas,Buton Selatan,2035,0.6073,0.6073,0.094
+199,Siompu Barat,Buton Selatan,2035,0.5336,0.5336,0.4434
+200,Siompu,Buton Selatan,2035,0.566,0.566,0.5008
+201,Kadatua,Buton Selatan,2035,0.5971,0.5971,0.7962
+202,Mandonga,Kota Kendari,2035,0.7254,0.7254,0.9585
+203,Kendari,Kota Kendari,2035,0.5961,0.5961,1.0
+204,Baruga,Kota Kendari,2035,0.7667,0.7667,0.9832
+205,Poasia,Kota Kendari,2035,0.6993,0.6993,0.9878
+206,Kendari Barat,Kota Kendari,2035,0.515,0.515,1.0
+207,Abeli,Kota Kendari,2035,0.6072,0.6072,0.9758
+208,Wua-Wua,Kota Kendari,2035,0.8441,0.8441,1.0
+209,Kadia,Kota Kendari,2035,0.945,0.945,1.0
+210,Puuwatu,Kota Kendari,2035,0.7303,0.7303,0.9883
+211,Kambu,Kota Kendari,2035,0.761,0.761,0.9916
+212,Nambo,Kota Kendari,2035,0.5396,0.5396,0.9865
+213,Betoambari,Kota Bau Bau,2035,0.7685,0.7685,0.9992
+214,Wolio,Kota Bau Bau,2035,0.7203,0.7203,0.981
+215,Sorawolio,Kota Bau Bau,2035,0.4513,0.4513,0.8659
+216,Bungi,Kota Bau Bau,2035,0.5521,0.5521,0.9405
+217,Kokalukuna,Kota Bau Bau,2035,0.7912,0.7912,1.0
+218,Murhum,Kota Bau Bau,2035,0.8698,0.8698,1.0
+219,Lea-Lea,Kota Bau Bau,2035,0.6824,0.6824,0.9934
+220,Batupoaro,Kota Bau Bau,2035,0.971,0.971,1.0
+0,Wundulako,Kolaka,2040,0.3804,0.3804,0.6994
+1,Kolaka,Kolaka,2040,0.3613,0.3613,0.8265
+2,Pomalaa,Kolaka,2040,0.3819,0.3819,0.5863
+3,Watubangga,Kolaka,2040,0.4544,0.4544,0.384
+4,Wolo,Kolaka,2040,0.1753,0.1753,0.2669
+5,Baula,Kolaka,2040,0.3755,0.3755,0.6578
+6,Latambaga,Kolaka,2040,0.2768,0.2768,0.6614
+7,Tanggetada,Kolaka,2040,0.4337,0.4337,0.4961
+8,Samaturu,Kolaka,2040,0.231,0.231,0.4147
+9,Toari,Kolaka,2040,0.4946,0.4946,0.3725
+10,Polinggona,Kolaka,2040,0.3464,0.3464,0.3879
+11,Iwoimendaa,Kolaka,2040,0.265,0.265,0.2316
+12,Lambuya,Konawe,2040,0.4534,0.4534,0.6654
+13,Unaaha,Konawe,2040,0.6973,0.6973,0.9992
+14,Wawotobi,Konawe,2040,0.6299,0.6299,0.7727
+15,Pondidaha,Konawe,2040,0.6315,0.6315,0.5494
+16,Sampara,Konawe,2040,0.6277,0.6277,0.8408
+17,Abuki,Konawe,2040,0.3002,0.3002,0.5353
+18,Soropia,Konawe,2040,0.6611,0.6611,0.8379
+19,Tongauna,Konawe,2040,0.5251,0.5251,0.91
+20,Latoma,Konawe,2040,0.1344,0.1344,0.1967
+21,Puriala,Konawe,2040,0.4974,0.4974,0.4845
+22,Uepai,Konawe,2040,0.3626,0.3626,0.877
+23,Wonggeduku,Konawe,2040,0.6171,0.6171,0.5598
+24,Besulutu,Konawe,2040,0.5716,0.5716,0.6214
+25,Bondoala,Konawe,2040,0.6366,0.6366,0.7697
+26,Routa,Konawe,2040,0.1278,0.1278,0.1017
+27,Anggaberi,Konawe,2040,0.315,0.315,0.7118
+28,Meluhu,Konawe,2040,0.4974,0.4974,0.6353
+29,Amonggedo,Konawe,2040,0.3694,0.3694,0.5954
+30,Asinua,Konawe,2040,0.214,0.214,0.383
+31,Konawe,Konawe,2040,0.6418,0.6418,0.8033
+32,Kapoiala,Konawe,2040,0.6249,0.6249,0.7796
+33,Lalonggasumeeto,Konawe,2040,0.5654,0.5654,0.8921
+34,Onembute,Konawe,2040,0.3535,0.3535,0.4966
+35,Padangguni,Konawe,2040,0.2424,0.2424,0.4054
+36,Morosi,Konawe,2040,0.4911,0.4911,0.6184
+37,Anggalomoare,Konawe,2040,0.6305,0.6305,0.871
+38,Wonggeduku Barat,Konawe,2040,0.5961,0.5961,0.6443
+39,Tongauna Utara,Konawe,2040,0.2745,0.2745,0.614
+40,Napabalano,Muna,2040,0.5029,0.5029,0.3268
+41,Maligano,Muna,2040,0.434,0.434,0.4539
+42,Wakorumba Selatan,Muna,2040,0.5047,0.5047,0.4196
+43,Lasalepa,Muna,2040,0.5526,0.5526,0.3229
+44,Batalaiworu,Muna,2040,0.707,0.707,0.3286
+45,Katobu,Muna,2040,0.8435,0.8435,0.3344
+46,Duruka,Muna,2040,0.7142,0.7142,0.3454
+47,Lohia,Muna,2040,0.4811,0.4811,0.3571
+48,Watopute,Muna,2040,0.4451,0.4451,0.3489
+49,Kontunaga,Muna,2040,0.5722,0.5722,0.3593
+50,Kabangka,Muna,2040,0.5517,0.5517,0.7346
+51,Kabawo,Muna,2040,0.501,0.501,0.5344
+52,Parigi,Muna,2040,0.5259,0.5259,0.5444
+53,Bone,Muna,2040,0.5334,0.5334,0.5586
+54,Tongkuno,Muna,2040,0.4247,0.4247,0.5103
+55,Pasir Putih,Muna,2040,0.5055,0.5055,0.4187
+56,Kontu Kowuna,Muna,2040,0.5272,0.5272,0.5562
+57,Marobo,Muna,2040,0.619,0.619,0.5149
+58,Tongkuno Selatan,Muna,2040,0.4757,0.4757,0.6339
+59,Pasi Kolaga,Muna,2040,0.5239,0.5239,0.4472
+60,Batukara,Muna,2040,0.4668,0.4668,0.4626
+61,Towea,Muna,2040,0.3255,0.3255,0.3745
+62,Pasarwajo,Buton,2040,0.3361,0.3361,0.558
+63,Kapontori,Buton,2040,0.3808,0.3808,0.4812
+64,Lasalimu,Buton,2040,0.4918,0.4918,0.2938
+65,Lasalimu Selatan,Buton,2040,0.4696,0.4696,0.2024
+66,Siotapina,Buton,2040,0.3206,0.3206,0.2566
+67,Wolowa,Buton,2040,0.2853,0.2853,0.3615
+68,Wabula,Buton,2040,0.3184,0.3184,0.4612
+69,Tinanggea,Konawe Selatan,2040,0.4312,0.4312,0.6065
+70,Angata,Konawe Selatan,2040,0.396,0.396,0.3827
+71,Andoolo,Konawe Selatan,2040,0.5647,0.5647,0.6593
+72,Palangga,Konawe Selatan,2040,0.4855,0.4855,0.6074
+73,Landono,Konawe Selatan,2040,0.4022,0.4022,0.608
+74,Lainea,Konawe Selatan,2040,0.3882,0.3882,0.5372
+75,Konda,Konawe Selatan,2040,0.5193,0.5193,0.8616
+76,Ranomeeto,Konawe Selatan,2040,0.5453,0.5453,0.8634
+77,Kolono,Konawe Selatan,2040,0.3804,0.3804,0.5427
+78,Moramo,Konawe Selatan,2040,0.4306,0.4306,0.532
+79,Laonti,Konawe Selatan,2040,0.1972,0.1972,0.4022
+80,Lalembuu,Konawe Selatan,2040,0.4259,0.4259,0.3756
+81,Benua,Konawe Selatan,2040,0.5457,0.5457,0.3583
+82,Palangga Selatan,Konawe Selatan,2040,0.5513,0.5513,0.5686
+83,Mowila,Konawe Selatan,2040,0.4814,0.4814,0.4788
+84,Moramo Utara,Konawe Selatan,2040,0.399,0.399,0.7573
+85,Buke,Konawe Selatan,2040,0.4777,0.4777,0.4594
+86,Wolasi,Konawe Selatan,2040,0.324,0.324,0.6806
+87,Laeya,Konawe Selatan,2040,0.4116,0.4116,0.7237
+88,Baito,Konawe Selatan,2040,0.3186,0.3186,0.5466
+89,Basala,Konawe Selatan,2040,0.5782,0.5782,0.3321
+90,Ranomeeto Barat,Konawe Selatan,2040,0.5644,0.5644,0.7939
+91,Kolono Timur,Konawe Selatan,2040,0.321,0.321,0.5194
+92,Sabulakoa,Konawe Selatan,2040,0.5523,0.5523,0.616
+93,Andoolo Barat,Konawe Selatan,2040,0.5421,0.5421,0.449
+94,Poleang,Bombana,2040,0.505,0.505,0.5125
+95,Poleang Timur,Bombana,2040,0.4621,0.4621,0.7506
+96,Rarowatu,Bombana,2040,0.4675,0.4675,0.648
+97,Rumbia,Bombana,2040,0.5051,0.5051,0.798
+98,Kabaena,Bombana,2040,0.4383,0.4383,0.6861
+99,Kabaena Timur,Bombana,2040,0.3095,0.3095,0.6753
+100,Poleang Barat,Bombana,2040,0.405,0.405,0.3978
+101,Mata Oleo,Bombana,2040,0.5338,0.5338,0.5819
+102,Rarowatu Utara,Bombana,2040,0.3948,0.3948,0.5044
+103,Poleang Utara,Bombana,2040,0.4661,0.4661,0.7056
+104,Poleang Selatan,Bombana,2040,0.5753,0.5753,0.7922
+105,Poleang Tenggara,Bombana,2040,0.3486,0.3486,0.6012
+106,Kabaena Selatan,Bombana,2040,0.3446,0.3446,0.5721
+107,Kabaena Barat,Bombana,2040,0.5248,0.5248,0.5377
+108,Kabaena Utara,Bombana,2040,0.5074,0.5074,0.5599
+109,Kabaena Tengah,Bombana,2040,0.3265,0.3265,0.7047
+110,Kep. Masaloka Raya,Bombana,2040,0.7187,0.7187,0.5155
+111,Rumbia Tengah,Bombana,2040,0.6153,0.6153,0.8037
+112,Poleang Tengah,Bombana,2040,0.6297,0.6297,0.6177
+113,Tontonunu,Bombana,2040,0.406,0.406,0.5309
+114,Lantari Jaya,Bombana,2040,0.3289,0.3289,0.3798
+115,Mata Usu,Bombana,2040,0.1935,0.1935,0.3269
+116,Wangi-Wangi,Wakatobi,2040,0.6567,0.6567,0.4492
+117,Kaledupa,Wakatobi,2040,0.5732,0.5732,0.2214
+118,Tomia,Wakatobi,2040,0.4812,0.4812,0.6351
+119,Binongko,Wakatobi,2040,0.4819,0.4819,0.3161
+120,Wangi Wangi Selatan,Wakatobi,2040,0.5064,0.5064,0.2976
+121,Kaledupa Selatan,Wakatobi,2040,0.3894,0.3894,0.269
+122,Tomia Timur,Wakatobi,2040,0.4955,0.4955,0.777
+123,Togo Binongko,Wakatobi,2040,0.4624,0.4624,0.2589
+124,Lasusua,Kolaka Utara,2040,0.2626,0.2626,0.3663
+125,Pakue,Kolaka Utara,2040,0.2939,0.2939,0.1091
+126,Batu Putih,Kolaka Utara,2040,0.2642,0.2642,0.0703
+127,Rante Angin,Kolaka Utara,2040,0.2823,0.2823,0.3864
+128,Kodeoha,Kolaka Utara,2040,0.2456,0.2456,0.194
+129,Ngapa,Kolaka Utara,2040,0.2412,0.2412,0.15
+130,Wawo,Kolaka Utara,2040,0.2062,0.2062,0.2649
+131,Lambai,Kolaka Utara,2040,0.2184,0.2184,0.3303
+132,Watunohu,Kolaka Utara,2040,0.5456,0.5456,0.1223
+133,Pakue Tengah,Kolaka Utara,2040,0.2499,0.2499,0.0895
+134,Pakue Utara,Kolaka Utara,2040,0.1583,0.1583,0.085
+135,Porehu,Kolaka Utara,2040,0.1666,0.1666,0.0608
+136,Katoi,Kolaka Utara,2040,0.2127,0.2127,0.2459
+137,Tiwu,Kolaka Utara,2040,0.4103,0.4103,0.1583
+138,Tolala,Kolaka Utara,2040,0.3499,0.3499,0.0271
+139,Asera,Konawe Utara,2040,0.0676,0.0676,0.2336
+140,Wiwirano,Konawe Utara,2040,0.2423,0.2423,0.1449
+141,Langgikima,Konawe Utara,2040,0.5956,0.5956,0.2108
+142,Molawe,Konawe Utara,2040,0.351,0.351,0.4085
+143,Lasolo,Konawe Utara,2040,0.3348,0.3348,0.466
+144,Lembo,Konawe Utara,2040,0.3433,0.3433,0.4797
+145,Sawa,Konawe Utara,2040,0.5433,0.5433,0.6289
+146,Oheo,Konawe Utara,2040,0.2631,0.2631,0.2609
+147,Andowia,Konawe Utara,2040,0.3873,0.3873,0.4697
+148,Motui,Konawe Utara,2040,0.5695,0.5695,0.6146
+149,Wawolesea,Konawe Utara,2040,0.4882,0.4882,0.4267
+150,Lasolo Kepulauan,Konawe Utara,2040,0.2793,0.2793,0.3007
+151,Landawe,Konawe Utara,2040,0.3986,0.3986,0.1937
+152,Kulisusu,Buton Utara,2040,0.6028,0.6028,0.8454
+153,Kambowa,Buton Utara,2040,0.3585,0.3585,0.4241
+154,Bonegunu,Buton Utara,2040,0.3861,0.3861,0.6455
+155,Kulisusu Barat,Buton Utara,2040,0.3083,0.3083,0.6126
+156,Kulisusu Utara,Buton Utara,2040,0.4205,0.4205,0.4888
+157,Wakorumba Utara,Buton Utara,2040,0.3607,0.3607,0.5085
+158,Tirawuta,Kolaka Timur,2040,0.3488,0.3488,0.5042
+159,Loea,Kolaka Timur,2040,0.2974,0.2974,0.4468
+160,Ladongi,Kolaka Timur,2040,0.3687,0.3687,0.416
+161,Poli Polia,Kolaka Timur,2040,0.4821,0.4821,0.386
+162,Lambandia,Kolaka Timur,2040,0.4609,0.4609,0.293
+163,Lalolae,Kolaka Timur,2040,0.591,0.591,0.5037
+164,Mowewe,Kolaka Timur,2040,0.3471,0.3471,0.5348
+165,Uluiwoi,Kolaka Timur,2040,0.252,0.252,0.4005
+166,Tinondo,Kolaka Timur,2040,0.266,0.266,0.485
+167,Aere,Kolaka Timur,2040,0.3769,0.3769,0.3791
+168,Ueesi,Kolaka Timur,2040,0.0699,0.0699,0.1765
+169,Dangia,Kolaka Timur,2040,0.4599,0.4599,0.3218
+170,Wawonii Barat,Konawe Kepulauan,2040,0.4316,0.4316,0.2541
+171,Wawonii Utara,Konawe Kepulauan,2040,0.3124,0.3124,0.2075
+172,Wawonii Timur Laut,Konawe Kepulauan,2040,0.4394,0.4394,0.1698
+173,Wawonii Timur,Konawe Kepulauan,2040,0.2462,0.2462,0.1779
+174,Wawonii Tenggara,Konawe Kepulauan,2040,0.316,0.316,0.2158
+175,Wawonii Selatan,Konawe Kepulauan,2040,0.3964,0.3964,0.2538
+176,Wawonii Tengah,Konawe Kepulauan,2040,0.4485,0.4485,0.2817
+177,Sawerigadi,Muna Barat,2040,0.4739,0.4739,0.5045
+178,Barangka,Muna Barat,2040,0.5871,0.5871,0.4342
+179,Lawa,Muna Barat,2040,0.4926,0.4926,0.4213
+180,Wadaga,Muna Barat,2040,0.3982,0.3982,0.502
+181,Tiworo Selatan,Muna Barat,2040,0.5819,0.5819,0.6979
+182,Maginti,Muna Barat,2040,0.4699,0.4699,0.7653
+183,Tiworo Tengah,Muna Barat,2040,0.5732,0.5732,0.7795
+184,Tiworo Utara,Muna Barat,2040,0.2278,0.2278,0.5043
+185,Tiworo Kepulauan,Muna Barat,2040,0.5212,0.5212,0.6421
+186,Kusambi,Muna Barat,2040,0.4682,0.4682,0.3963
+187,Napano Kusambi,Muna Barat,2040,0.3249,0.3249,0.3359
+188,Lakudo,Buton Tengah,2040,0.4584,0.4584,0.7358
+189,Mawasangka Timur,Buton Tengah,2040,0.4787,0.4787,0.795
+190,Mawasangka Tengah,Buton Tengah,2040,0.4456,0.4456,0.7136
+191,Mawasangka,Buton Tengah,2040,0.4557,0.4557,0.6846
+192,Talaga Raya,Buton Tengah,2040,0.2041,0.2041,0.4225
+193,Gu,Buton Tengah,2040,0.6362,0.6362,0.7592
+194,Sangia Wambulu,Buton Tengah,2040,0.7426,0.7426,0.8801
+195,Batauga,Buton Selatan,2040,0.4077,0.4077,0.6644
+196,Sampolawa,Buton Selatan,2040,0.429,0.429,0.6814
+197,Lapandewa,Buton Selatan,2040,0.4818,0.4818,0.4485
+198,Batu Atas,Buton Selatan,2040,0.6073,0.6073,0.094
+199,Siompu Barat,Buton Selatan,2040,0.5336,0.5336,0.4434
+200,Siompu,Buton Selatan,2040,0.566,0.566,0.5008
+201,Kadatua,Buton Selatan,2040,0.5971,0.5971,0.7962
+202,Mandonga,Kota Kendari,2040,0.7254,0.7254,0.9585
+203,Kendari,Kota Kendari,2040,0.5961,0.5961,1.0
+204,Baruga,Kota Kendari,2040,0.7667,0.7667,0.9832
+205,Poasia,Kota Kendari,2040,0.6993,0.6993,0.9878
+206,Kendari Barat,Kota Kendari,2040,0.515,0.515,1.0
+207,Abeli,Kota Kendari,2040,0.6072,0.6072,0.9758
+208,Wua-Wua,Kota Kendari,2040,0.8441,0.8441,1.0
+209,Kadia,Kota Kendari,2040,0.945,0.945,1.0
+210,Puuwatu,Kota Kendari,2040,0.7303,0.7303,0.9883
+211,Kambu,Kota Kendari,2040,0.761,0.761,0.9916
+212,Nambo,Kota Kendari,2040,0.5396,0.5396,0.9865
+213,Betoambari,Kota Bau Bau,2040,0.7685,0.7685,0.9992
+214,Wolio,Kota Bau Bau,2040,0.7203,0.7203,0.981
+215,Sorawolio,Kota Bau Bau,2040,0.4513,0.4513,0.8659
+216,Bungi,Kota Bau Bau,2040,0.5521,0.5521,0.9405
+217,Kokalukuna,Kota Bau Bau,2040,0.7912,0.7912,1.0
+218,Murhum,Kota Bau Bau,2040,0.8698,0.8698,1.0
+219,Lea-Lea,Kota Bau Bau,2040,0.6824,0.6824,0.9934
+220,Batupoaro,Kota Bau Bau,2040,0.971,0.971,1.0
+0,Wundulako,Kolaka,2045,0.3804,0.3804,0.6994
+1,Kolaka,Kolaka,2045,0.3613,0.3613,0.8265
+2,Pomalaa,Kolaka,2045,0.3819,0.3819,0.5863
+3,Watubangga,Kolaka,2045,0.4544,0.4544,0.384
+4,Wolo,Kolaka,2045,0.1753,0.1753,0.2669
+5,Baula,Kolaka,2045,0.3755,0.3755,0.6578
+6,Latambaga,Kolaka,2045,0.2768,0.2768,0.6614
+7,Tanggetada,Kolaka,2045,0.4337,0.4337,0.4961
+8,Samaturu,Kolaka,2045,0.231,0.231,0.4147
+9,Toari,Kolaka,2045,0.4946,0.4946,0.3725
+10,Polinggona,Kolaka,2045,0.3464,0.3464,0.3879
+11,Iwoimendaa,Kolaka,2045,0.265,0.265,0.2316
+12,Lambuya,Konawe,2045,0.4534,0.4534,0.6654
+13,Unaaha,Konawe,2045,0.6973,0.6973,0.9992
+14,Wawotobi,Konawe,2045,0.6299,0.6299,0.7727
+15,Pondidaha,Konawe,2045,0.6315,0.6315,0.5494
+16,Sampara,Konawe,2045,0.6277,0.6277,0.8408
+17,Abuki,Konawe,2045,0.3002,0.3002,0.5353
+18,Soropia,Konawe,2045,0.6611,0.6611,0.8379
+19,Tongauna,Konawe,2045,0.5251,0.5251,0.91
+20,Latoma,Konawe,2045,0.1344,0.1344,0.1967
+21,Puriala,Konawe,2045,0.4974,0.4974,0.4845
+22,Uepai,Konawe,2045,0.3626,0.3626,0.877
+23,Wonggeduku,Konawe,2045,0.6171,0.6171,0.5598
+24,Besulutu,Konawe,2045,0.5716,0.5716,0.6214
+25,Bondoala,Konawe,2045,0.6366,0.6366,0.7697
+26,Routa,Konawe,2045,0.1278,0.1278,0.1017
+27,Anggaberi,Konawe,2045,0.315,0.315,0.7118
+28,Meluhu,Konawe,2045,0.4974,0.4974,0.6353
+29,Amonggedo,Konawe,2045,0.3694,0.3694,0.5954
+30,Asinua,Konawe,2045,0.214,0.214,0.383
+31,Konawe,Konawe,2045,0.6418,0.6418,0.8033
+32,Kapoiala,Konawe,2045,0.6249,0.6249,0.7796
+33,Lalonggasumeeto,Konawe,2045,0.5654,0.5654,0.8921
+34,Onembute,Konawe,2045,0.3535,0.3535,0.4966
+35,Padangguni,Konawe,2045,0.2424,0.2424,0.4054
+36,Morosi,Konawe,2045,0.4911,0.4911,0.6184
+37,Anggalomoare,Konawe,2045,0.6305,0.6305,0.871
+38,Wonggeduku Barat,Konawe,2045,0.5961,0.5961,0.6443
+39,Tongauna Utara,Konawe,2045,0.2745,0.2745,0.614
+40,Napabalano,Muna,2045,0.5029,0.5029,0.3268
+41,Maligano,Muna,2045,0.434,0.434,0.4539
+42,Wakorumba Selatan,Muna,2045,0.5047,0.5047,0.4196
+43,Lasalepa,Muna,2045,0.5526,0.5526,0.3229
+44,Batalaiworu,Muna,2045,0.707,0.707,0.3286
+45,Katobu,Muna,2045,0.8435,0.8435,0.3344
+46,Duruka,Muna,2045,0.7142,0.7142,0.3454
+47,Lohia,Muna,2045,0.4811,0.4811,0.3571
+48,Watopute,Muna,2045,0.4451,0.4451,0.3489
+49,Kontunaga,Muna,2045,0.5722,0.5722,0.3593
+50,Kabangka,Muna,2045,0.5517,0.5517,0.7346
+51,Kabawo,Muna,2045,0.501,0.501,0.5344
+52,Parigi,Muna,2045,0.5259,0.5259,0.5444
+53,Bone,Muna,2045,0.5334,0.5334,0.5586
+54,Tongkuno,Muna,2045,0.4247,0.4247,0.5103
+55,Pasir Putih,Muna,2045,0.5055,0.5055,0.4187
+56,Kontu Kowuna,Muna,2045,0.5272,0.5272,0.5562
+57,Marobo,Muna,2045,0.619,0.619,0.5149
+58,Tongkuno Selatan,Muna,2045,0.4757,0.4757,0.6339
+59,Pasi Kolaga,Muna,2045,0.5239,0.5239,0.4472
+60,Batukara,Muna,2045,0.4668,0.4668,0.4626
+61,Towea,Muna,2045,0.3255,0.3255,0.3745
+62,Pasarwajo,Buton,2045,0.3361,0.3361,0.558
+63,Kapontori,Buton,2045,0.3808,0.3808,0.4812
+64,Lasalimu,Buton,2045,0.4918,0.4918,0.2938
+65,Lasalimu Selatan,Buton,2045,0.4696,0.4696,0.2024
+66,Siotapina,Buton,2045,0.3206,0.3206,0.2566
+67,Wolowa,Buton,2045,0.2853,0.2853,0.3615
+68,Wabula,Buton,2045,0.3184,0.3184,0.4612
+69,Tinanggea,Konawe Selatan,2045,0.4312,0.4312,0.6065
+70,Angata,Konawe Selatan,2045,0.396,0.396,0.3827
+71,Andoolo,Konawe Selatan,2045,0.5647,0.5647,0.6593
+72,Palangga,Konawe Selatan,2045,0.4855,0.4855,0.6074
+73,Landono,Konawe Selatan,2045,0.4022,0.4022,0.608
+74,Lainea,Konawe Selatan,2045,0.3882,0.3882,0.5372
+75,Konda,Konawe Selatan,2045,0.5193,0.5193,0.8616
+76,Ranomeeto,Konawe Selatan,2045,0.5453,0.5453,0.8634
+77,Kolono,Konawe Selatan,2045,0.3804,0.3804,0.5427
+78,Moramo,Konawe Selatan,2045,0.4306,0.4306,0.532
+79,Laonti,Konawe Selatan,2045,0.1972,0.1972,0.4022
+80,Lalembuu,Konawe Selatan,2045,0.4259,0.4259,0.3756
+81,Benua,Konawe Selatan,2045,0.5457,0.5457,0.3583
+82,Palangga Selatan,Konawe Selatan,2045,0.5513,0.5513,0.5686
+83,Mowila,Konawe Selatan,2045,0.4814,0.4814,0.4788
+84,Moramo Utara,Konawe Selatan,2045,0.399,0.399,0.7573
+85,Buke,Konawe Selatan,2045,0.4777,0.4777,0.4594
+86,Wolasi,Konawe Selatan,2045,0.324,0.324,0.6806
+87,Laeya,Konawe Selatan,2045,0.4116,0.4116,0.7237
+88,Baito,Konawe Selatan,2045,0.3186,0.3186,0.5466
+89,Basala,Konawe Selatan,2045,0.5782,0.5782,0.3321
+90,Ranomeeto Barat,Konawe Selatan,2045,0.5644,0.5644,0.7939
+91,Kolono Timur,Konawe Selatan,2045,0.321,0.321,0.5194
+92,Sabulakoa,Konawe Selatan,2045,0.5523,0.5523,0.616
+93,Andoolo Barat,Konawe Selatan,2045,0.5421,0.5421,0.449
+94,Poleang,Bombana,2045,0.505,0.505,0.5125
+95,Poleang Timur,Bombana,2045,0.4621,0.4621,0.7506
+96,Rarowatu,Bombana,2045,0.4675,0.4675,0.648
+97,Rumbia,Bombana,2045,0.5051,0.5051,0.798
+98,Kabaena,Bombana,2045,0.4383,0.4383,0.6861
+99,Kabaena Timur,Bombana,2045,0.3095,0.3095,0.6753
+100,Poleang Barat,Bombana,2045,0.405,0.405,0.3978
+101,Mata Oleo,Bombana,2045,0.5338,0.5338,0.5819
+102,Rarowatu Utara,Bombana,2045,0.3948,0.3948,0.5044
+103,Poleang Utara,Bombana,2045,0.4661,0.4661,0.7056
+104,Poleang Selatan,Bombana,2045,0.5753,0.5753,0.7922
+105,Poleang Tenggara,Bombana,2045,0.3486,0.3486,0.6012
+106,Kabaena Selatan,Bombana,2045,0.3446,0.3446,0.5721
+107,Kabaena Barat,Bombana,2045,0.5248,0.5248,0.5377
+108,Kabaena Utara,Bombana,2045,0.5074,0.5074,0.5599
+109,Kabaena Tengah,Bombana,2045,0.3265,0.3265,0.7047
+110,Kep. Masaloka Raya,Bombana,2045,0.7187,0.7187,0.5155
+111,Rumbia Tengah,Bombana,2045,0.6153,0.6153,0.8037
+112,Poleang Tengah,Bombana,2045,0.6297,0.6297,0.6177
+113,Tontonunu,Bombana,2045,0.406,0.406,0.5309
+114,Lantari Jaya,Bombana,2045,0.3289,0.3289,0.3798
+115,Mata Usu,Bombana,2045,0.1935,0.1935,0.3269
+116,Wangi-Wangi,Wakatobi,2045,0.6567,0.6567,0.4492
+117,Kaledupa,Wakatobi,2045,0.5732,0.5732,0.2214
+118,Tomia,Wakatobi,2045,0.4812,0.4812,0.6351
+119,Binongko,Wakatobi,2045,0.4819,0.4819,0.3161
+120,Wangi Wangi Selatan,Wakatobi,2045,0.5064,0.5064,0.2976
+121,Kaledupa Selatan,Wakatobi,2045,0.3894,0.3894,0.269
+122,Tomia Timur,Wakatobi,2045,0.4955,0.4955,0.777
+123,Togo Binongko,Wakatobi,2045,0.4624,0.4624,0.2589
+124,Lasusua,Kolaka Utara,2045,0.2626,0.2626,0.3663
+125,Pakue,Kolaka Utara,2045,0.2939,0.2939,0.1091
+126,Batu Putih,Kolaka Utara,2045,0.2642,0.2642,0.0703
+127,Rante Angin,Kolaka Utara,2045,0.2823,0.2823,0.3864
+128,Kodeoha,Kolaka Utara,2045,0.2456,0.2456,0.194
+129,Ngapa,Kolaka Utara,2045,0.2412,0.2412,0.15
+130,Wawo,Kolaka Utara,2045,0.2062,0.2062,0.2649
+131,Lambai,Kolaka Utara,2045,0.2184,0.2184,0.3303
+132,Watunohu,Kolaka Utara,2045,0.5456,0.5456,0.1223
+133,Pakue Tengah,Kolaka Utara,2045,0.2499,0.2499,0.0895
+134,Pakue Utara,Kolaka Utara,2045,0.1583,0.1583,0.085
+135,Porehu,Kolaka Utara,2045,0.1666,0.1666,0.0608
+136,Katoi,Kolaka Utara,2045,0.2127,0.2127,0.2459
+137,Tiwu,Kolaka Utara,2045,0.4103,0.4103,0.1583
+138,Tolala,Kolaka Utara,2045,0.3499,0.3499,0.0271
+139,Asera,Konawe Utara,2045,0.0676,0.0676,0.2336
+140,Wiwirano,Konawe Utara,2045,0.2423,0.2423,0.1449
+141,Langgikima,Konawe Utara,2045,0.5956,0.5956,0.2108
+142,Molawe,Konawe Utara,2045,0.351,0.351,0.4085
+143,Lasolo,Konawe Utara,2045,0.3348,0.3348,0.466
+144,Lembo,Konawe Utara,2045,0.3433,0.3433,0.4797
+145,Sawa,Konawe Utara,2045,0.5433,0.5433,0.6289
+146,Oheo,Konawe Utara,2045,0.2631,0.2631,0.2609
+147,Andowia,Konawe Utara,2045,0.3873,0.3873,0.4697
+148,Motui,Konawe Utara,2045,0.5695,0.5695,0.6146
+149,Wawolesea,Konawe Utara,2045,0.4882,0.4882,0.4267
+150,Lasolo Kepulauan,Konawe Utara,2045,0.2793,0.2793,0.3007
+151,Landawe,Konawe Utara,2045,0.3986,0.3986,0.1937
+152,Kulisusu,Buton Utara,2045,0.6028,0.6028,0.8454
+153,Kambowa,Buton Utara,2045,0.3585,0.3585,0.4241
+154,Bonegunu,Buton Utara,2045,0.3861,0.3861,0.6455
+155,Kulisusu Barat,Buton Utara,2045,0.3083,0.3083,0.6126
+156,Kulisusu Utara,Buton Utara,2045,0.4205,0.4205,0.4888
+157,Wakorumba Utara,Buton Utara,2045,0.3607,0.3607,0.5085
+158,Tirawuta,Kolaka Timur,2045,0.3488,0.3488,0.5042
+159,Loea,Kolaka Timur,2045,0.2974,0.2974,0.4468
+160,Ladongi,Kolaka Timur,2045,0.3687,0.3687,0.416
+161,Poli Polia,Kolaka Timur,2045,0.4821,0.4821,0.386
+162,Lambandia,Kolaka Timur,2045,0.4609,0.4609,0.293
+163,Lalolae,Kolaka Timur,2045,0.591,0.591,0.5037
+164,Mowewe,Kolaka Timur,2045,0.3471,0.3471,0.5348
+165,Uluiwoi,Kolaka Timur,2045,0.252,0.252,0.4005
+166,Tinondo,Kolaka Timur,2045,0.266,0.266,0.485
+167,Aere,Kolaka Timur,2045,0.3769,0.3769,0.3791
+168,Ueesi,Kolaka Timur,2045,0.0699,0.0699,0.1765
+169,Dangia,Kolaka Timur,2045,0.4599,0.4599,0.3218
+170,Wawonii Barat,Konawe Kepulauan,2045,0.4316,0.4316,0.2541
+171,Wawonii Utara,Konawe Kepulauan,2045,0.3124,0.3124,0.2075
+172,Wawonii Timur Laut,Konawe Kepulauan,2045,0.4394,0.4394,0.1698
+173,Wawonii Timur,Konawe Kepulauan,2045,0.2462,0.2462,0.1779
+174,Wawonii Tenggara,Konawe Kepulauan,2045,0.316,0.316,0.2158
+175,Wawonii Selatan,Konawe Kepulauan,2045,0.3964,0.3964,0.2538
+176,Wawonii Tengah,Konawe Kepulauan,2045,0.4485,0.4485,0.2817
+177,Sawerigadi,Muna Barat,2045,0.4739,0.4739,0.5045
+178,Barangka,Muna Barat,2045,0.5871,0.5871,0.4342
+179,Lawa,Muna Barat,2045,0.4926,0.4926,0.4213
+180,Wadaga,Muna Barat,2045,0.3982,0.3982,0.502
+181,Tiworo Selatan,Muna Barat,2045,0.5819,0.5819,0.6979
+182,Maginti,Muna Barat,2045,0.4699,0.4699,0.7653
+183,Tiworo Tengah,Muna Barat,2045,0.5732,0.5732,0.7795
+184,Tiworo Utara,Muna Barat,2045,0.2278,0.2278,0.5043
+185,Tiworo Kepulauan,Muna Barat,2045,0.5212,0.5212,0.6421
+186,Kusambi,Muna Barat,2045,0.4682,0.4682,0.3963
+187,Napano Kusambi,Muna Barat,2045,0.3249,0.3249,0.3359
+188,Lakudo,Buton Tengah,2045,0.4584,0.4584,0.7358
+189,Mawasangka Timur,Buton Tengah,2045,0.4787,0.4787,0.795
+190,Mawasangka Tengah,Buton Tengah,2045,0.4456,0.4456,0.7136
+191,Mawasangka,Buton Tengah,2045,0.4557,0.4557,0.6846
+192,Talaga Raya,Buton Tengah,2045,0.2041,0.2041,0.4225
+193,Gu,Buton Tengah,2045,0.6362,0.6362,0.7592
+194,Sangia Wambulu,Buton Tengah,2045,0.7426,0.7426,0.8801
+195,Batauga,Buton Selatan,2045,0.4077,0.4077,0.6644
+196,Sampolawa,Buton Selatan,2045,0.429,0.429,0.6814
+197,Lapandewa,Buton Selatan,2045,0.4818,0.4818,0.4485
+198,Batu Atas,Buton Selatan,2045,0.6073,0.6073,0.094
+199,Siompu Barat,Buton Selatan,2045,0.5336,0.5336,0.4434
+200,Siompu,Buton Selatan,2045,0.566,0.566,0.5008
+201,Kadatua,Buton Selatan,2045,0.5971,0.5971,0.7962
+202,Mandonga,Kota Kendari,2045,0.7254,0.7254,0.9585
+203,Kendari,Kota Kendari,2045,0.5961,0.5961,1.0
+204,Baruga,Kota Kendari,2045,0.7667,0.7667,0.9832
+205,Poasia,Kota Kendari,2045,0.6993,0.6993,0.9878
+206,Kendari Barat,Kota Kendari,2045,0.515,0.515,1.0
+207,Abeli,Kota Kendari,2045,0.6072,0.6072,0.9758
+208,Wua-Wua,Kota Kendari,2045,0.8441,0.8441,1.0
+209,Kadia,Kota Kendari,2045,0.945,0.945,1.0
+210,Puuwatu,Kota Kendari,2045,0.7303,0.7303,0.9883
+211,Kambu,Kota Kendari,2045,0.761,0.761,0.9916
+212,Nambo,Kota Kendari,2045,0.5396,0.5396,0.9865
+213,Betoambari,Kota Bau Bau,2045,0.7685,0.7685,0.9992
+214,Wolio,Kota Bau Bau,2045,0.7203,0.7203,0.981
+215,Sorawolio,Kota Bau Bau,2045,0.4513,0.4513,0.8659
+216,Bungi,Kota Bau Bau,2045,0.5521,0.5521,0.9405
+217,Kokalukuna,Kota Bau Bau,2045,0.7912,0.7912,1.0
+218,Murhum,Kota Bau Bau,2045,0.8698,0.8698,1.0
+219,Lea-Lea,Kota Bau Bau,2045,0.6824,0.6824,0.9934
+220,Batupoaro,Kota Bau Bau,2045,0.971,0.971,1.0
