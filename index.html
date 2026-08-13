@@ -44,7 +44,7 @@
 
         /* HEADER BANNER */
         .header-banner { 
-            position: absolute; top: 14px; left: 16px; right: 16px; height: 72px; 
+            position: absolute; top: 14px; left: 16px; right: 16px; height: 76px; 
             background: var(--surface-glass); 
             backdrop-filter: blur(20px) saturate(180%); 
             -webkit-backdrop-filter: blur(20px) saturate(180%);
@@ -56,7 +56,11 @@
             transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
-        .logo-container { height: 54px; display: flex; align-items: center; }
+        .logo-container { 
+            height: 60px; 
+            display: flex; 
+            align-items: center; 
+        }
 
         /* HEADER CONTROLS */
         .header-actions { display: flex; align-items: center; gap: 12px; }
@@ -115,7 +119,7 @@
         }
 
         /* CUSTOM LEAFLET CONTROLS */
-        .leaflet-top.leaflet-left { top: 98px; left: 16px; }
+        .leaflet-top.leaflet-left { top: 102px; left: 16px; }
         
         .leaflet-bar {
             border: none !important;
@@ -352,7 +356,7 @@
 
         .leaflet-tooltip { 
             background: rgba(15,23,42,0.92) !important; 
-            backdrop-filter: blur(8px) !important;
+            backdrop-filter: blur(8px) !important; 
             color: #ffffff !important; 
             border: 1px solid rgba(255,255,255,0.2) !important; 
             border-radius: 8px !important; 
@@ -377,7 +381,7 @@
     <!-- HEADER BANNER -->
     <div class="header-banner">
         <div class="logo-container">
-            <svg viewBox="0 0 1060 100" style="height: 100%; width: auto;" preserveAspectRatio="xMidYMid meet">
+            <svg viewBox="0 0 1160 100" style="height: 100%; width: auto;" preserveAspectRatio="xMidYMid meet">
                 <defs>
                     <linearGradient id="goldTolaki" x1="0%" y1="0%" x2="100%" y2="100%">
                         <stop offset="0%" stop-color="#FBBF24" />
@@ -397,64 +401,66 @@
                     </filter>
                 </defs>
 
-                <!-- EMBLEM LAIKA (KIRI) -->
-                <g transform="translate(10, 2)">
-                    <circle cx="48" cy="48" r="44" fill="none" stroke="url(#goldTolaki)" stroke-width="2.5" stroke-dasharray="7 3.5" opacity="0.9" />
-                    <circle cx="48" cy="48" r="39" fill="#0f172a" stroke="url(#blueIklim)" stroke-width="1.2" filter="url(#softShadow)" />
+                <!-- EMBLEM LAIKA (DIPERBESAR & PRESISI) -->
+                <g transform="translate(4, 0)">
+                    <circle cx="50" cy="50" r="47" fill="none" stroke="url(#goldTolaki)" stroke-width="2.8" stroke-dasharray="7 3.5" opacity="0.95" />
+                    <circle cx="50" cy="50" r="42" fill="#0f172a" stroke="url(#blueIklim)" stroke-width="1.4" filter="url(#softShadow)" />
 
                     <g opacity="0.25" stroke="#38BDF8" stroke-width="0.8" fill="none">
-                        <circle cx="48" cy="48" r="30" stroke-dasharray="2.5 2.5" />
-                        <circle cx="48" cy="48" r="18" />
-                        <line x1="48" y1="10" x2="48" y2="86" />
-                        <line x1="10" y1="48" x2="86" y2="48" />
+                        <circle cx="50" cy="50" r="32" stroke-dasharray="2.5 2.5" />
+                        <circle cx="50" cy="50" r="20" />
+                        <line x1="50" y1="8" x2="50" y2="92" />
+                        <line x1="8" y1="50" x2="92" y2="50" />
                     </g>
 
-                    <g stroke="url(#goldTolaki)" stroke-width="1.8" stroke-linecap="round">
-                        <line x1="34" y1="55" x2="34" y2="68" />
-                        <line x1="43" y1="55" x2="43" y2="68" />
-                        <line x1="53" y1="55" x2="53" y2="68" />
-                        <line x1="62" y1="55" x2="62" y2="68" />
-                        <line x1="30" y1="61" x2="66" y2="61" stroke-width="1.2" />
-                        <line x1="28" y1="68" x2="68" y2="68" stroke-width="1.8" />
+                    <g stroke="url(#goldTolaki)" stroke-width="2" stroke-linecap="round">
+                        <line x1="35" y1="58" x2="35" y2="72" />
+                        <line x1="45" y1="58" x2="45" y2="72" />
+                        <line x1="55" y1="58" x2="55" y2="72" />
+                        <line x1="65" y1="58" x2="65" y2="72" />
+                        <line x1="30" y1="64" x2="70" y2="64" stroke-width="1.3" />
+                        <line x1="28" y1="72" x2="72" y2="72" stroke-width="2" />
                     </g>
 
-                    <polygon points="32,46 64,46 61,56 35,56" fill="#1e293b" stroke="url(#goldTolaki)" stroke-width="1.2" />
-                    <polygon points="22,46 48,25 74,46 69,48 48,30 27,48" fill="url(#goldTolaki)" />
-                    <polygon points="26,43 48,22 70,43 48,27" fill="url(#goldTolaki)" />
+                    <polygon points="33,48 67,48 64,59 36,59" fill="#1e293b" stroke="url(#goldTolaki)" stroke-width="1.3" />
+                    <polygon points="22,48 50,25 78,48 73,50 50,31 27,50" fill="url(#goldTolaki)" />
+                    <polygon points="27,45 50,22 73,45 50,27" fill="url(#goldTolaki)" />
 
-                    <line x1="44" y1="18" x2="52" y2="26" stroke="url(#goldTolaki)" stroke-width="2" stroke-linecap="round" />
-                    <line x1="52" y1="18" x2="44" y2="26" stroke="url(#goldTolaki)" stroke-width="2" stroke-linecap="round" />
-                    <circle cx="48" cy="22" r="1.2" fill="#ffffff" />
+                    <line x1="45" y1="18" x2="55" y2="28" stroke="url(#goldTolaki)" stroke-width="2.2" stroke-linecap="round" />
+                    <line x1="55" y1="18" x2="45" y2="28" stroke="url(#goldTolaki)" stroke-width="2.2" stroke-linecap="round" />
+                    <circle cx="50" cy="23" r="1.4" fill="#ffffff" />
 
-                    <path d="M 19,63 C 14,56 15,46 20,41 C 18,48 21,54 25,58 Z" fill="url(#greenLahan)" />
-                    <ellipse cx="75" cy="52" rx="2.5" ry="4.5" transform="rotate(30 75 52)" fill="url(#goldTolaki)" />
-                    <ellipse cx="78" cy="45" rx="2.2" ry="4" transform="rotate(15 78 45)" fill="url(#goldTolaki)" />
-                    <path d="M 22,76 Q 48,85 74,76" fill="none" stroke="url(#greenLahan)" stroke-width="1.6" stroke-linecap="round" />
+                    <path d="M 18,66 C 13,58 14,47 20,42 C 17,49 21,56 25,60 Z" fill="url(#greenLahan)" />
+                    <ellipse cx="79" cy="55" rx="2.8" ry="4.8" transform="rotate(30 79 55)" fill="url(#goldTolaki)" />
+                    <ellipse cx="82" cy="47" rx="2.4" ry="4.2" transform="rotate(15 82 47)" fill="url(#goldTolaki)" />
+                    <path d="M 22,80 Q 50,90 78,80" fill="none" stroke="url(#greenLahan)" stroke-width="1.8" stroke-linecap="round" />
                 </g>
 
-                <line x1="120" y1="14" x2="120" y2="86" stroke="#cbd5e1" stroke-width="1.5" stroke-linecap="round" />
+                <!-- GARIS PEMISAH -->
+                <line x1="116" y1="12" x2="116" y2="88" stroke="#cbd5e1" stroke-width="1.8" stroke-linecap="round" />
 
-                <!-- TYPOGRAPHY & IDENTITAS -->
-                <text x="140" y="46" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="38" fill="#0f172a" letter-spacing="1.2">
+                <!-- JUDUL UTAMA "SI-LAIKA" -->
+                <text x="134" y="47" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="44" fill="#0f172a" letter-spacing="1.2">
                     SI-LAIKA
                 </text>
 
-                <g transform="translate(335, 14)">
-                    <rect width="108" height="36" rx="8" fill="#0f172a" />
-                    <text x="54" y="24" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="16" fill="#facc15" text-anchor="middle" letter-spacing="2">
+                <!-- BADGE "SULTRA" -->
+                <g transform="translate(365, 11)">
+                    <rect width="114" height="38" rx="9" fill="#0f172a" />
+                    <text x="57" y="25" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="17" fill="#facc15" text-anchor="middle" letter-spacing="2.2">
                         SULTRA
                     </text>
                 </g>
 
-                <!-- KEPANJANGAN DENGAN HIGHLIGHT HURUF AKRONIM (S-I-L-A-I-K-A) & KARAKTER '&' -->
-                <text x="142" y="80" font-family="'Plus Jakarta Sans', system-ui, sans-serif" fill="#0369a1" font-size="16.5" font-weight="700" letter-spacing="0.1">
-                    <tspan fill="#b45309" font-size="23" font-weight="900">S</tspan>istem 
-                    <tspan fill="#b45309" font-size="23" font-weight="900">I</tspan>ntegrasi 
-                    <tspan fill="#b45309" font-size="23" font-weight="900">L</tspan>ahan, 
-                    <tspan fill="#b45309" font-size="23" font-weight="900">A</tspan>nomali 
-                    <tspan fill="#b45309" font-size="23" font-weight="900">I</tspan>klim, 
-                    <tspan fill="#b45309" font-size="23" font-weight="900">K</tspan>etahanan Pangan, &amp; 
-                    <tspan fill="#b45309" font-size="23" font-weight="900">A</tspan>ntisipasi Inflasi
+                <!-- KEPANJANGAN LENGKAP -->
+                <text x="136" y="82" font-family="'Plus Jakarta Sans', system-ui, sans-serif" fill="#0369a1" font-size="18" font-weight="700" letter-spacing="0.1">
+                    <tspan fill="#b45309" font-size="25" font-weight="900">S</tspan>istem 
+                    <tspan fill="#b45309" font-size="25" font-weight="900">I</tspan>ntegrasi 
+                    <tspan fill="#b45309" font-size="25" font-weight="900">L</tspan>ahan, 
+                    <tspan fill="#b45309" font-size="25" font-weight="900">A</tspan>nomali 
+                    <tspan fill="#b45309" font-size="25" font-weight="900">I</tspan>klim, 
+                    <tspan fill="#b45309" font-size="25" font-weight="900">K</tspan>etahanan Pangan, &amp; 
+                    <tspan fill="#b45309" font-size="25" font-weight="900">A</tspan>ntisipasi Inflasi
                 </text>
             </svg>
         </div>
@@ -462,7 +468,7 @@
         <div class="header-actions">
             <div class="live-status-pill">
                 <span class="live-dot"></span>
-                <span>PETA SPASIAL KTIF</span>
+                <span>PETA SPASIAL AKTIF</span>
             </div>
             <div class="filter-pill">
                 <label for="tahun-select">Proyeksi:</label>
@@ -677,8 +683,15 @@
     };
     legend.addTo(map);
 
+    // 1. PEMBACAAN GEOJSON STATIS
     function loadGeoJSONPolygons() {
-        fetch('/api/geojson?t=' + new Date().getTime()).then(res => res.json()).then(data => { geojsonData = data; renderPolygons(); });
+        fetch('./geojson-kecamatan/kecamatan_sultra_web.geojson')
+            .then(res => res.json())
+            .then(data => { 
+                geojsonData = data; 
+                renderPolygons(); 
+            })
+            .catch(err => console.error("Error GeoJSON:", err));
     }
 
     // STYLE BATAS KECAMATAN NATURAL
@@ -720,12 +733,28 @@
         }).addTo(map);
     }
 
+    // 2. PEMBACAAN RASTER PNG STATIS
+    var fixedRasterBounds = null;
+
     function loadRasterPNG(tahun) {
         if (currentRasterLayer) map.removeLayer(currentRasterLayer);
-        fetch('/api/raster-bounds/' + tahun + '?t=' + new Date().getTime()).then(res => res.json()).then(bounds => {
-            currentRasterLayer = L.imageOverlay('/api/raster-png/' + tahun + '?t=' + new Date().getTime(), bounds, { opacity: 0.90 }).addTo(map);
+        
+        const applyRaster = (bounds) => {
+            currentRasterLayer = L.imageOverlay('./static_rasters/raster_' + tahun + '.png', bounds, { opacity: 0.90 }).addTo(map);
             if (geojsonLayer) geojsonLayer.bringToFront();
-        });
+        };
+
+        if (!fixedRasterBounds) {
+            fetch('./raster_bounds.json')
+                .then(res => res.json())
+                .then(data => {
+                    fixedRasterBounds = data.bounds;
+                    applyRaster(fixedRasterBounds);
+                })
+                .catch(err => console.error("Error Bounds:", err));
+        } else {
+            applyRaster(fixedRasterBounds);
+        }
     }
 
     function getStatusBadge(val, eps = 0.0001) {
@@ -786,12 +815,14 @@
         `;
     }
 
+    // 3. PEMBACAAN DATA TABULAR JSON STATIS
+    var masterTabularData = null;
+
     function loadDetailData(kec, tahun, polygonLayer) {
         var panelEl = document.getElementById('detail-panel');
         panelEl.classList.add('active');
         document.getElementById('kec-title').innerText = kec + " (" + tahun + ")";
         
-        // Update state visual tombol tab tahun di dalam sidebar
         document.querySelectorAll('.year-tab-btn').forEach(btn => {
             if (parseInt(btn.getAttribute('data-year')) === parseInt(tahun)) {
                 btn.classList.add('active');
@@ -800,408 +831,422 @@
             }
         });
 
-        // Hanya gerakkan kamera peta saat pertama kali poligon diklik
         if (polygonLayer) {
             map.flyToBounds(polygonLayer.getBounds(), { paddingBottomRight: [530, 0], paddingTopLeft: [20, 20], duration: 1.2, easeLinearity: 0.25 });
         }
 
-        fetch('/api/data/' + kec + '/' + tahun + '?t=' + new Date().getTime()).then(res => res.json()).then(res => {
-            if(res.status === 'success') {
-                var cur = res.current; var base = res.base_2020;
-                var isBaseline = (parseInt(tahun) === 2020);
+        const renderView = (allData) => {
+            var kecReq = kec.toLowerCase().replace("kecamatan", "").replace("kec.", "").trim();
+            var cur = allData.find(d => (d.clean_kec || "").trim() === kecReq && parseInt(d.tahun) === parseInt(tahun));
+            var base = allData.find(d => (d.clean_kec || "").trim() === kecReq && parseInt(d.tahun) === 2020) || cur;
 
-                var energiTersediaCur = cur.energi_tersedia_mcal ?? 0;
-                var kebutuhanEnergiCur = cur.kebutuhan_energi_mcal ?? 1;
-                var kebutuhanEnergiBase = base.kebutuhan_energi_mcal ?? 1;
-                var neracaEnergiCur = cur.gap_energi_mcal ?? 0;
-                var neracaEnergiBase = base.gap_energi_mcal ?? 0;
-                var rasioNeracaCur = cur.rasio_energi_kebutuhan ?? 0;
-                
-                var aksesJalan = cur.indeks_sfai ?? 0;
-                var infoIndex = cur.indeks_akses_informasi ?? 0;
-
-                var popCur = cur.jumlah_penduduk_jiwa > 0 ? cur.jumlah_penduduk_jiwa : (kebutuhanEnergiCur > 0 ? Math.round(kebutuhanEnergiCur / 459.9) : 0);
-                var popBase = base.jumlah_penduduk_jiwa > 0 ? base.jumlah_penduduk_jiwa : (kebutuhanEnergiBase > 0 ? Math.round(kebutuhanEnergiBase / 459.9) : 0);
-                var deltaPop = isBaseline ? 0 : (popCur - popBase);
-                var pctPop = isBaseline ? 0 : (popBase > 0 ? ((deltaPop / popBase) * 100) : 0);
-
-                var luasSawahCur = cur.luas_sawah_ha ?? 0; var luasKeringCur = cur.luas_kering_ha ?? 0;
-                var luasSawahBase = base.luas_sawah_ha ?? 0; var luasKeringBase = base.luas_kering_ha ?? 0;
-                
-                var prodPbSawahCurVal = (luasSawahCur === 0) ? 0 : (cur.total_pb_sawah_ton ?? 0);
-                var yieldPbSawahCur = (luasSawahCur === 0) ? 0 : (cur.yield_pb_sawah_ton_ha ?? 0);
-                var deltaYieldPbSawah = cur.delta_yield_pb_sawah_ton_ha ?? 0;
-                var energiSawahCur = (luasSawahCur === 0) ? 0 : (cur.total_e_sawah_mcal ?? 0);
-
-                var prodPbKeringCurVal = (luasKeringCur === 0) ? 0 : (cur.total_pb_kering_ton ?? 0);
-                var yieldPbKeringCur = (luasKeringCur === 0) ? 0 : (cur.yield_pb_kering_ton_ha ?? 0);
-                var deltaYieldPbKering = cur.delta_yield_pb_kering_ton_ha ?? 0;
-                var energiKeringCur = (luasKeringCur === 0) ? 0 : (cur.total_e_kering_mcal ?? 0);
-
-                var fmt = (val, d = 2) => Number(val || 0).toLocaleString('id-ID', {minimumFractionDigits: d, maximumFractionDigits: d});
-                const getTrend = (delta, unit) => delta === 0 ? `<span class="trend-badge trend-neutral">■ Stabil</span>` : `<span class="trend-badge ${delta>0?'trend-up':'trend-down'}">${delta>0?'▲ +':'▼ '}${fmt(Math.abs(delta),2)} ${unit}</span>`;
-
-                var isSurplus = rasioNeracaCur >= 1;
-                var statusWarna = isSurplus ? '#15803d' : '#b91c1c';
-                var statusTeks = isSurplus ? 'SURPLUS' : 'DEFISIT';
-                var aksesTeks = aksesJalan >= 0.5 ? 'Tinggi' : 'Rendah';
-
-                var kuadranTitle = "";
-                var kuadranColor = "";
-                var rekomendasi = { lahan: "", distribusi: "", harga: "", iklim: "", mandiri: "" };
-
-                var teksKomunikasi = infoIndex >= 0.5
-                    ? "Penetrasi digital memadai. Publikasikan data Pusat Informasi Harga Pangan Strategis (PIHPS) secara <i>real-time</i> ke petani untuk memutus asimetri informasi dengan tengkulak."
-                    : "Akses informasi pasar lemah (<i>Blank Spot</i>). Libatkan aparatur desa/Bhabinkamtibmas untuk penyuluhan harga manual agar petani tidak dipermainkan tengkulak.";
-
-                if (isSurplus && aksesJalan >= 0.5) {
-                    kuadranTitle = "KUADRAN I: MANDIRI LOGISTIK";
-                    kuadranColor = "#15803d";
-                    rekomendasi.lahan = "<b>Ketersediaan Pasokan & Lahan:</b> Tetapkan dan kunci luasan Lahan Pertanian Pangan Berkelanjutan (LP2B) di Perda RTRW/RDTR. Skalakan fasilitas <b>Sistem Resi Gudang (SRG)</b> dan Lumbung Pangan Masyarakat (LPM) untuk manajemen stok pasca-panen.";
-                    rekomendasi.distribusi = "<b>Kelancaran Distribusi:</b> Infrastruktur jalan prima. Jadikan wilayah ini pusat suplai. Ekspansi <b>Kerjasama Antar Daerah (KAD)</b> model <i>Business-to-Business</i> (B2B) untuk menyuplai daerah defisit.";
-                    rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Harga relatif aman. Perkuat peran Bulog untuk menyerap gabah petani sesuai Harga Pembelian Pemerintah (HPP). ${teksKomunikasi}`;
-                    rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Lindungi skala ekonomi pertanian yang tinggi dengan <b>Asuransi Usaha Tani Padi (AUTP)</b> secara masif terhadap risiko anomali cuaca (El Niño/La Niña).";
-                    rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Edukasi penganekaragaman konsumsi (B2SA) untuk menjaga kedaulatan pangan jangka panjang masyarakat.";
-
-                } else if (!isSurplus && aksesJalan >= 0.5) {
-                    kuadranTitle = "KUADRAN II: KONSUMTIF STRATEGIS";
-                    kuadranColor = "#b45309";
-                    rekomendasi.lahan = "<b>Ketersediaan Pasokan:</b> Lahan terbatas. Optimalkan pemanfaatan lahan tidur milik Pemda/BUMN dan fasilitasi teknologi <i>Smart Farming/Greenhouse</i> pada lahan sempit untuk mendongkrak <i>yield</i> panen.";
-                    rekomendasi.distribusi = "<b>Kelancaran Distribusi:</b> Daerah ini sangat bergantung pada pasokan luar. Pastikan kelancaran jalur logistik pangan dari daerah surplus (Lumbung) tidak terhambat oleh tonase jalan atau pungutan liar.";
-                    rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Rawan inflasi tarikan permintaan (<i>Demand Pull Inflation</i>). Gencarkan <b>Gerakan Pangan Murah (GPM)</b> dan program SPHP Bulog langsung ke konsumen. ${teksKomunikasi}`;
-                    rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Bangun Sistem Peringatan Dini (EWS) ketersediaan logistik pasar apabila terjadi cuaca ekstrem di jalur laut/darat yang menghambat impor pangan.";
-                    rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Masifkan program <b><i>Urban Farming</i></b> (tanam cabai/bawang merah di pekarangan & atap rumah) secara komunal untuk meredam gejolak inflasi <i>volatile food</i>.";
-
-                } else if (!isSurplus && aksesJalan < 0.5) {
-                    kuadranTitle = "KUADRAN III: PRIORITAS KRITIS";
-                    kuadranColor = "#b91c1c";
-                    rekomendasi.lahan = "<b>Ketersediaan Pasokan & Lahan:</b> Kondisi krisis produksi. Jika tata ruang memungkinkan, fasilitasi Cetak Sawah Baru atau berikan subsidi penuh sarana prasarana (pupuk, alsintan) untuk menekan biaya tanam.";
-                    rekomendasi.distribusi = "<b>Kelancaran Distribusi (KRUSIAL):</b> Keterisolasian wilayah memicu biaya logistik sangat mahal. <b>Wajibkan prioritas APBD/Dana Desa</b> untuk pembukaan dan perbaikan <b>Jalan Usaha Tani (JUT)</b> dan jembatan desa.";
-                    rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Rentan kelaparan dan lonjakan harga drastis. Pemda harus mengalokasikan <b>Subsidi Ongkos Angkut (SOA)</b> distribusi pangan ke wilayah ini. ${teksKomunikasi}`;
-                    rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Kerentanan berlapis. Wajibkan <b>Sekolah Lapang Iklim (SLI)</b> dan sediakan benih super genjah tahan kekeringan/banjir untuk meminimalkan risiko gagal panen absolut.";
-                    rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Percepat pengentasan daerah rawan pangan melalui Bantuan Pangan (Bansos) langsung dan intervensi program Padat Karya Tunai Desa sektor pertanian.";
-
-                } else {
-                    kuadranTitle = "KUADRAN IV: LUMBUNG TERISOLIR";
-                    kuadranColor = "#854d0e";
-                    rekomendasi.lahan = "<b>Ketersediaan Pasokan & Lahan:</b> Pertahankan status LP2B. Berikan insentif daerah bagi petani agar tidak mengalihfungsikan lahannya karena merasa rugi akibat biaya logistik angkut pasca-panen yang mahal.";
-                    rekomendasi.distribusi = "<b>Kelancaran Distribusi (KRUSIAL):</b> Ancaman <i>Food Loss</i> (susut hasil panen akibat tertahan di jalan) sangat tinggi. Prioritaskan pembangunan Jalan Usaha Tani (JUT) dan sediakan armada logistik perintis pedesaan untuk mempercepat evakuasi panen ke sentra penggilingan.";
-                    rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Rawan harga anjlok saat panen raya karena minimnya pembeli luar yang masuk. Satgas Pangan harus turun mengawasi tata niaga. ${teksKomunikasi}`;
-                    rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Fasilitasi infrastruktur pengering mekanis (<i>Dryer</i>) portabel agar gabah petani tidak membusuk saat musim hujan karena lambat dikirim akibat jalan rusak.";
-                    rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Penguatan permodalan <b>Badan Usaha Milik Desa (BUMDes)</b> sebagai <i>Off-taker</i> (pembeli siaga) pertama produk petani sebelum didistribusikan keluar wilayah.";
-                }
-
-                var aiInsightHtml = `
-                    <div style="margin-bottom: 10px;">
-                        <span style="font-size: 12px; font-weight: 800; color: #0f172a;">Analisis Kondisi Wilayah:</span><br>
-                        <span style="color: #334155;">Pada tahun <b>${tahun}</b>, <b>${kec}</b> berpopulasi <b>${fmt(popCur, 0)} Jiwa</b> 
-                        dengan neraca energi <b style="color: ${statusWarna};">${statusTeks}</b> sebesar <b>${fmt(Math.abs(neracaEnergiCur), 0)} MCal</b>. 
-                        Aksesibilitas jalan berada pada kategori <b>${aksesTeks}</b> (${fmt(aksesJalan, 2)}).<br>
-                        Secara spasial, wilayah ini masuk dalam <b style="color: ${kuadranColor}; padding: 2px 6px; background: ${kuadranColor}15; border-radius: 6px; font-weight: 900;">${kuadranTitle}</b>.</span>
-                    </div>
-
-                    <div style="border-top: 1px dashed #bae6fd; padding-top: 10px;">
-                        <span style="font-size: 11.5px; font-weight: 900; color: #0369a1;">Arahan Intervensi (Strategi 4K TPID & Spasial):</span>
-                        <ul style="margin: 6px 0 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 8px; color: #0f172a;">
-                            <li>${rekomendasi.lahan}</li>
-                            <li>${rekomendasi.distribusi}</li>
-                            <li>${rekomendasi.harga}</li>
-                            <li>${rekomendasi.iklim}</li>
-                            <li>${rekomendasi.mandiri}</li>
-                        </ul>
-                    </div>
-                `;
-
-                document.getElementById('ai-insights-box').innerHTML = aiInsightHtml;
-
-                // 1. UPDATE KARTU KPI
-                document.getElementById('kpi-pop').innerText = `${fmt(popCur, 0)} Jiwa`;
-                if (isBaseline) {
-                    document.getElementById('kpi-pop-badge').className = 'kpi-badge trend-neutral';
-                    document.getElementById('kpi-pop-badge').innerText = 'BASELINE';
-                } else {
-                    document.getElementById('kpi-pop-badge').className = `kpi-badge ${pctPop >= 0 ? 'trend-up' : 'trend-down'}`;
-                    document.getElementById('kpi-pop-badge').innerText = `${pctPop >= 0 ? '▲ +' : '▼ '}${fmt(pctPop, 1)}%`;
-                }
-
-                document.getElementById('kpi-beras').innerText = `${fmt(prodPbSawahCurVal, 1)} Ton`;
-                document.getElementById('kpi-palawija').innerText = `${fmt(prodPbKeringCurVal, 1)} Ton`;
-
-                var gapSign = neracaEnergiCur >= 0 ? '+' : '';
-                document.getElementById('kpi-gap').innerText = `${gapSign}${fmt(neracaEnergiCur, 0)} MCal`;
-                document.getElementById('kpi-neraca-badge').className = `kpi-badge ${isSurplus ? 'badge-surplus' : 'badge-deficit'}`;
-                document.getElementById('kpi-neraca-badge').innerText = `${fmt(rasioNeracaCur, 2)}x (${isSurplus ? 'SURPLUS' : 'DEFISIT'})`;
-
-                document.getElementById('kpi-sfai-jalan').innerText = fmt(aksesJalan, 2);
-                document.getElementById('kpi-info').innerText = fmt(infoIndex, 2);
-                document.getElementById('kpi-sfai-badge').className = `kpi-badge ${aksesJalan >= 0.5 ? 'badge-surplus' : 'badge-deficit'}`;
-                document.getElementById('kpi-sfai-badge').innerText = aksesJalan >= 0.5 ? 'TINGGI' : 'RENDAH';
-
-                // 2. WIDGET CAPAIAN NERACA & LAHAN
-                var pctTersedia = Math.min((energiTersediaCur / kebutuhanEnergiCur) * 100, 100);
-                var barColor = energiTersediaCur >= kebutuhanEnergiCur ? '#10b981' : '#ef4444';
-                
-                var infoHtml = `
-                    <div class="info-section">
-                        <div class="info-title">Pencapaian Kebutuhan Energi Pangan</div>
-                        <div style="font-size:11px; color:#475569; display:flex; justify-content:space-between; font-weight:700;">
-                            <span>Suplai: <b>${fmt(energiTersediaCur, 0)} MCal</b></span>
-                            <span>Target: <b>${fmt(kebutuhanEnergiCur, 0)} MCal</b></span>
-                        </div>
-                        <div class="energy-bar-container">
-                            <div class="energy-bar-fill" style="width: ${pctTersedia}%; background: ${barColor};"></div>
-                            <div class="energy-target-line" style="left: 100%;"></div>
-                        </div>
-                        <div class="energy-labels">
-                            <span>Terpenuhi: ${fmt(pctTersedia, 1)}%</span>
-                            ${isBaseline ? '' : `<span>Pergeseran: ${getTrend(neracaEnergiCur - neracaEnergiBase, 'MCal')}</span>`}
-                        </div>
-                    </div>
-
-                    <div class="info-section">
-                        <div class="info-title">Dinamika Luas & Produktivitas Komoditas</div>
-                        <div class="widget-grid">
-                            <div class="widget-card widget-sawah">
-                                <div class="widget-label">LAHAN SAWAH</div>
-                                <div class="widget-value">${fmt(luasSawahCur)} <span class="widget-unit">Ha</span></div>
-                                ${isBaseline ? '' : getTrend(luasSawahCur - luasSawahBase, 'Ha')}
-                                <div style="margin-top:8px; border-top:1px dashed #cbd5e1; padding-top:6px;">
-                                    <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">YIELD BERAS:</div>
-                                    <div class="widget-value" style="font-size:12.5px;">${fmt(yieldPbSawahCur)} <span class="widget-unit">Ton/Ha</span></div>
-                                    ${isBaseline ? '' : getTrend(deltaYieldPbSawah, 'Ton/Ha')}
-                                </div>
-                            </div>
-                            <div class="widget-card widget-kering">
-                                <div class="widget-label">PERTANIAN LAHAN KERING</div>
-                                <div class="widget-value">${fmt(luasKeringCur)} <span class="widget-unit">Ha</span></div>
-                                ${isBaseline ? '' : getTrend(luasKeringCur - luasKeringBase, 'Ha')}
-                                <div style="margin-top:8px; border-top:1px dashed #cbd5e1; padding-top:6px;">
-                                    <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">YIELD PALAWIJA:</div>
-                                    <div class="widget-value" style="font-size:12.5px;">${fmt(yieldPbKeringCur)} <span class="widget-unit">Ton/Ha</span></div>
-                                    ${isBaseline ? '' : getTrend(deltaYieldPbKering, 'Ton/Ha')}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                `;
-                document.getElementById('infographic-container').innerHTML = infoHtml;
-
-                var plotConfig = { responsive: true, displayModeBar: false };
-                var globalFont = { family: 'Plus Jakarta Sans, sans-serif' };
-
-                // CHARTS PLOTLY
-                Plotly.newPlot('chart-lulc-pie', [{
-                    labels: ['Hutan', 'Kebun', 'Semak', 'Pertanian Lahan Kering', 'Sawah', 'Tambang', 'Lahan Terbangun', 'Air'],
-                    values: [cur.luas_hutan_ha||0, cur.luas_kebun_ha||0, cur.luas_semak_ha||0, luasKeringCur, luasSawahCur, cur.luas_tambang_ha||0, cur.luas_terbangun_ha||0, cur.luas_air_ha||0],
-                    type: 'pie', hole: 0.62, marker: { colors: ['#2e7d32', '#8fa876', '#e0d3c1', '#ff6600', '#ffff00', '#aa00ff', '#ff0000', '#0288d1'] }, textinfo: 'none', hovertemplate: '<b>%{label}</b><br>%{value:,.1f} Ha<extra></extra>'
-                }], { margin: { t:10, b:10, l:10, r:10 }, font: globalFont, showlegend: false }, plotConfig);
-
-                Plotly.newPlot('chart-land-dynamics', [{ 
-                    x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
-                    y: isBaseline ? [luasSawahCur, luasKeringCur] : [luasSawahCur - luasSawahBase, luasKeringCur - luasKeringBase], 
-                    type: 'bar', 
-                    marker: { color: ['#eab308', '#f97316'], line: { width: 0 } }, 
-                    hovertemplate: '<b>%{x}</b>: %{y:+,.1f} Ha<extra></extra>'
-                }], { 
-                    margin: { t: 15, b: 38, l: 45, r: 10 }, font: globalFont, 
-                    xaxis: { tickfont: { size: 9, weight: 700 }, automargin: true, tickangle: 0 },
-                    yaxis: { title: 'Ha', titlefont: { size: 10, weight: 800 }, showgrid: false, zeroline: true, zerolinecolor: '#cbd5e1' } 
-                }, plotConfig);
-
-                var prodSawahRibu = prodPbSawahCurVal / 1000.0;
-                var prodKeringRibu = prodPbKeringCurVal / 1000.0;
-                var energiSawahJuta = energiSawahCur / 1000000.0;
-                var energiKeringJuta = energiKeringCur / 1000000.0;
-                var limitProd = Math.max(prodSawahRibu, prodKeringRibu, 5) * 1.25;
-                var limitEnergi = Math.max(energiSawahJuta, energiKeringJuta, 10) * 1.25;
-
-                Plotly.newPlot('chart-prod', [
-                    { 
-                        x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
-                        y: [prodSawahRibu, prodKeringRibu], 
-                        name: 'Produksi (Ribu Ton)', 
-                        type: 'bar', offsetgroup: '1', 
-                        marker: { color: ['#fde047', '#fdba74'], line: { color: ['#ca8a04', '#c2410c'], width: 1.5 } }, 
-                        hovertemplate: '<b>%{x}</b><br>Produksi: %{y:,.2f} Ribu Ton<extra></extra>' 
-                    },
-                    { 
-                        x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
-                        y: [energiSawahJuta, energiKeringJuta], 
-                        name: 'Energi (Juta MCal)', 
-                        type: 'bar', yaxis: 'y2', offsetgroup: '2', 
-                        marker: { line: { color: ['#ca8a04', '#c2410c'], width: 1.5 }, pattern: { shape: '/', fgcolor: ['#ca8a04', '#c2410c'], size: 5 } }, 
-                        hovertemplate: '<b>%{x}</b><br>Energi: %{y:,.2f} Juta MCal<extra></extra>' 
-                    }
-                ], { 
-                    barmode: 'group', margin: { t: 10, b: 45, l: 60, r: 60 }, 
-                    xaxis: { showgrid: false, tickfont: { size: 9, weight: 700 }, automargin: true, tickangle: 0 },
-                    yaxis: { title: 'Ribu Ton', titlefont: { size: 9.5, weight: 800 }, range: [0, limitProd], showgrid: false, zeroline: true, zerolinecolor: '#cbd5e1', tickfont: { size: 8.5 } }, 
-                    yaxis2: { title: 'Juta MCal', titlefont: { size: 9.5, weight: 800 }, overlaying: 'y', side: 'right', range: [0, limitEnergi], showgrid: false, zeroline: false, tickfont: { size: 8.5 } }, 
-                    showlegend: true, legend: { orientation: 'h', y: -0.25, x: 0.5, xanchor: 'center', font: { size: 9, weight: 700 } }, font: globalFont 
-                }, plotConfig);
-
-                // 3. RADAR CHARTS ANOMALI IKLIM
-                const getClimateDelta = (dataObj, tipeLahan, varName) => {
-                    const keys = [`delta_${tipeLahan}_${varName}`, `delta_${varName}_${tipeLahan}`, `${tipeLahan}_${varName}`, `delta_${varName}`];
-                    for (let k of keys) {
-                        if (dataObj[k] !== undefined && dataObj[k] !== null && !isNaN(dataObj[k])) return parseFloat(dataObj[k]);
-                    }
-                    return 0;
-                };
-
-                var tas_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'tas') : 0;
-                var pr_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'pr') : 0;
-                var hurs_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'hurs') : 0;
-                var mrso_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'mrso') : 0;
-
-                var tas_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'tas') : 0;
-                var pr_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'pr') : 0;
-                var hurs_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'hurs') : 0;
-                var mrso_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'mrso') : 0;
-
-                const normalizeResponsive = (hurs, tas, mrso, pr, hasLand) => {
-                    if (!hasLand || isBaseline) return [50, 50, 50, 50];
-                    var r_hurs = 50 + Math.max(-40, Math.min(40, (hurs / 2.0) * 40));
-                    var r_tas = 50 + Math.max(-40, Math.min(40, (tas / 0.5) * 40));
-                    var r_mrso = 50 + Math.max(-40, Math.min(40, (mrso / 0.005) * 40));
-                    var r_pr = 50 + Math.max(-40, Math.min(40, (pr / 30.0) * 40));
-                    return [r_hurs, r_tas, r_mrso, r_pr];
-                };
-
-                var r_sawah = normalizeResponsive(hurs_sw, tas_sw, mrso_sw, pr_sw, luasSawahCur > 0);
-                r_sawah.push(r_sawah[0]);
-                var r_kering = normalizeResponsive(hurs_kr, tas_kr, mrso_kr, pr_kr, luasKeringCur > 0);
-                r_kering.push(r_kering[0]);
-
-                var theta_labels = ['Kelembapan<br>Udara', 'Suhu<br>Udara', 'Kelembapan<br>Tanah', 'Curah<br>Hujan', 'Kelembapan<br>Udara'];
-
-                var text_sawah = (luasSawahCur > 0) ? [
-                    `Status: ${getStatusText(hurs_sw, 0.01)} (${hurs_sw > 0 ? '+' : ''}${hurs_sw.toFixed(2)} %)`,
-                    `Status: ${getStatusText(tas_sw, 0.001)} (${tas_sw > 0 ? '+' : ''}${tas_sw.toFixed(2)} °C)`,
-                    `Status: ${getStatusText(mrso_sw, 0.00005)} (${mrso_sw > 0 ? '+' : ''}${mrso_sw.toFixed(4)} m³/m³)`,
-                    `Status: ${getStatusText(pr_sw, 0.05)} (${pr_sw > 0 ? '+' : ''}${pr_sw.toFixed(1)} mm)`,
-                    `Status: ${getStatusText(hurs_sw, 0.01)} (${hurs_sw > 0 ? '+' : ''}${hurs_sw.toFixed(2)} %)`
-                ] : ['Tidak terdapat sawah', 'Tidak terdapat sawah', 'Tidak terdapat sawah', 'Tidak terdapat sawah', 'Tidak terdapat sawah'];
-
-                var text_kering = (luasKeringCur > 0) ? [
-                    `Status: ${getStatusText(hurs_kr, 0.01)} (${hurs_kr > 0 ? '+' : ''}${hurs_kr.toFixed(2)} %)`,
-                    `Status: ${getStatusText(tas_kr, 0.001)} (${tas_kr > 0 ? '+' : ''}${tas_kr.toFixed(2)} °C)`,
-                    `Status: ${getStatusText(mrso_kr, 0.00005)} (${mrso_kr > 0 ? '+' : ''}${mrso_kr.toFixed(4)} m³/m³)`,
-                    `Status: ${getStatusText(pr_kr, 0.05)} (${pr_kr > 0 ? '+' : ''}${pr_kr.toFixed(1)} mm)`,
-                    `Status: ${getStatusText(hurs_kr, 0.01)} (${hurs_kr > 0 ? '+' : ''}${hurs_kr.toFixed(2)} %)`
-                ] : ['Tidak terdapat lahan kering', 'Tidak terdapat lahan kering', 'Tidak terdapat lahan kering', 'Tidak terdapat lahan kering', 'Tidak terdapat lahan kering'];
-
-                var radarLayout = {
-                    margin: { t: 15, b: 18, l: 12, r: 12 },
-                    polar: {
-                        domain: { x: [0.15, 0.85], y: [0.03, 0.97] },
-                        radialaxis: { visible: true, range: [0, 100], tickvals: [20, 50, 80], ticktext: ['-', '0', '+'], tickfont: { size: 7.5, color: '#94a3b8', weight: 700 }, gridcolor: '#e2e8f0', linecolor: '#cbd5e1' },
-                        angularaxis: { tickfont: { size: 8, color: '#334155', weight: 800 }, rotation: 90, direction: 'clockwise' }
-                    },
-                    showlegend: false, font: globalFont
-                };
-
-                Plotly.newPlot('radar-sawah', [{ 
-                    type: 'scatterpolar', r: r_sawah, theta: theta_labels, text: text_sawah, 
-                    hovertemplate: '<b>%{theta}</b><br>%{text}<extra></extra>', fill: luasSawahCur > 0 ? 'toself' : 'none', 
-                    fillcolor: 'rgba(14, 165, 233, 0.25)', line: { color: luasSawahCur > 0 ? '#0ea5e9' : '#94a3b8', width: 2, dash: luasSawahCur > 0 ? 'solid' : 'dot' }, 
-                    marker: { size: luasSawahCur > 0 ? 5 : 2, color: '#0284c7' } 
-                }], radarLayout, plotConfig);
-
-                Plotly.newPlot('radar-kering', [{ 
-                    type: 'scatterpolar', r: r_kering, theta: theta_labels, text: text_kering, 
-                    hovertemplate: '<b>%{theta}</b><br>%{text}<extra></extra>', fill: luasKeringCur > 0 ? 'toself' : 'none', 
-                    fillcolor: 'rgba(249, 115, 22, 0.25)', line: { color: luasKeringCur > 0 ? '#f97316' : '#94a3b8', width: 2, dash: luasKeringCur > 0 ? 'solid' : 'dot' }, 
-                    marker: { size: luasKeringCur > 0 ? 5 : 2, color: '#ea580c' } 
-                }], radarLayout, plotConfig);
-
-                document.getElementById('radar-sawah-status').innerHTML = renderClimateStatusHtmlSawah(tas_sw, pr_sw, hurs_sw, mrso_sw, luasSawahCur > 0);
-                document.getElementById('radar-kering-status').innerHTML = renderClimateStatusHtmlKering(tas_kr, pr_kr, hurs_kr, mrso_kr, luasKeringCur > 0);
-
-                // 4. KUADRAN KEBIJAKAN SPASIAL
-                var neracaJuta = neracaEnergiCur / 1000000.0;
-                var maxGapJuta = Math.max(Math.abs(neracaJuta), 15.0) * 1.35;
-                var infoColor = (infoIndex >= 0.5) ? '#10b981' : '#ef4444';
-                var infoGlow = (infoIndex >= 0.5) ? 'rgba(16, 185, 129, 0.3)' : 'rgba(239, 68, 68, 0.3)';
-
-                var haloTrace = {
-                    x: [neracaJuta],
-                    y: [aksesJalan],
-                    mode: 'markers',
-                    marker: { size: 36, color: infoGlow, line: { width: 1.5, color: infoColor } },
-                    hoverinfo: 'skip',
-                    showlegend: false
-                };
-
-                var coreTrace = {
-                    x: [neracaJuta],
-                    y: [aksesJalan],
-                    mode: 'markers',
-                    marker: {
-                        size: 16,
-                        color: infoColor,
-                        line: { width: 3, color: '#ffffff' }
-                    },
-                    hovertemplate: `<b>${kec}</b><br>` +
-                                   `Neraca Energi: %{x:,.2f} Juta MCal<br>` +
-                                   `Indeks Aksesibilitas Jalan: %{y:.2f} (${aksesJalan >= 0.5 ? 'Tinggi' : 'Rendah'})<br>` +
-                                   `Akses Informasi: ${fmt(infoIndex, 2)} (${infoIndex >= 0.5 ? 'Tinggi' : 'Rendah'})<extra></extra>`,
-                    showlegend: false
-                };
-
-                var matrixLayout = {
-                    margin: { t: 25, b: 42, l: 52, r: 25 },
-                    font: globalFont,
-                    plot_bgcolor: '#ffffff',
-                    xaxis: {
-                        title: { text: 'Defisit ◄── Neraca Energi (Juta MCal) ──► Surplus', font: { size: 9.5, color: '#475569', weight: 800 } },
-                        range: [-maxGapJuta, maxGapJuta],
-                        zeroline: false,
-                        showgrid: true,
-                        gridcolor: 'rgba(226, 232, 240, 0.7)',
-                        tickfont: { size: 9, color: '#64748b', weight: 700 }
-                    },
-                    yaxis: {
-                        title: { text: 'Indeks Aksesibilitas Jalan', font: { size: 9.5, color: '#475569', weight: 800 }, standoff: 6 },
-                        range: [-0.03, 1.05],
-                        tickmode: 'array',
-                        tickvals: [0.0, 0.25, 0.50, 0.75, 1.0],
-                        ticktext: ['0.00', '0.25', '0.50', '0.75', '1.00'],
-                        tickfont: { size: 8.5, color: '#64748b', weight: 700 },
-                        zeroline: false,
-                        showgrid: true,
-                        gridcolor: 'rgba(226, 232, 240, 0.7)'
-                    },
-                    shapes: [
-                        { type: 'rect', x0: 0, x1: maxGapJuta, y0: 0.5, y1: 1.05, fillcolor: 'rgba(16, 185, 129, 0.05)', line: { width: 0 }, layer: 'below' },
-                        { type: 'rect', x0: -maxGapJuta, x1: 0, y0: 0.5, y1: 1.05, fillcolor: 'rgba(245, 158, 11, 0.05)', line: { width: 0 }, layer: 'below' },
-                        { type: 'rect', x0: -maxGapJuta, x1: 0, y0: -0.03, y1: 0.5, fillcolor: 'rgba(239, 68, 68, 0.05)', line: { width: 0 }, layer: 'below' },
-                        { type: 'rect', x0: 0, x1: maxGapJuta, y0: -0.03, y1: 0.5, fillcolor: 'rgba(14, 165, 233, 0.05)', line: { width: 0 }, layer: 'below' },
-                        { type: 'line', x0: 0, x1: 0, y0: -0.03, y1: 1.05, line: { color: '#94a3b8', width: 1.5, dash: 'dot' } },
-                        { type: 'line', x0: -maxGapJuta, x1: maxGapJuta, y0: 0.5, y1: 0.5, line: { color: '#94a3b8', width: 1.5, dash: 'dot' } }
-                    ],
-                    annotations: [
-                        { x: maxGapJuta * 0.96, y: 1.0, text: '<span style="background:#dcfce7; color:#15803d; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #bbf7d0;">I. MANDIRI LOGISTIK</span>', showarrow: false, xanchor: 'right' },
-                        { x: -maxGapJuta * 0.96, y: 1.0, text: '<span style="background:#fef3c7; color:#b45309; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #fde68a;">II. KONSUMTIF STRATEGIS</span>', showarrow: false, xanchor: 'left' },
-                        { x: -maxGapJuta * 0.96, y: 0.02, text: '<span style="background:#fee2e2; color:#b91c1c; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #fecaca;">III. PRIORITAS KRITIS</span>', showarrow: false, xanchor: 'left' },
-                        { x: maxGapJuta * 0.96, y: 0.02, text: '<span style="background:#e0d3c1; color:#854d0e; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #fde68a;">IV. LUMBUNG TERISOLIR</span>', showarrow: false, xanchor: 'right' }
-                    ]
-                };
-
-                Plotly.newPlot('matrix-chart', [haloTrace, coreTrace], matrixLayout, plotConfig);
+            if(!cur) {
+                document.getElementById('ai-insights-box').innerHTML = "<b style='color:#b91c1c;'>Data tidak ditemukan untuk kecamatan ini.</b>";
+                return;
             }
-        });
+
+            var isBaseline = (parseInt(tahun) === 2020);
+            var energiTersediaCur = cur.energi_tersedia_mcal ?? 0;
+            var kebutuhanEnergiCur = cur.kebutuhan_energi_mcal ?? 1;
+            var kebutuhanEnergiBase = base.kebutuhan_energi_mcal ?? 1;
+            var neracaEnergiCur = cur.gap_energi_mcal ?? 0;
+            var neracaEnergiBase = base.gap_energi_mcal ?? 0;
+            var rasioNeracaCur = cur.rasio_energi_kebutuhan ?? 0;
+            
+            var aksesJalan = cur.indeks_sfai ?? 0;
+            var infoIndex = cur.indeks_akses_informasi ?? 0;
+
+            var popCur = cur.jumlah_penduduk_jiwa > 0 ? cur.jumlah_penduduk_jiwa : (kebutuhanEnergiCur > 0 ? Math.round(kebutuhanEnergiCur / 459.9) : 0);
+            var popBase = base.jumlah_penduduk_jiwa > 0 ? base.jumlah_penduduk_jiwa : (kebutuhanEnergiBase > 0 ? Math.round(kebutuhanEnergiBase / 459.9) : 0);
+            var deltaPop = isBaseline ? 0 : (popCur - popBase);
+            var pctPop = isBaseline ? 0 : (popBase > 0 ? ((deltaPop / popBase) * 100) : 0);
+
+            var luasSawahCur = cur.luas_sawah_ha ?? 0; var luasKeringCur = cur.luas_kering_ha ?? 0;
+            var luasSawahBase = base.luas_sawah_ha ?? 0; var luasKeringBase = base.luas_kering_ha ?? 0;
+            
+            var prodPbSawahCurVal = (luasSawahCur === 0) ? 0 : (cur.total_pb_sawah_ton ?? 0);
+            var yieldPbSawahCur = (luasSawahCur === 0) ? 0 : (cur.yield_pb_sawah_ton_ha ?? 0);
+            var deltaYieldPbSawah = cur.delta_yield_pb_sawah_ton_ha ?? 0;
+            var energiSawahCur = (luasSawahCur === 0) ? 0 : (cur.total_e_sawah_mcal ?? 0);
+
+            var prodPbKeringCurVal = (luasKeringCur === 0) ? 0 : (cur.total_pb_kering_ton ?? 0);
+            var yieldPbKeringCur = (luasKeringCur === 0) ? 0 : (cur.yield_pb_kering_ton_ha ?? 0);
+            var deltaYieldPbKering = cur.delta_yield_pb_kering_ton_ha ?? 0;
+            var energiKeringCur = (luasKeringCur === 0) ? 0 : (cur.total_e_kering_mcal ?? 0);
+
+            var fmt = (val, d = 2) => Number(val || 0).toLocaleString('id-ID', {minimumFractionDigits: d, maximumFractionDigits: d});
+            const getTrend = (delta, unit) => delta === 0 ? `<span class="trend-badge trend-neutral">■ Stabil</span>` : `<span class="trend-badge ${delta>0?'trend-up':'trend-down'}">${delta>0?'▲ +':'▼ '}${fmt(Math.abs(delta),2)} ${unit}</span>`;
+
+            var isSurplus = rasioNeracaCur >= 1;
+            var statusWarna = isSurplus ? '#15803d' : '#b91c1c';
+            var statusTeks = isSurplus ? 'SURPLUS' : 'DEFISIT';
+            var aksesTeks = aksesJalan >= 0.5 ? 'Tinggi' : 'Rendah';
+
+            var kuadranTitle = "";
+            var kuadranColor = "";
+            var rekomendasi = { lahan: "", distribusi: "", harga: "", iklim: "", mandiri: "" };
+
+            var teksKomunikasi = infoIndex >= 0.5
+                ? "Penetrasi digital memadai. Publikasikan data Pusat Informasi Harga Pangan Strategis (PIHPS) secara <i>real-time</i> ke petani untuk memutus asimetri informasi dengan tengkulak."
+                : "Akses informasi pasar lemah (<i>Blank Spot</i>). Libatkan aparatur desa/Bhabinkamtibmas untuk penyuluhan harga manual agar petani tidak dipermainkan tengkulak.";
+
+            if (isSurplus && aksesJalan >= 0.5) {
+                kuadranTitle = "KUADRAN I: SURPLUS STRATEGIS";
+                kuadranColor = "#15803d";
+                rekomendasi.lahan = "<b>Ketersediaan Pasokan & Lahan:</b> Tetapkan dan kunci luasan Lahan Pertanian Pangan Berkelanjutan (LP2B) di Perda RTRW/RDTR. Skalakan fasilitas <b>Sistem Resi Gudang (SRG)</b> dan Lumbung Pangan Masyarakat (LPM) untuk manajemen stok pasca-panen.";
+                rekomendasi.distribusi = "<b>Kelancaran Distribusi:</b> Infrastruktur jalan prima. Jadikan wilayah ini pusat suplai. Ekspansi <b>Kerjasama Antar Daerah (KAD)</b> model <i>Business-to-Business</i> (B2B) untuk menyuplai daerah defisit.";
+                rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Harga relatif aman. Perkuat peran Bulog untuk menyerap gabah petani sesuai Harga Pembelian Pemerintah (HPP). ${teksKomunikasi}`;
+                rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Lindungi skala ekonomi pertanian yang tinggi dengan <b>Asuransi Usaha Tani Padi (AUTP)</b> secara masif terhadap risiko anomali cuaca (El Niño/La Niña).";
+                rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Edukasi penganekaragaman konsumsi (B2SA) untuk menjaga kedaulatan pangan jangka panjang masyarakat.";
+
+            } else if (!isSurplus && aksesJalan >= 0.5) {
+                kuadranTitle = "KUADRAN II: DEFISIT STRATEGIS";
+                kuadranColor = "#b45309";
+                rekomendasi.lahan = "<b>Ketersediaan Pasokan:</b> Lahan terbatas. Optimalkan pemanfaatan lahan tidur milik Pemda/BUMN dan fasilitasi teknologi <i>Smart Farming/Greenhouse</i> pada lahan sempit untuk mendongkrak <i>yield</i> panen.";
+                rekomendasi.distribusi = "<b>Kelancaran Distribusi:</b> Daerah ini sangat bergantung pada pasokan luar. Pastikan kelancaran jalur logistik pangan dari daerah surplus (Lumbung) tidak terhambat oleh tonase jalan atau pungutan liar.";
+                rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Rawan inflasi tarikan permintaan (<i>Demand Pull Inflation</i>). Gencarkan <b>Gerakan Pangan Murah (GPM)</b> dan program SPHP Bulog langsung ke konsumen. ${teksKomunikasi}`;
+                rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Bangun Sistem Peringatan Dini (EWS) ketersediaan logistik pasar apabila terjadi cuaca ekstrem di jalur laut/darat yang menghambat impor pangan.";
+                rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Masifkan program <b><i>Urban Farming</i></b> (tanam cabai/bawang merah di pekarangan & atap rumah) secara komunal untuk meredam gejolak inflasi <i>volatile food</i>.";
+
+            } else if (!isSurplus && aksesJalan < 0.5) {
+                kuadranTitle = "KUADRAN III: DEFISIT TERISOLIR";
+                kuadranColor = "#b91c1c";
+                rekomendasi.lahan = "<b>Ketersediaan Pasokan & Lahan:</b> Kondisi krisis produksi. Jika tata ruang memungkinkan, fasilitasi Cetak Sawah Baru atau berikan subsidi penuh sarana prasarana (pupuk, alsintan) untuk menekan biaya tanam.";
+                rekomendasi.distribusi = "<b>Kelancaran Distribusi (KRUSIAL):</b> Keterisolasian wilayah memicu biaya logistik sangat mahal. <b>Wajibkan prioritas APBD/Dana Desa</b> untuk pembukaan dan perbaikan <b>Jalan Usaha Tani (JUT)</b> dan jembatan desa.";
+                rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Rentan kelaparan dan lonjakan harga drastis. Pemda harus mengalokasikan <b>Subsidi Ongkos Angkut (SOA)</b> distribusi pangan ke wilayah ini. ${teksKomunikasi}`;
+                rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Kerentanan berlapis. Wajibkan <b>Sekolah Lapang Iklim (SLI)</b> dan sediakan benih super genjah tahan kekeringan/banjir untuk meminimalkan risiko gagal panen absolut.";
+                rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Percepat pengentasan daerah rawan pangan melalui Bantuan Pangan (Bansos) langsung dan intervensi program Padat Karya Tunai Desa sektor pertanian.";
+
+            } else {
+                kuadranTitle = "KUADRAN IV: SURPLUS TERISOLIR";
+                kuadranColor = "#854d0e";
+                rekomendasi.lahan = "<b>Ketersediaan Pasokan & Lahan:</b> Pertahankan status LP2B. Berikan insentif daerah bagi petani agar tidak mengalihfungsikan lahannya karena merasa rugi akibat biaya logistik angkut pasca-panen yang mahal.";
+                rekomendasi.distribusi = "<b>Kelancaran Distribusi (KRUSIAL):</b> Ancaman <i>Food Loss</i> (susut hasil panen akibat tertahan di jalan) sangat tinggi. Prioritaskan pembangunan Jalan Usaha Tani (JUT) dan sediakan armada logistik perintis pedesaan untuk mempercepat evakuasi panen ke sentra penggilingan.";
+                rekomendasi.harga = `<b>Keterjangkauan Harga & Komunikasi:</b> Rawan harga anjlok saat panen raya karena minimnya pembeli luar yang masuk. Satgas Pangan harus turun mengawasi tata niaga. ${teksKomunikasi}`;
+                rekomendasi.iklim = "<b>Mitigasi Iklim Mikro:</b> Fasilitasi infrastruktur pengering mekanis (<i>Dryer</i>) portabel agar gabah petani tidak membusuk saat musim hujan karena lambat dikirim akibat jalan rusak.";
+                rekomendasi.mandiri = "<b>Ketahanan Mandiri:</b> Penguatan permodalan <b>Badan Usaha Milik Desa (BUMDes)</b> sebagai <i>Off-taker</i> (pembeli siaga) pertama produk petani sebelum didistribusikan keluar wilayah.";
+            }
+
+            var aiInsightHtml = `
+                <div style="margin-bottom: 10px;">
+                    <span style="font-size: 12px; font-weight: 800; color: #0f172a;">Analisis Kondisi Wilayah:</span><br>
+                    <span style="color: #334155;">Pada tahun <b>${tahun}</b>, <b>${kec}</b> berpopulasi <b>${fmt(popCur, 0)} Jiwa</b> 
+                    dengan neraca energi <b style="color: ${statusWarna};">${statusTeks}</b> sebesar <b>${fmt(Math.abs(neracaEnergiCur), 0)} MCal</b>. 
+                    Aksesibilitas jalan berada pada kategori <b>${aksesTeks}</b> (${fmt(aksesJalan, 2)}).<br>
+                    Secara spasial, wilayah ini masuk dalam <b style="color: ${kuadranColor}; padding: 2px 6px; background: ${kuadranColor}15; border-radius: 6px; font-weight: 900;">${kuadranTitle}</b>.</span>
+                </div>
+
+                <div style="border-top: 1px dashed #bae6fd; padding-top: 10px;">
+                    <span style="font-size: 11.5px; font-weight: 900; color: #0369a1;">Arahan Intervensi (Strategi 4K TPID & Spasial):</span>
+                    <ul style="margin: 6px 0 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 8px; color: #0f172a;">
+                        <li>${rekomendasi.lahan}</li>
+                        <li>${rekomendasi.distribusi}</li>
+                        <li>${rekomendasi.harga}</li>
+                        <li>${rekomendasi.iklim}</li>
+                        <li>${rekomendasi.mandiri}</li>
+                    </ul>
+                </div>
+            `;
+
+            document.getElementById('ai-insights-box').innerHTML = aiInsightHtml;
+
+            // 1. UPDATE KARTU KPI
+            document.getElementById('kpi-pop').innerText = `${fmt(popCur, 0)} Jiwa`;
+            if (isBaseline) {
+                document.getElementById('kpi-pop-badge').className = 'kpi-badge trend-neutral';
+                document.getElementById('kpi-pop-badge').innerText = 'BASELINE';
+            } else {
+                document.getElementById('kpi-pop-badge').className = `kpi-badge ${pctPop >= 0 ? 'trend-up' : 'trend-down'}`;
+                document.getElementById('kpi-pop-badge').innerText = `${pctPop >= 0 ? '▲ +' : '▼ '}${fmt(pctPop, 1)}%`;
+            }
+
+            document.getElementById('kpi-beras').innerText = `${fmt(prodPbSawahCurVal, 1)} Ton`;
+            document.getElementById('kpi-palawija').innerText = `${fmt(prodPbKeringCurVal, 1)} Ton`;
+
+            var gapSign = neracaEnergiCur >= 0 ? '+' : '';
+            document.getElementById('kpi-gap').innerText = `${gapSign}${fmt(neracaEnergiCur, 0)} MCal`;
+            document.getElementById('kpi-neraca-badge').className = `kpi-badge ${isSurplus ? 'badge-surplus' : 'badge-deficit'}`;
+            document.getElementById('kpi-neraca-badge').innerText = `${fmt(rasioNeracaCur, 2)}x (${isSurplus ? 'SURPLUS' : 'DEFISIT'})`;
+
+            document.getElementById('kpi-sfai-jalan').innerText = fmt(aksesJalan, 2);
+            document.getElementById('kpi-info').innerText = fmt(infoIndex, 2);
+            document.getElementById('kpi-sfai-badge').className = `kpi-badge ${aksesJalan >= 0.5 ? 'badge-surplus' : 'badge-deficit'}`;
+            document.getElementById('kpi-sfai-badge').innerText = aksesJalan >= 0.5 ? 'TINGGI' : 'RENDAH';
+
+            // 2. WIDGET CAPAIAN NERACA & LAHAN
+            var pctTersedia = Math.min((energiTersediaCur / kebutuhanEnergiCur) * 100, 100);
+            var barColor = energiTersediaCur >= kebutuhanEnergiCur ? '#10b981' : '#ef4444';
+            
+            var infoHtml = `
+                <div class="info-section">
+                    <div class="info-title">Pencapaian Kebutuhan Energi Pangan</div>
+                    <div style="font-size:11px; color:#475569; display:flex; justify-content:space-between; font-weight:700;">
+                        <span>Suplai: <b>${fmt(energiTersediaCur, 0)} MCal</b></span>
+                        <span>Target: <b>${fmt(kebutuhanEnergiCur, 0)} MCal</b></span>
+                    </div>
+                    <div class="energy-bar-container">
+                        <div class="energy-bar-fill" style="width: ${pctTersedia}%; background: ${barColor};"></div>
+                        <div class="energy-target-line" style="left: 100%;"></div>
+                    </div>
+                    <div class="energy-labels">
+                        <span>Terpenuhi: ${fmt(pctTersedia, 1)}%</span>
+                        ${isBaseline ? '' : `<span>Pergeseran: ${getTrend(neracaEnergiCur - neracaEnergiBase, 'MCal')}</span>`}
+                    </div>
+                </div>
+
+                <div class="info-section">
+                    <div class="info-title">Dinamika Luas & Produktivitas Komoditas</div>
+                    <div class="widget-grid">
+                        <div class="widget-card widget-sawah">
+                            <div class="widget-label">LAHAN SAWAH</div>
+                            <div class="widget-value">${fmt(luasSawahCur)} <span class="widget-unit">Ha</span></div>
+                            ${isBaseline ? '' : getTrend(luasSawahCur - luasSawahBase, 'Ha')}
+                            <div style="margin-top:8px; border-top:1px dashed #cbd5e1; padding-top:6px;">
+                                <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">YIELD BERAS:</div>
+                                <div class="widget-value" style="font-size:12.5px;">${fmt(yieldPbSawahCur)} <span class="widget-unit">Ton/Ha</span></div>
+                                ${isBaseline ? '' : getTrend(deltaYieldPbSawah, 'Ton/Ha')}
+                            </div>
+                        </div>
+                        <div class="widget-card widget-kering">
+                            <div class="widget-label">PERTANIAN LAHAN KERING</div>
+                            <div class="widget-value">${fmt(luasKeringCur)} <span class="widget-unit">Ha</span></div>
+                            ${isBaseline ? '' : getTrend(luasKeringCur - luasKeringBase, 'Ha')}
+                            <div style="margin-top:8px; border-top:1px dashed #cbd5e1; padding-top:6px;">
+                                <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">YIELD PALAWIJA:</div>
+                                <div class="widget-value" style="font-size:12.5px;">${fmt(yieldPbKeringCur)} <span class="widget-unit">Ton/Ha</span></div>
+                                ${isBaseline ? '' : getTrend(deltaYieldPbKering, 'Ton/Ha')}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+            document.getElementById('infographic-container').innerHTML = infoHtml;
+
+            var plotConfig = { responsive: true, displayModeBar: false };
+            var globalFont = { family: 'Plus Jakarta Sans, sans-serif' };
+
+            // CHARTS PLOTLY
+            Plotly.newPlot('chart-lulc-pie', [{
+                labels: ['Hutan', 'Kebun', 'Semak', 'Pertanian Lahan Kering', 'Sawah', 'Tambang', 'Lahan Terbangun', 'Air'],
+                values: [cur.luas_hutan_ha||0, cur.luas_kebun_ha||0, cur.luas_semak_ha||0, luasKeringCur, luasSawahCur, cur.luas_tambang_ha||0, cur.luas_terbangun_ha||0, cur.luas_air_ha||0],
+                type: 'pie', hole: 0.62, marker: { colors: ['#2e7d32', '#8fa876', '#e0d3c1', '#ff6600', '#ffff00', '#aa00ff', '#ff0000', '#0288d1'] }, textinfo: 'none', hovertemplate: '<b>%{label}</b><br>%{value:,.1f} Ha<extra></extra>'
+            }], { margin: { t:10, b:10, l:10, r:10 }, font: globalFont, showlegend: false }, plotConfig);
+
+            Plotly.newPlot('chart-land-dynamics', [{ 
+                x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
+                y: isBaseline ? [luasSawahCur, luasKeringCur] : [luasSawahCur - luasSawahBase, luasKeringCur - luasKeringBase], 
+                type: 'bar', 
+                marker: { color: ['#eab308', '#f97316'], line: { width: 0 } }, 
+                hovertemplate: '<b>%{x}</b>: %{y:+,.1f} Ha<extra></extra>' 
+            }], { 
+                margin: { t: 15, b: 38, l: 45, r: 10 }, font: globalFont, 
+                xaxis: { tickfont: { size: 9, weight: 700 }, automargin: true, tickangle: 0 },
+                yaxis: { title: 'Ha', titlefont: { size: 10, weight: 800 }, showgrid: false, zeroline: true, zerolinecolor: '#cbd5e1' } 
+            }, plotConfig);
+
+            var prodSawahRibu = prodPbSawahCurVal / 1000.0;
+            var prodKeringRibu = prodPbKeringCurVal / 1000.0;
+            var energiSawahJuta = energiSawahCur / 1000000.0;
+            var energiKeringJuta = energiKeringCur / 1000000.0;
+            var limitProd = Math.max(prodSawahRibu, prodKeringRibu, 5) * 1.25;
+            var limitEnergi = Math.max(energiSawahJuta, energiKeringJuta, 10) * 1.25;
+
+            Plotly.newPlot('chart-prod', [
+                { 
+                    x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
+                    y: [prodSawahRibu, prodKeringRibu], 
+                    name: 'Produksi (Ribu Ton)', 
+                    type: 'bar', offsetgroup: '1', 
+                    marker: { color: ['#fde047', '#fdba74'], line: { color: ['#ca8a04', '#c2410c'], width: 1.5 } }, 
+                    hovertemplate: '<b>%{x}</b><br>Produksi: %{y:,.2f} Ribu Ton<extra></extra>' 
+                },
+                { 
+                    x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
+                    y: [energiSawahJuta, energiKeringJuta], 
+                    name: 'Energi (Juta MCal)', 
+                    type: 'bar', yaxis: 'y2', offsetgroup: '2', 
+                    marker: { line: { color: ['#ca8a04', '#c2410c'], width: 1.5 }, pattern: { shape: '/', fgcolor: ['#ca8a04', '#c2410c'], size: 5 } }, 
+                    hovertemplate: '<b>%{x}</b><br>Energi: %{y:,.2f} Juta MCal<extra></extra>' 
+                }
+            ], { 
+                barmode: 'group', margin: { t: 10, b: 45, l: 60, r: 60 }, 
+                xaxis: { showgrid: false, tickfont: { size: 9, weight: 700 }, automargin: true, tickangle: 0 },
+                yaxis: { title: 'Ribu Ton', titlefont: { size: 9.5, weight: 800 }, range: [0, limitProd], showgrid: false, zeroline: true, zerolinecolor: '#cbd5e1', tickfont: { size: 8.5 } }, 
+                yaxis2: { title: 'Juta MCal', titlefont: { size: 9.5, weight: 800 }, overlaying: 'y', side: 'right', range: [0, limitEnergi], showgrid: false, zeroline: false, tickfont: { size: 8.5 } }, 
+                showlegend: true, legend: { orientation: 'h', y: -0.25, x: 0.5, xanchor: 'center', font: { size: 9, weight: 700 } }, font: globalFont 
+            }, plotConfig);
+
+            // Radar Charts
+            const getClimateDelta = (dataObj, tipeLahan, varName) => {
+                const keys = [`delta_${tipeLahan}_${varName}`, `delta_${varName}_${tipeLahan}`, `${tipeLahan}_${varName}`, `delta_${varName}`];
+                for (let k of keys) {
+                    if (dataObj[k] !== undefined && dataObj[k] !== null && !isNaN(dataObj[k])) return parseFloat(dataObj[k]);
+                }
+                return 0;
+            };
+
+            var tas_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'tas') : 0;
+            var pr_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'pr') : 0;
+            var hurs_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'hurs') : 0;
+            var mrso_sw = (luasSawahCur > 0) ? getClimateDelta(cur, 'sawah', 'mrso') : 0;
+
+            var tas_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'tas') : 0;
+            var pr_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'pr') : 0;
+            var hurs_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'hurs') : 0;
+            var mrso_kr = (luasKeringCur > 0) ? getClimateDelta(cur, 'kering', 'mrso') : 0;
+
+            const normalizeResponsive = (hurs, tas, mrso, pr, hasLand) => {
+                if (!hasLand || isBaseline) return [50, 50, 50, 50];
+                var r_hurs = 50 + Math.max(-40, Math.min(40, (hurs / 2.0) * 40));
+                var r_tas = 50 + Math.max(-40, Math.min(40, (tas / 0.5) * 40));
+                var r_mrso = 50 + Math.max(-40, Math.min(40, (mrso / 0.005) * 40));
+                var r_pr = 50 + Math.max(-40, Math.min(40, (pr / 30.0) * 40));
+                return [r_hurs, r_tas, r_mrso, r_pr];
+            };
+
+            var r_sawah = normalizeResponsive(hurs_sw, tas_sw, mrso_sw, pr_sw, luasSawahCur > 0);
+            r_sawah.push(r_sawah[0]);
+            var r_kering = normalizeResponsive(hurs_kr, tas_kr, mrso_kr, pr_kr, luasKeringCur > 0);
+            r_kering.push(r_kering[0]);
+
+            var theta_labels = ['Kelembapan<br>Udara', 'Suhu<br>Udara', 'Kelembapan<br>Tanah', 'Curah<br>Hujan', 'Kelembapan<br>Udara'];
+
+            var text_sawah = (luasSawahCur > 0) ? [
+                `Status: ${getStatusText(hurs_sw, 0.01)} (${hurs_sw > 0 ? '+' : ''}${hurs_sw.toFixed(2)} %)`,
+                `Status: ${getStatusText(tas_sw, 0.001)} (${tas_sw > 0 ? '+' : ''}${tas_sw.toFixed(2)} °C)`,
+                `Status: ${getStatusText(mrso_sw, 0.00005)} (${mrso_sw > 0 ? '+' : ''}${mrso_sw.toFixed(4)} m³/m³)`,
+                `Status: ${getStatusText(pr_sw, 0.05)} (${pr_sw > 0 ? '+' : ''}${pr_sw.toFixed(1)} mm)`,
+                `Status: ${getStatusText(hurs_sw, 0.01)} (${hurs_sw > 0 ? '+' : ''}${hurs_sw.toFixed(2)} %)`
+            ] : ['Tidak terdapat sawah', 'Tidak terdapat sawah', 'Tidak terdapat sawah', 'Tidak terdapat sawah', 'Tidak terdapat sawah'];
+
+            var text_kering = (luasKeringCur > 0) ? [
+                `Status: ${getStatusText(hurs_kr, 0.01)} (${hurs_kr > 0 ? '+' : ''}${hurs_kr.toFixed(2)} %)`,
+                `Status: ${getStatusText(tas_kr, 0.001)} (${tas_kr > 0 ? '+' : ''}${tas_kr.toFixed(2)} °C)`,
+                `Status: ${getStatusText(mrso_kr, 0.00005)} (${mrso_kr > 0 ? '+' : ''}${mrso_kr.toFixed(4)} m³/m³)`,
+                `Status: ${getStatusText(pr_kr, 0.05)} (${pr_kr > 0 ? '+' : ''}${pr_kr.toFixed(1)} mm)`,
+                `Status: ${getStatusText(hurs_kr, 0.01)} (${hurs_kr > 0 ? '+' : ''}${hurs_kr.toFixed(2)} %)`
+            ] : ['Tidak terdapat lahan kering', 'Tidak terdapat lahan kering', 'Tidak terdapat lahan kering', 'Tidak terdapat lahan kering', 'Tidak terdapat lahan kering'];
+
+            var radarLayout = {
+                margin: { t: 15, b: 18, l: 12, r: 12 },
+                polar: {
+                    domain: { x: [0.15, 0.85], y: [0.03, 0.97] },
+                    radialaxis: { visible: true, range: [0, 100], tickvals: [20, 50, 80], ticktext: ['-', '0', '+'], tickfont: { size: 7.5, color: '#94a3b8', weight: 700 }, gridcolor: '#e2e8f0', linecolor: '#cbd5e1' },
+                    angularaxis: { tickfont: { size: 8, color: '#334155', weight: 800 }, rotation: 90, direction: 'clockwise' }
+                },
+                showlegend: false, font: globalFont
+            };
+
+            Plotly.newPlot('radar-sawah', [{ 
+                type: 'scatterpolar', r: r_sawah, theta: theta_labels, text: text_sawah, 
+                hovertemplate: '<b>%{theta}</b><br>%{text}<extra></extra>', fill: luasSawahCur > 0 ? 'toself' : 'none', 
+                fillcolor: 'rgba(14, 165, 233, 0.25)', line: { color: luasSawahCur > 0 ? '#0ea5e9' : '#94a3b8', width: 2, dash: luasSawahCur > 0 ? 'solid' : 'dot' }, 
+                marker: { size: luasSawahCur > 0 ? 5 : 2, color: '#0284c7' } 
+            }], radarLayout, plotConfig);
+
+            Plotly.newPlot('radar-kering', [{ 
+                type: 'scatterpolar', r: r_kering, theta: theta_labels, text: text_kering, 
+                hovertemplate: '<b>%{theta}</b><br>%{text}<extra></extra>', fill: luasKeringCur > 0 ? 'toself' : 'none', 
+                fillcolor: 'rgba(249, 115, 22, 0.25)', line: { color: luasKeringCur > 0 ? '#f97316' : '#94a3b8', width: 2, dash: luasKeringCur > 0 ? 'solid' : 'dot' }, 
+                marker: { size: luasKeringCur > 0 ? 5 : 2, color: '#ea580c' } 
+            }], radarLayout, plotConfig);
+
+            document.getElementById('radar-sawah-status').innerHTML = renderClimateStatusHtmlSawah(tas_sw, pr_sw, hurs_sw, mrso_sw, luasSawahCur > 0);
+            document.getElementById('radar-kering-status').innerHTML = renderClimateStatusHtmlKering(tas_kr, pr_kr, hurs_kr, mrso_kr, luasKeringCur > 0);
+
+            // 4. KUADRAN KEBIJAKAN SPASIAL (PLOTLY)
+            var neracaJuta = neracaEnergiCur / 1000000.0;
+            var maxGapJuta = Math.max(Math.abs(neracaJuta), 15.0) * 1.35;
+            var infoColor = (infoIndex >= 0.5) ? '#10b981' : '#ef4444';
+            var infoGlow = (infoIndex >= 0.5) ? 'rgba(16, 185, 129, 0.3)' : 'rgba(239, 68, 68, 0.3)';
+
+            var haloTrace = {
+                x: [neracaJuta],
+                y: [aksesJalan],
+                mode: 'markers',
+                marker: { size: 36, color: infoGlow, line: { width: 1.5, color: infoColor } },
+                hoverinfo: 'skip',
+                showlegend: false
+            };
+
+            var coreTrace = {
+                x: [neracaJuta],
+                y: [aksesJalan],
+                mode: 'markers',
+                marker: {
+                    size: 16,
+                    color: infoColor,
+                    line: { width: 3, color: '#ffffff' }
+                },
+                hovertemplate: `<b>${kec}</b><br>` +
+                               `Neraca Energi: %{x:,.2f} Juta MCal<br>` +
+                               `Indeks Aksesibilitas Jalan: %{y:.2f} (${aksesJalan >= 0.5 ? 'Tinggi' : 'Rendah'})<br>` +
+                               `Akses Informasi: ${fmt(infoIndex, 2)} (${infoIndex >= 0.5 ? 'Tinggi' : 'Rendah'})<extra></extra>`,
+                showlegend: false
+            };
+
+            var matrixLayout = {
+                margin: { t: 25, b: 42, l: 52, r: 25 },
+                font: globalFont,
+                plot_bgcolor: '#ffffff',
+                xaxis: {
+                    title: { text: 'Defisit ◄── Neraca Energi (Juta MCal) ──► Surplus', font: { size: 9.5, color: '#475569', weight: 800 } },
+                    range: [-maxGapJuta, maxGapJuta],
+                    zeroline: false,
+                    showgrid: true,
+                    gridcolor: 'rgba(226, 232, 240, 0.7)',
+                    tickfont: { size: 9, color: '#64748b', weight: 700 }
+                },
+                yaxis: {
+                    title: { text: 'Indeks Aksesibilitas Jalan', font: { size: 9.5, color: '#475569', weight: 800 }, standoff: 6 },
+                    range: [-0.03, 1.05],
+                    tickmode: 'array',
+                    tickvals: [0.0, 0.25, 0.50, 0.75, 1.0],
+                    ticktext: ['0.00', '0.25', '0.50', '0.75', '1.00'],
+                    tickfont: { size: 8.5, color: '#64748b', weight: 700 },
+                    zeroline: false,
+                    showgrid: true,
+                    gridcolor: 'rgba(226, 232, 240, 0.7)'
+                },
+                shapes: [
+                    { type: 'rect', x0: 0, x1: maxGapJuta, y0: 0.5, y1: 1.05, fillcolor: 'rgba(16, 185, 129, 0.05)', line: { width: 0 }, layer: 'below' },
+                    { type: 'rect', x0: -maxGapJuta, x1: 0, y0: 0.5, y1: 1.05, fillcolor: 'rgba(245, 158, 11, 0.05)', line: { width: 0 }, layer: 'below' },
+                    { type: 'rect', x0: -maxGapJuta, x1: 0, y0: -0.03, y1: 0.5, fillcolor: 'rgba(239, 68, 68, 0.05)', line: { width: 0 }, layer: 'below' },
+                    { type: 'rect', x0: 0, x1: maxGapJuta, y0: -0.03, y1: 0.5, fillcolor: 'rgba(14, 165, 233, 0.05)', line: { width: 0 }, layer: 'below' },
+                    { type: 'line', x0: 0, x1: 0, y0: -0.03, y1: 1.05, line: { color: '#94a3b8', width: 1.5, dash: 'dot' } },
+                    { type: 'line', x0: -maxGapJuta, x1: maxGapJuta, y0: 0.5, y1: 0.5, line: { color: '#94a3b8', width: 1.5, dash: 'dot' } }
+                ],
+                annotations: [
+                    { x: maxGapJuta * 0.96, y: 1.0, text: '<span style="background:#dcfce7; color:#15803d; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #bbf7d0;">I. SURPLUS STRATEGIS</span>', showarrow: false, xanchor: 'right' },
+                    { x: -maxGapJuta * 0.96, y: 1.0, text: '<span style="background:#fef3c7; color:#b45309; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #fde68a;">II. DEFISIT STRATEGIS</span>', showarrow: false, xanchor: 'left' },
+                    { x: -maxGapJuta * 0.96, y: 0.02, text: '<span style="background:#fee2e2; color:#b91c1c; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #fecaca;">III. DEFISIT TERISOLIR</span>', showarrow: false, xanchor: 'left' },
+                    { x: maxGapJuta * 0.96, y: 0.02, text: '<span style="background:#e0d3c1; color:#854d0e; padding:3px 8px; border-radius:4px; font-weight:800; font-size:8.5px; border:1px solid #fde68a;">IV. SURPLUS TERISOLIR</span>', showarrow: false, xanchor: 'right' }
+                ]
+            };
+
+            Plotly.newPlot('matrix-chart', [haloTrace, coreTrace], matrixLayout, plotConfig);
+        };
+
+        if (!masterTabularData) {
+            fetch('./data_web.json')
+                .then(res => res.json())
+                .then(data => {
+                    masterTabularData = data;
+                    renderView(masterTabularData);
+                })
+                .catch(err => console.error("Error JSON Tabular:", err));
+        } else {
+            renderView(masterTabularData);
+        }
     }
 
-    // FUNGSI GANTI TAHUN TERPADU (SINKRONISASI BANNER & SIDEBAR)
+    // FUNGSI GANTI TAHUN TERPADU
     function changeYear(tahun) {
         currentTahun = parseInt(tahun);
         
-        // 1. Sinkronisasi dropdown di banner atas
         var topSelect = document.getElementById('tahun-select');
         if (topSelect) topSelect.value = currentTahun;
 
-        // 2. Sinkronisasi tombol tab tahun di sidebar
         document.querySelectorAll('.year-tab-btn').forEach(btn => {
             if (parseInt(btn.getAttribute('data-year')) === currentTahun) {
                 btn.classList.add('active');
@@ -1210,10 +1255,8 @@
             }
         });
 
-        // 3. Update layer raster tanpa mereset posisi map
         loadRasterPNG(currentTahun);
 
-        // 4. Jika ada kecamatan yang sedang aktif, muat ulang datanya tanpa re-fly peta
         if (activeKecamatan) { 
             loadDetailData(activeKecamatan, currentTahun, null); 
         }
