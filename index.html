@@ -628,7 +628,7 @@
             </div>
 
             <div class="kpi-card">
-                <div class="kpi-label">Neraca Bersih Energi</div>
+                <div class="kpi-label">Neraca Kalori</div>
                 <div id="kpi-gap" class="kpi-value" style="font-size: 14px;">-</div>
                 <div class="kpi-footer">
                     <span style="font-size: 9px; color: #94a3b8; font-weight: 700;">Status:</span>
@@ -655,10 +655,10 @@
             </div>
         </div>
 
-        <!-- 3. KAPASITAS PRODUKSI & NERACA ENERGI -->
-        <div class="section-separator">Kapasitas Produksi & Neraca Energi</div>
+        <!-- 3. KAPASITAS PRODUKSI & NERACA KALORI -->
+        <div class="section-separator">Kapasitas Produksi & Neraca Kalori</div>
         
-        <div id="infographic-container">Memuat visualisasi kapasitas energi...</div>
+        <div id="infographic-container">Memuat visualisasi kapasitas kalori...</div>
 
         <div class="grid-2">
             <div class="chart-card"><h4>Komposisi Tutupan Lahan</h4><div id="chart-lulc-pie" class="chart-box"></div></div>
@@ -666,7 +666,7 @@
         </div>
 
         <div class="chart-card">
-            <h4>Produksi Bersih Pangan vs Ketersediaan Energi</h4>
+            <h4>Produksi Bersih Pangan vs Ketersediaan Kalori</h4>
             <div id="chart-prod" class="chart-box"></div>
         </div>
 
@@ -1000,7 +1000,7 @@
                 <div style="margin-bottom: 10px;">
                     <span style="font-size: 12px; font-weight: 800; color: #0f172a;">Analisis Kondisi Wilayah:</span><br>
                     <span style="color: #334155;">Pada tahun <b>${tahun}</b>, <b>${kec}</b> berpopulasi <b>${fmt(popCur, 0)} Jiwa</b> 
-                    dengan neraca energi <b style="color: ${statusWarna};">${statusTeks}</b> sebesar <b>${fmt(Math.abs(neracaEnergiCur), 0)} MCal</b>. 
+                    dengan neraca kalori <b style="color: ${statusWarna};">${statusTeks}</b> sebesar <b>${fmt(Math.abs(neracaEnergiCur), 0)} MCal</b>. 
                     Aksesibilitas jalan berada pada kategori <b>${aksesTeks}</b> (${fmt(aksesJalan, 2)}).<br>
                     Secara spasial, wilayah ini masuk dalam <b style="color: ${kuadranColor}; padding: 2px 6px; background: ${kuadranColor}15; border-radius: 6px; font-weight: 900;">${kuadranTitle}</b>.</span>
                 </div>
@@ -1048,7 +1048,7 @@
             
             var infoHtml = `
                 <div class="info-section">
-                    <div class="info-title">Pencapaian Kebutuhan Energi Pangan</div>
+                    <div class="info-title">Pencapaian Kebutuhan Kalori</div>
                     <div style="font-size:11px; color:#475569; display:flex; justify-content:space-between; font-weight:700;">
                         <span>Suplai: <b>${fmt(energiTersediaCur, 0)} MCal</b></span>
                         <span>Target: <b>${fmt(kebutuhanEnergiCur, 0)} MCal</b></span>
@@ -1064,7 +1064,7 @@
                 </div>
 
                 <div class="info-section">
-                    <div class="info-title">Dinamika Luas & Produktivitas Komoditas</div>
+                    <div class="info-title">Dinamika Luas & Produktivitas Lahan Pertanian</div>
                     <div class="widget-grid">
                         <div class="widget-card widget-sawah">
                             <div class="widget-label">LAHAN SAWAH</div>
@@ -1132,10 +1132,10 @@
                 { 
                     x: ['Sawah', 'Pertanian<br>Lahan Kering'], 
                     y: [energiSawahJuta, energiKeringJuta], 
-                    name: 'Energi (Juta MCal)', 
+                    name: 'Kalori (Juta MCal)', 
                     type: 'bar', yaxis: 'y2', offsetgroup: '2', 
                     marker: { line: { color: ['#ca8a04', '#c2410c'], width: 1.5 }, pattern: { shape: '/', fgcolor: ['#ca8a04', '#c2410c'], size: 5 } }, 
-                    hovertemplate: '<b>%{x}</b><br>Energi: %{y:,.2f} Juta MCal<extra></extra>' 
+                    hovertemplate: '<b>%{x}</b><br>Kalori: %{y:,.2f} Juta MCal<extra></extra>' 
                 }
             ], { 
                 barmode: 'group', margin: { t: 10, b: 45, l: 60, r: 60 }, 
@@ -1248,7 +1248,7 @@
                     line: { width: 3, color: '#ffffff' }
                 },
                 hovertemplate: `<b>${kec}</b><br>` +
-                               `Neraca Energi: %{x:,.2f} Juta MCal<br>` +
+                               `Neraca Kalori: %{x:,.2f} Juta MCal<br>` +
                                `Indeks Aksesibilitas Jalan: %{y:.2f} (${aksesJalan >= 0.5 ? 'Tinggi' : 'Rendah'})<br>` +
                                `Akses Informasi: ${fmt(infoIndex, 2)} (${infoIndex >= 0.5 ? 'Tinggi' : 'Rendah'})<extra></extra>`,
                 showlegend: false
@@ -1259,7 +1259,7 @@
                 font: globalFont,
                 plot_bgcolor: '#ffffff',
                 xaxis: {
-                    title: { text: 'Defisit ◄── Neraca Energi (Juta MCal) ──► Surplus', font: { size: 9.5, color: '#475569', weight: 800 } },
+                    title: { text: 'Defisit ◄── Neraca Kalori (Juta MCal) ──► Surplus', font: { size: 9.5, color: '#475569', weight: 800 } },
                     range: [-maxGapJuta, maxGapJuta],
                     zeroline: false,
                     showgrid: true,
