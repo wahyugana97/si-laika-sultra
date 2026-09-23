@@ -414,41 +414,32 @@
         <div class="logo-container">
             <svg viewBox="0 0 1160 100" style="height: 100%; width: auto;" preserveAspectRatio="xMidYMid meet">
                 <defs>
-                    <!-- 1. BANK SULTRA NAVY BLUE RADIAL GRADIENT -->
                     <radialGradient id="sultraNavy3D" cx="40%" cy="35%" r="75%">
                         <stop offset="0%" stop-color="#1B3B6F" />
                         <stop offset="60%" stop-color="#0A192F" />
                         <stop offset="100%" stop-color="#050C1E" />
                     </radialGradient>
 
-                    <!-- 2. BANK SULTRA VIBRANT AMBER GOLD GRADIENT -->
                     <linearGradient id="sultraGold" x1="0%" y1="0%" x2="100%" y2="100%">
                         <stop offset="0%" stop-color="#FFD000" />
                         <stop offset="40%" stop-color="#FF9E00" />
                         <stop offset="100%" stop-color="#E07A00" />
                     </linearGradient>
 
-                    <!-- 3. EMERALD GREEN UNTUK LAHAN/PANGAN -->
                     <linearGradient id="sultraGreen" x1="0%" y1="0%" x2="100%" y2="100%">
                         <stop offset="0%" stop-color="#34D399" />
                         <stop offset="100%" stop-color="#059669" />
                     </linearGradient>
 
-                    <!-- 4. EFEK GLOW AMBER GOLD -->
                     <filter id="glowEffect" x="-20%" y="-20%" width="140%" height="140%">
                         <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#FF9E00" flood-opacity="0.35" />
                     </filter>
                 </defs>
 
-                <!-- EMBLEM LOGO SPASIAL SI-LAIKA -->
                 <g transform="translate(4, 0)">
-                    <!-- Outer Orbit Ring (Emas Putus-Putus Spasial) -->
                     <circle cx="50" cy="50" r="47" fill="none" stroke="url(#sultraGold)" stroke-width="2.5" stroke-dasharray="6 3" opacity="0.9" />
-                    
-                    <!-- Main Emblem Circle (Bank Sultra Deep Navy) -->
                     <circle cx="50" cy="50" r="42" fill="url(#sultraNavy3D)" stroke="#FFFFFF" stroke-width="1.8" filter="url(#glowEffect)" />
 
-                    <!-- Spasial Grid Lines -->
                     <g opacity="0.25" stroke="#60A5FA" stroke-width="0.7" fill="none">
                         <circle cx="50" cy="50" r="32" stroke-dasharray="2 2" />
                         <circle cx="50" cy="50" r="20" />
@@ -456,9 +447,7 @@
                         <line x1="10" y1="50" x2="90" y2="50" />
                     </g>
 
-                    <!-- RUMAH ADAT TOLAKI (LAIKA) - DETAIL LENGKAP & TIANG KAKI MENYALA -->
                     <g filter="url(#glowEffect)">
-                        <!-- 1. TIANG-TIANG PANGGUNG (STILTS) & GELAGAR LANTAI -->
                         <g stroke="url(#sultraGold)" stroke-width="2.2" stroke-linecap="round">
                             <line x1="32" y1="52" x2="32" y2="68" />
                             <line x1="41" y1="52" x2="41" y2="68" />
@@ -466,11 +455,9 @@
                             <line x1="59" y1="52" x2="59" y2="68" />
                             <line x1="68" y1="52" x2="68" y2="68" />
                         </g>
-                        <!-- Gelagar Penguat / Balok Horizontal & Tataan Bawah -->
                         <line x1="28" y1="62" x2="72" y2="62" stroke="#FFFFFF" stroke-width="1.2" />
                         <line x1="26" y1="68" x2="74" y2="68" stroke="url(#sultraGold)" stroke-width="2" stroke-linecap="round" />
 
-                        <!-- Tangga Masuk Panggung (Penaa) -->
                         <g stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round">
                             <line x1="47" y1="56" x2="44" y2="68" />
                             <line x1="51" y1="56" x2="48" y2="68" />
@@ -478,38 +465,30 @@
                             <line x1="45" y1="63" x2="49" y2="63" />
                         </g>
 
-                        <!-- 2. BADAN RUMAH (DINDING & JENDELA) -->
                         <polygon points="30,42 70,42 67,52 33,52" fill="#0D2342" stroke="url(#sultraGold)" stroke-width="1.5" />
-                        <!-- Jendela Rumah -->
                         <rect x="36" y="44" width="7" height="6" rx="1" fill="#FF9E00" opacity="0.95" />
                         <rect x="57" y="44" width="7" height="6" rx="1" fill="#FF9E00" opacity="0.95" />
 
-                        <!-- 3. ATAP PRISMA TINGGI KHAS LAIKA -->
                         <polygon points="20,42 50,20 80,42 74,44 50,26 26,44" fill="url(#sultraGold)" />
                         <polygon points="25,39 50,18 75,39 50,23" fill="#FFD000" />
 
-                        <!-- 4. ORNAMEN BUBUNGAN SILANG ATAP (KALO SARA) -->
                         <line x1="43" y1="13" x2="57" y2="25" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
                         <line x1="57" y1="13" x2="44" y2="25" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
                         <circle cx="50" cy="19" r="1.8" fill="#FF9E00" stroke="#FFFFFF" stroke-width="1" />
                     </g>
 
-                    <!-- DEKORASI PADI & DAUN SEIMBANG DI DASAR EMBLEM -->
                     <path d="M 16,70 C 12,62 13,50 19,45 C 16,53 20,61 24,65 Z" fill="url(#sultraGreen)" opacity="0.85" />
                     <ellipse cx="80" cy="58" rx="2.5" ry="4.5" transform="rotate(30 80 58)" fill="url(#sultraGold)" />
                     <ellipse cx="83" cy="50" rx="2.2" ry="4.0" transform="rotate(15 83 50)" fill="url(#sultraGold)" />
                     <path d="M 22,82 Q 50,92 78,82" fill="none" stroke="url(#sultraGreen)" stroke-width="2" stroke-linecap="round" />
                 </g>
 
-                <!-- GARIS PEMISAH VERTIKAL -->
                 <line x1="116" y1="14" x2="116" y2="86" stroke="#CBD5E1" stroke-width="1.8" stroke-linecap="round" />
 
-                <!-- JUDUL UTAMA "SI-LAIKA" (FONT OUTFIT ELEGANT) -->
                 <text x="134" y="47" font-family="'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="44" fill="#0A192F" letter-spacing="1">
                     SI-LAIKA
                 </text>
 
-                <!-- BADGE "SULTRA" (DENGAN ANIMASI KELAP-KELIP SLOW) -->
                 <g transform="translate(365, 12)" class="sultra-badge-pulse">
                     <rect width="110" height="36" rx="8" fill="#FF9E00" />
                     <text x="55" y="24" font-family="'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="16" fill="#0A192F" text-anchor="middle" letter-spacing="2">
@@ -517,7 +496,6 @@
                     </text>
                 </g>
 
-                <!-- KEPANJANGAN LENGKAP (INISIAL SERAGAM BIRU DONGKER NAVY #0A192F) -->
                 <text x="136" y="81" font-family="'Plus Jakarta Sans', system-ui, sans-serif" fill="#475569" font-size="17" font-weight="700" letter-spacing="0.1">
                     <tspan fill="#0A192F" font-size="24" font-weight="900">S</tspan>istem 
                     <tspan fill="#0A192F" font-size="24" font-weight="900">I</tspan>ntegrasi 
@@ -552,7 +530,6 @@
     <!-- PETA UTAMA -->
     <div id="map"></div>
 
-    <!-- FLOATING HUD GUIDE -->
     <div class="map-hud-prompt">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0284c7" stroke-width="2.5"><path d="M15 15l6 6m-11-4a7 7 0 110-14 7 7 0 010 14z"/></svg>
         <span>klik poligon kecamatan untuk membuka informasi detail</span>
@@ -561,7 +538,6 @@
     <!-- SIDEBAR MENGAMBANG -->
     <div id="detail-panel">
         
-        <!-- HEADER STICKY (JUDUL + TOMBOL TUTUP + BAR TAHUN TETAP MENEMPEL SAAT SCROLL) -->
         <div class="sidebar-sticky-header">
             <div class="panel-header">
                 <div>
@@ -571,7 +547,6 @@
                 <button class="reset-btn" onclick="resetPanel()">✕ Tutup</button>
             </div>
 
-            <!-- TOMBOL GANTI TAHUN PROYEKSI DI DALAM SIDEBAR -->
             <div class="panel-year-bar" id="sidebar-year-tabs">
                 <button class="year-tab-btn" data-year="2020" onclick="changeYear(2020)">2020</button>
                 <button class="year-tab-btn active" data-year="2025" onclick="changeYear(2025)">2025</button>
@@ -693,7 +668,6 @@
     var map, geojsonLayer, currentRasterLayer;
     var geojsonData = null;
 
-    // BASEMAPS
     var esriOcean = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; GEBCO, NOAA, CHS',
         maxNativeZoom: 9,
@@ -731,7 +705,7 @@
         "Minimalis (Carto)": cartoLight
     }, null, { position: 'topleft' }).addTo(map);
 
-    // LEGENDA PETA LULC
+    // LEGENDA PETA LULC DENGAN KETERANGAN "LAHAN TERBUKA" & "BADAN AIR"
     var legend = L.control({position: 'bottomleft'});
     legend.onAdd = function () {
         var div = L.DomUtil.create('div', 'lulc-legend');
@@ -740,19 +714,18 @@
             <div class="legend-grid">
                 <div class="legend-item"><i class="legend-color" style="background:#2e7d32;"></i>Hutan</div>
                 <div class="legend-item"><i class="legend-color" style="background:#8fa876;"></i>Kebun</div>
-                <div class="legend-item"><i class="legend-color" style="background:#e0d3c1;"></i>Semak</div>
+                <div class="legend-item"><i class="legend-color" style="background:#e0d3c1;"></i>Lahan Terbuka</div>
                 <div class="legend-item"><i class="legend-color" style="background:#ff6600;"></i>Pertanian Lahan Kering</div>
                 <div class="legend-item"><i class="legend-color" style="background:#ffff00;"></i>Lahan Sawah</div>
                 <div class="legend-item"><i class="legend-color" style="background:#aa00ff;"></i>Tambang</div>
                 <div class="legend-item"><i class="legend-color" style="background:#ff0000;"></i>Lahan Terbangun</div>
-                <div class="legend-item"><i class="legend-color" style="background:#0288d1;"></i>Air</div>
+                <div class="legend-item"><i class="legend-color" style="background:#0288d1;"></i>Badan Air</div>
             </div>
         `;
         return div;
     };
     legend.addTo(map);
 
-    // 1. PEMBACAAN GEOJSON STATIS
     function loadGeoJSONPolygons() {
         fetch('./geojson-kecamatan/kecamatan_sultra_web.geojson')
             .then(res => res.json())
@@ -763,7 +736,6 @@
             .catch(err => console.error("Error GeoJSON:", err));
     }
 
-    // STYLE BATAS KECAMATAN NATURAL
     function renderPolygons() {
         if (geojsonLayer) map.removeLayer(geojsonLayer);
         geojsonLayer = L.geoJSON(geojsonData, {
@@ -802,7 +774,6 @@
         }).addTo(map);
     }
 
-    // 2. PEMBACAAN RASTER PNG STATIS
     var fixedRasterBounds = null;
 
     function loadRasterPNG(tahun) {
@@ -884,7 +855,6 @@
         `;
     }
 
-    // 3. PEMBACAAN DATA TABULAR JSON STATIS
     var masterTabularData = null;
 
     function loadDetailData(kec, tahun, polygonLayer) {
@@ -934,17 +904,17 @@
             var luasSawahBase = base.luas_sawah_ha ?? 0; var luasKeringBase = base.luas_kering_ha ?? 0;
             
             var prodPbSawahCurVal = (luasSawahCur === 0) ? 0 : (cur.total_pb_sawah_ton ?? 0);
-            var yieldPbSawahCur = (luasSawahCur === 0) ? 0 : (cur.yield_pb_sawah_ton_ha ?? 0);
-            var deltaYieldPbSawah = cur.delta_yield_pb_sawah_ton_ha ?? 0;
+            var prodPbSawahBaseVal = (luasSawahBase === 0) ? 0 : (base.total_pb_sawah_ton ?? 0);
+            var deltaProdPbSawah = cur.delta_total_pb_sawah_ton ?? (prodPbSawahCurVal - prodPbSawahBaseVal);
             var energiSawahCur = (luasSawahCur === 0) ? 0 : (cur.total_e_sawah_mcal ?? 0);
 
             var prodPbKeringCurVal = (luasKeringCur === 0) ? 0 : (cur.total_pb_kering_ton ?? 0);
-            var yieldPbKeringCur = (luasKeringCur === 0) ? 0 : (cur.yield_pb_kering_ton_ha ?? 0);
-            var deltaYieldPbKering = cur.delta_yield_pb_kering_ton_ha ?? 0;
+            var prodPbKeringBaseVal = (luasKeringBase === 0) ? 0 : (base.total_pb_kering_ton ?? 0);
+            var deltaProdPbKering = cur.delta_total_pb_kering_ton ?? (prodPbKeringCurVal - prodPbKeringBaseVal);
             var energiKeringCur = (luasKeringCur === 0) ? 0 : (cur.total_e_kering_mcal ?? 0);
 
             var fmt = (val, d = 2) => Number(val || 0).toLocaleString('id-ID', {minimumFractionDigits: d, maximumFractionDigits: d});
-            const getTrend = (delta, unit) => delta === 0 ? `<span class="trend-badge trend-neutral">■ Stabil</span>` : `<span class="trend-badge ${delta>0?'trend-up':'trend-down'}">${delta>0?'▲ +':'▼ '}${fmt(Math.abs(delta),2)} ${unit}</span>`;
+            const getTrend = (delta, unit) => delta === 0 ? `<span class="trend-badge trend-neutral">■ Stabil</span>` : `<span class="trend-badge ${delta>0?'trend-up':'trend-down'}">${delta>0?'▲ +':'▼ '}${fmt(Math.abs(delta),1)} ${unit}</span>`;
 
             var isSurplus = rasioNeracaCur >= 1;
             var statusWarna = isSurplus ? '#15803d' : '#b91c1c';
@@ -1064,16 +1034,16 @@
                 </div>
 
                 <div class="info-section">
-                    <div class="info-title">Dinamika Luas & Produktivitas Lahan Pertanian</div>
+                    <div class="info-title">Dinamika Luas & Produksi Lahan Pertanian</div>
                     <div class="widget-grid">
                         <div class="widget-card widget-sawah">
                             <div class="widget-label">LAHAN SAWAH</div>
                             <div class="widget-value">${fmt(luasSawahCur)} <span class="widget-unit">Ha</span></div>
                             ${isBaseline ? '' : getTrend(luasSawahCur - luasSawahBase, 'Ha')}
                             <div style="margin-top:8px; border-top:1px dashed #cbd5e1; padding-top:6px;">
-                                <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">YIELD BERAS:</div>
-                                <div class="widget-value" style="font-size:12.5px;">${fmt(yieldPbSawahCur)} <span class="widget-unit">Ton/Ha</span></div>
-                                ${isBaseline ? '' : getTrend(deltaYieldPbSawah, 'Ton/Ha')}
+                                <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">PRODUKSI BERAS:</div>
+                                <div class="widget-value" style="font-size:12.5px;">${fmt(prodPbSawahCurVal, 1)} <span class="widget-unit">Ton</span></div>
+                                ${isBaseline ? '' : getTrend(deltaProdPbSawah, 'Ton')}
                             </div>
                         </div>
                         <div class="widget-card widget-kering">
@@ -1081,9 +1051,9 @@
                             <div class="widget-value">${fmt(luasKeringCur)} <span class="widget-unit">Ha</span></div>
                             ${isBaseline ? '' : getTrend(luasKeringCur - luasKeringBase, 'Ha')}
                             <div style="margin-top:8px; border-top:1px dashed #cbd5e1; padding-top:6px;">
-                                <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">YIELD PALAWIJA:</div>
-                                <div class="widget-value" style="font-size:12.5px;">${fmt(yieldPbKeringCur)} <span class="widget-unit">Ton/Ha</span></div>
-                                ${isBaseline ? '' : getTrend(deltaYieldPbKering, 'Ton/Ha')}
+                                <div style="font-size:9px; color:#64748b; font-weight:800; margin-bottom:2px;">PRODUKSI PALAWIJA:</div>
+                                <div class="widget-value" style="font-size:12.5px;">${fmt(prodPbKeringCurVal, 1)} <span class="widget-unit">Ton</span></div>
+                                ${isBaseline ? '' : getTrend(deltaProdPbKering, 'Ton')}
                             </div>
                         </div>
                     </div>
@@ -1094,9 +1064,9 @@
             var plotConfig = { responsive: true, displayModeBar: false };
             var globalFont = { family: 'Plus Jakarta Sans, sans-serif' };
 
-            // CHARTS PLOTLY
+            // CHARTS PLOTLY DENGAN LABEL "LAHAN TERBUKA" & "BADAN AIR"
             Plotly.newPlot('chart-lulc-pie', [{
-                labels: ['Hutan', 'Kebun', 'Semak', 'Pertanian Lahan Kering', 'Sawah', 'Tambang', 'Lahan Terbangun', 'Air'],
+                labels: ['Hutan', 'Kebun', 'Lahan Terbuka', 'Pertanian Lahan Kering', 'Sawah', 'Tambang', 'Lahan Terbangun', 'Badan Air'],
                 values: [cur.luas_hutan_ha||0, cur.luas_kebun_ha||0, cur.luas_semak_ha||0, luasKeringCur, luasSawahCur, cur.luas_tambang_ha||0, cur.luas_terbangun_ha||0, cur.luas_air_ha||0],
                 type: 'pie', hole: 0.62, marker: { colors: ['#2e7d32', '#8fa876', '#e0d3c1', '#ff6600', '#ffff00', '#aa00ff', '#ff0000', '#0288d1'] }, textinfo: 'none', hovertemplate: '<b>%{label}</b><br>%{value:,.1f} Ha<extra></extra>'
             }], { margin: { t:10, b:10, l:10, r:10 }, font: globalFont, showlegend: false }, plotConfig);
@@ -1145,7 +1115,6 @@
                 showlegend: true, legend: { orientation: 'h', y: -0.25, x: 0.5, xanchor: 'center', font: { size: 9, weight: 700 } }, font: globalFont 
             }, plotConfig);
 
-            // Radar Charts
             const getClimateDelta = (dataObj, tipeLahan, varName) => {
                 const keys = [`delta_${tipeLahan}_${varName}`, `delta_${varName}_${tipeLahan}`, `${tipeLahan}_${varName}`, `delta_${varName}`];
                 for (let k of keys) {
@@ -1223,7 +1192,6 @@
             document.getElementById('radar-sawah-status').innerHTML = renderClimateStatusHtmlSawah(tas_sw, pr_sw, hurs_sw, mrso_sw, luasSawahCur > 0);
             document.getElementById('radar-kering-status').innerHTML = renderClimateStatusHtmlKering(tas_kr, pr_kr, hurs_kr, mrso_kr, luasKeringCur > 0);
 
-            // 4. KUADRAN KEBIJAKAN SPASIAL (PLOTLY)
             var neracaJuta = neracaEnergiCur / 1000000.0;
             var maxGapJuta = Math.max(Math.abs(neracaJuta), 15.0) * 1.35;
             var infoColor = (infoIndex >= 0.5) ? '#10b981' : '#ef4444';
@@ -1309,7 +1277,6 @@
         }
     }
 
-    // FUNGSI GANTI TAHUN TERPADU
     function changeYear(tahun) {
         currentTahun = parseInt(tahun);
         
