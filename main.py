@@ -224,6 +224,12 @@ def enrich_row_dict(row_series):
   d["luas_kering"] = luas_kering
   d["produksi_bersih_sawah"] = prod_sawah
   d["produksi_bersih_kering"] = prod_kering
+  d["delta_total_pb_sawah_ton"] = round(
+      float(d.get("delta_total_pb_sawah_ton", 0)), 2
+  )
+  d["delta_total_pb_kering_ton"] = round(
+      float(d.get("delta_total_pb_kering_ton", 0)), 2
+  )
 
   d["yield_pk_sawah_ton_ha"] = round(
       float(d.get("yield_pk_sawah_ton_ha", 0)), 2
